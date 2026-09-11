@@ -66,6 +66,22 @@ body {
   max-width: 520px;
 }
 
+.hero-download {
+  display: inline-block;
+  margin-top: 16px;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--red);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.hero-download:hover {
+  background: var(--red-dark);
+}
+
 .stats {
   display: flex;
   gap: 12px;
@@ -105,18 +121,11 @@ body {
   gap: 8px;
   min-height: 180px;
   padding: 20px;
-  text-decoration: none;
   color: inherit;
   background: var(--card);
   border: 1px solid var(--line);
   border-radius: 18px;
   box-shadow: var(--shadow);
-  transition: transform 0.18s ease, border-color 0.18s ease;
-}
-
-.card:hover {
-  transform: translateY(-3px);
-  border-color: #f0b8bf;
 }
 
 .card.latest {
@@ -152,14 +161,22 @@ body {
   font-size: 14px;
 }
 
-.cta {
+.card-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
   margin-top: auto;
-  color: var(--red);
-  font-weight: 700;
 }
 
-.card:hover .cta {
-  color: var(--red-dark);
+.action {
+  color: var(--ink);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.action.primary,
+.action:hover {
+  color: var(--red);
 }
 
 .empty {
