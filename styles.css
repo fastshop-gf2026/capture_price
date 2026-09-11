@@ -66,20 +66,25 @@ body {
   max-width: 520px;
 }
 
-.hero-download {
-  display: inline-block;
+.hero-downloads {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
   margin-top: 16px;
+}
+
+.hero-downloads .action {
   padding: 10px 14px;
   border-radius: 10px;
   background: var(--red);
   color: #fff;
   font-size: 14px;
   font-weight: 700;
-  text-decoration: none;
 }
 
-.hero-download:hover {
+.hero-downloads .action:hover {
   background: var(--red-dark);
+  color: #fff;
 }
 
 .stats {
