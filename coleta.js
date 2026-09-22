@@ -8,7 +8,7 @@
   const closeBtn = $("coleta-fechar");
   const titleEl = $("coleta-titulo");
   const subtitleEl = $("coleta-subtitulo");
-  const jobsEl = $("coleta-jobs");
+  const stepEl = $("coleta-step");
   const barEl = $("coleta-bar");
   const actionsEl = $("coleta-acoes");
   const reportLink = $("coleta-relatorio");
@@ -70,45 +70,28 @@
     throw new Error("A captura ainda não iniciou. Tente de novo em alguns segundos.");
   }
 
-  function statusIcon(status, conclusion) {
-    if (status === "completed" && conclusion === "success") return "ok";
-    if (status === "completed" && conclusion === "skipped") return "skip";
-    if (status === "completed") return "fail";
-    if (status === "in_progress") return "run";
-    return "wait";
+  function setDetail(text) {
+    stepEl.textContent = text || "";
   }
 
-  function renderJobs(jobs, run) {
+  function setProgress(percent) {
+    barEl.style.width = `${Math.max(0, Math.min(100, Math.round(percent)))}%`;
+  }
+
+  function renderProgress(jobs, run) {
     const total = jobs.length || 1;
     const done = jobs.filter((job) => job.status === "completed").length;
     const running = jobs.find((job) => job.status === "in_progress");
-    barEl.style.width = `${Math.round((done / total) * 100)}%`;
+    setProgress((done / total) * 100);
+    setPhase(describeRun(run, running), run.display_title || "");
+    setDetail(currentStep(jobs, running, done, total));
+  }
 
-    const state = describeRun(run, running);
-    setPhase(state, run.display_title || "");
-
-    jobsEl.innerHTML = jobs
-      .map((job) => {
-        const klass = statusIcon(job.status, job.conclusion);
-        const steps = (job.steps || [])
-          .filter((step) => step.name && step.name !== "Set up job" && step.name !== "Complete job")
-          .map((step) => {
-            const stepClass = statusIcon(step.status, step.conclusion);
-            return `<li class="${stepClass}"><span class="dot"></span>${escapeHtml(step.name)}</li>`;
-          })
-          .join("");
-        return `
-          <article class="job ${klass}">
-            <header>
-              <span class="dot"></span>
-              <strong>${escapeHtml(job.name)}</strong>
-              <em>${labelFor(job)}</em>
-            </header>
-            ${steps ? `<ul>${steps}</ul>` : ""}
-          </article>
-        `;
-      })
-      .join("");
+  function currentStep(jobs, running, done, total) {
+    const position = `${Math.min(done + (running ? 1 : 0), total)} de ${total} etapas`;
+    if (!running) return position;
+    const step = (running.steps || []).find((item) => item.status === "in_progress");
+    return step ? `${position} · ${step.name}` : position;
   }
 
   function describeRun(run, running) {
@@ -120,20 +103,10 @@
       : "A coleta terminou com falha";
   }
 
-  function labelFor(item) {
-    if (item.status === "completed" && item.conclusion === "success") return "concluído";
-    if (item.status === "completed" && item.conclusion === "skipped") return "pulado";
-    if (item.status === "completed") return "falhou";
-    if (item.status === "in_progress") return "rodando";
-    return "na fila";
-  }
-
-  function escapeHtml(value) {
-    return String(value)
-      .replaceAll("&", "&amp;")
-      .replaceAll("<", "&lt;")
-      .replaceAll(">", "&gt;")
-      .replaceAll('"', "&quot;");
+  function failedJobs(jobs) {
+    return jobs
+      .filter((job) => job.status === "completed" && job.conclusion === "failure")
+      .map((job) => job.name);
   }
 
   function sleep(ms) {
@@ -143,17 +116,22 @@
   async function pollRun(runId) {
     const payload = await api(`/runs/${runId}`);
     const run = payload.run;
-    renderJobs(payload.jobs || [], run);
+    const jobs = payload.jobs || [];
+    renderProgress(jobs, run);
     if (run.status !== "completed") return false;
     if (pollTimer) {
       clearInterval(pollTimer);
       pollTimer = null;
     }
+    setProgress(100);
     if (run.conclusion === "success") {
       setPhase("Coleta concluída", "O relatório já deve aparecer no site.");
+      setDetail("");
       await revealReport();
     } else {
-      setPhase("A coleta falhou", "Veja os itens em vermelho.");
+      const failed = failedJobs(jobs);
+      setPhase("A coleta falhou", "Chame o time de qualidade com este horário.");
+      setDetail(failed.length ? `Falhou em: ${failed.join(", ")}` : "");
     }
     return true;
   }
@@ -180,13 +158,13 @@
 
   async function startCapture(file) {
     actionsEl.hidden = true;
-    jobsEl.innerHTML = "";
-    barEl.style.width = "8%";
+    setDetail("");
+    setProgress(8);
     setPhase("Enviando planilha", file.name);
     try {
       const uploaded = await uploadPlanilha(file);
       setPhase("Planilha enviada", "Iniciando a captura…");
-      barEl.style.width = "18%";
+      setProgress(18);
       const run = await waitForRun(uploaded.sha);
       await pollRun(run.id);
       pollTimer = setInterval(() => {
@@ -195,7 +173,9 @@
         });
       }, 4000);
     } catch (error) {
+      setProgress(100);
       setPhase("Não foi possível iniciar", error.message);
+      setDetail("");
     }
   }
 

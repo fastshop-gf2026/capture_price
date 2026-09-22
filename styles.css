@@ -253,10 +253,8 @@ footer {
 }
 
 .modal {
-  width: min(640px, 100%);
-  max-height: calc(100vh - 48px);
-  overflow: auto;
-  padding: 24px;
+  width: min(460px, 100%);
+  padding: 22px 24px;
   border-radius: 20px;
   background: var(--card);
   box-shadow: var(--shadow);
@@ -264,7 +262,7 @@ footer {
 
 .modal h2 {
   margin: 0 8px 0 0;
-  font-size: 22px;
+  font-size: 19px;
 }
 
 .modal-head {
@@ -291,7 +289,7 @@ footer {
 
 .progress {
   height: 8px;
-  margin: 18px 0 16px;
+  margin: 18px 0 10px;
   overflow: hidden;
   border-radius: 999px;
   background: #f0ece6;
@@ -305,87 +303,11 @@ footer {
   transition: width 0.3s ease;
 }
 
-.jobs {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
-
-.job {
-  padding: 12px 14px;
-  border: 1px solid var(--line);
-  border-radius: 14px;
-}
-
-.job header {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-.job header em {
-  margin-left: auto;
-  color: var(--muted);
-  font-style: normal;
-  font-size: 12px;
-}
-
-.job ul {
-  margin: 10px 0 0;
-  padding: 0;
-  list-style: none;
-}
-
-.job li {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-top: 6px;
+.modal-step {
+  margin: 0;
+  min-height: 18px;
   color: var(--muted);
   font-size: 13px;
-}
-
-.dot {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: #c8c2b8;
-}
-
-.job.ok,
-.job.ok .dot,
-.job li.ok .dot {
-  background: #1f8a4c;
-}
-
-.job.ok {
-  background: #f3fbf6;
-}
-
-.job.run,
-.job.run .dot,
-.job li.run .dot {
-  background: var(--red);
-}
-
-.job.run {
-  border-color: #f0b8bf;
-  background: #fff8f8;
-}
-
-.job.fail,
-.job.fail .dot,
-.job li.fail .dot {
-  background: var(--red);
-}
-
-.job.fail {
-  background: #fff5f6;
-}
-
-.job.run .dot,
-.job li.run .dot {
-  box-shadow: 0 0 0 4px rgba(214, 0, 28, 0.15);
 }
 
 .modal-actions {

@@ -1,0 +1,114 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "generated_at": "2026-09-22T12:56:27-03:00",
+  "files": [
+    {
+      "sku": "L283GM0003BRB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/L283GM0003BRB_20260922_125501_PDP.png",
+      "captured_at": "2026-09-22T12:55:01-03:00",
+      "url": "https://site.fastshop.com.br/notebook-lenovo-yoga-slim-7i-intel-core-ultra-5--16gb--512gb-ssd--tela-de-14--oled--windows-11---83gm0003br-l283gm0003br_prd-65794/p",
+      "sha256": "b2778fee5cafd3858196d95e013cd1672370e1c23b8ecf165fe58a2f92262303"
+    },
+    {
+      "sku": "L283GM0003BRB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/L283GM0003BRB_20260922_125458_PLP.png",
+      "captured_at": "2026-09-22T12:54:58-03:00",
+      "url": "https://site.fastshop.com.br/s?q=L283GM0003BRB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "d6761cc655b5640a414bbc5cc5e70f462017ff0c77cac54a802c4b27a9b55af7"
+    },
+    {
+      "sku": "NLD62BRAPO2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/NLD62BRAPO2_20260922_125522_PDP.png",
+      "captured_at": "2026-09-22T12:55:22-03:00",
+      "url": "https://site.fastshop.com.br/cafeteira-nespresso-pixie-redesign-azul-e-preta-para-cafe-em-capsula-nld62brapo_prd-94940/p",
+      "sha256": "e6aec12e6732c557a72f7cff47129f28ad16fdbaff836f8d16e0bbec7ceb0a79"
+    },
+    {
+      "sku": "NLD62BRAPO2",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/NLD62BRAPO2_110V_20260922_125522_PDP.png",
+      "captured_at": "2026-09-22T12:55:22-03:00",
+      "url": "https://site.fastshop.com.br/cafeteira-nespresso-pixie-redesign-azul-e-preta-para-cafe-em-capsula-nld62brapo_prd-94940/p",
+      "sha256": "f1b9ecd36752aeb4acc27364e7734c5ada0f1f19114d68012e87b973709f5083"
+    },
+    {
+      "sku": "NLD62BRAPO2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/NLD62BRAPO2_20260922_125520_PLP.png",
+      "captured_at": "2026-09-22T12:55:20-03:00",
+      "url": "https://site.fastshop.com.br/s?q=NLD62BRAPO2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "b38eb6f4c53960ba1eebd6589a2b1773e98fb4683b4585666895a19143da7cd0"
+    },
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LA/WANA34100PTO1_20260922_125500_PDP.png",
+      "captured_at": "2026-09-22T12:55:00-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-airfryer-philips-walita-serie-3000---na341-wana34100pto_prd-95893/p",
+      "sha256": "5f3898a3959c7b32b087ac54166d5e432347ec803e45a5f3130f7515e007d6e6"
+    },
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/LA/WANA34100PTO1_110V_20260922_125502_PDP.png",
+      "captured_at": "2026-09-22T12:55:02-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-airfryer-philips-walita-serie-3000---na341-wana34100pto_prd-95893/p",
+      "sha256": "69a52c71b7f93123f6ee9613dd3c580b11aa1a53296fceda117b3321960fb17a"
+    },
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/LA/WANA34100PTO1_220V_20260922_125504_PDP.png",
+      "captured_at": "2026-09-22T12:55:04-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-airfryer-philips-walita-serie-3000---na341-wana34100pto_prd-95897/p",
+      "sha256": "7bba98b9040b07c7d9a57ed5febd180c1d938c2509c5f4304445791fa5948151"
+    },
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LA/WANA34100PTO1_20260922_125458_PLP.png",
+      "captured_at": "2026-09-22T12:54:58-03:00",
+      "url": "https://site.fastshop.com.br/s?q=WANA34100PTO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f32b190ba82e7655ec13882c7bb95d342fdb6e7fd689d1384eda452ae32ec8ef"
+    },
+    {
+      "sku": "1QMDWTF08S2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/1QMDWTF08S2_20260922_125503_PDP.png",
+      "captured_at": "2026-09-22T12:55:03-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-midea-touch-plus-cinza-com-08-servicos-e-05-programas-de-lavagem---mdwtf08s-1qmdwtf08s_prd-155649/p",
+      "sha256": "8772c17a7929e95ff117c9f2b96a5fa3190d5c85633686608e5c076d702a6b06"
+    },
+    {
+      "sku": "1QMDWTF08S2",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/1QMDWTF08S2_110V_20260922_125504_PDP.png",
+      "captured_at": "2026-09-22T12:55:04-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-midea-touch-plus-cinza-com-08-servicos-e-05-programas-de-lavagem---mdwtf08s-1qmdwtf08s_prd-155649/p",
+      "sha256": "74b5ad47878282251704704e030fbb43e5a8f33d6566f9bf0cfe6d916c0a2f5d"
+    },
+    {
+      "sku": "1QMDWTF08S2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/1QMDWTF08S2_20260922_125501_PLP.png",
+      "captured_at": "2026-09-22T12:55:01-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMDWTF08S2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "db66d27f8775a8b969210709eb8e8ee7bcb75966538c18cd3d2c58b5d52149e0"
+    }
+  ]
+}
