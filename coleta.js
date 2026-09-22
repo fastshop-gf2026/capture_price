@@ -123,12 +123,12 @@
       clearInterval(pollTimer);
       pollTimer = null;
     }
-    setProgress(100);
     if (run.conclusion === "success") {
-      setPhase("Coleta concluída", "O relatório já deve aparecer no site.");
-      setDetail("");
-      await revealReport();
+      setProgress(92);
+      setPhase("Publicando no GitHub Pages", "Falta só deixar o relatório no ar.");
+      await revealReport(runId);
     } else {
+      setProgress(100);
       const failed = failedJobs(jobs);
       setPhase("A coleta falhou", "Chame o time de qualidade com este horário.");
       setDetail(failed.length ? `Falhou em: ${failed.join(", ")}` : "");
@@ -136,24 +136,42 @@
     return true;
   }
 
-  async function revealReport() {
-    for (let attempt = 0; attempt < 20; attempt += 1) {
-      try {
-        const latest = await fetch(`${cfg.pagesUrl}latest.json?t=${Date.now()}`, {
-          cache: "no-store",
-        }).then((response) => (response.ok ? response.json() : null));
-        if (latest?.url) {
-          reportLink.href = latest.url;
-          actionsEl.hidden = false;
-          return;
-        }
-      } catch {
-        /* o Pages pode atrasar alguns segundos */
+  async function revealReport(runId) {
+    const deadline = Date.now() + 15 * 60 * 1000;
+    let published = null;
+    while (!published && Date.now() < deadline) {
+      const latest = await readLatest();
+      if (latest?.url && String(latest.github_run_id) === String(runId)) {
+        published = latest;
+        break;
       }
-      await sleep(3000);
+      const restante = Math.max(0, Math.round((deadline - Date.now()) / 1000));
+      setDetail(`Aguardando o deploy do GitHub Pages… (${restante}s restantes)`);
+      await sleep(5000);
     }
-    reportLink.href = cfg.pagesUrl;
+
+    setProgress(100);
+    if (published) {
+      reportLink.href = published.url;
+      setPhase("Coleta concluída", "O relatório já está no ar.");
+      setDetail("");
+    } else {
+      reportLink.href = cfg.pagesUrl;
+      setPhase("Coleta concluída", "A publicação está demorando mais que o normal.");
+      setDetail("Abra o site em alguns minutos para ver o relatório novo.");
+    }
     actionsEl.hidden = false;
+  }
+
+  async function readLatest() {
+    try {
+      const response = await fetch(`${cfg.pagesUrl}latest.json?t=${Date.now()}`, {
+        cache: "no-store",
+      });
+      return response.ok ? await response.json() : null;
+    } catch {
+      return null;
+    }
   }
 
   async function startCapture(file) {
@@ -166,7 +184,7 @@
       setPhase("Planilha enviada", "Iniciando a captura…");
       setProgress(18);
       const run = await waitForRun(uploaded.sha);
-      await pollRun(run.id);
+      if (await pollRun(run.id)) return;
       pollTimer = setInterval(() => {
         pollRun(run.id).catch((error) => {
           setPhase("Erro ao ler o progresso", error.message);
