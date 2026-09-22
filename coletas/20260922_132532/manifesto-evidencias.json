@@ -1,0 +1,42 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "generated_at": "2026-09-22T13:26:56-03:00",
+  "files": [
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LA/WANA34100PTO1_20260922_132627_PDP.png",
+      "captured_at": "2026-09-22T13:26:27-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-airfryer-philips-walita-serie-3000---na341-wana34100pto_prd-95893/p",
+      "sha256": "1d0699062aa5efbad36d0a7822e8336439fc826259a7549956ac62a49e919dc9"
+    },
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/LA/WANA34100PTO1_110V_20260922_132627_PDP.png",
+      "captured_at": "2026-09-22T13:26:27-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-airfryer-philips-walita-serie-3000---na341-wana34100pto_prd-95893/p",
+      "sha256": "8739e7698d213efc26f92677000c99285733121cb60e71815eb5127bcd41a486"
+    },
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/LA/WANA34100PTO1_220V_20260922_132628_PDP.png",
+      "captured_at": "2026-09-22T13:26:28-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-airfryer-philips-walita-serie-3000---na341-wana34100pto_prd-95897/p",
+      "sha256": "9f5809e2f2ca858b22b7e88ba0d9aa5f12b3ed2eccdbe1c99bc0d6a8b1b1f041"
+    },
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LA/WANA34100PTO1_20260922_132625_PLP.png",
+      "captured_at": "2026-09-22T13:26:25-03:00",
+      "url": "https://site.fastshop.com.br/s?q=WANA34100PTO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "cdde8a04e4b8d81dfe154f309e3decaf28de2d4246e69f97cf860ec2d611d97b"
+    }
+  ]
+}
