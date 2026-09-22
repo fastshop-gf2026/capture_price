@@ -1,6 +1,5 @@
 (() => {
   const cfg = window.COLETA || {};
-  const API = "https://api.github.com";
 
   const $ = (id) => document.getElementById(id);
   const fileInput = $("coleta-file");
@@ -15,10 +14,6 @@
   const reportLink = $("coleta-relatorio");
 
   let pollTimer = null;
-
-  function token() {
-    return cfg.token || "";
-  }
 
   function openOverlay() {
     overlay.hidden = false;
@@ -40,13 +35,10 @@
   }
 
   async function api(path, options = {}) {
-    const headers = {
-      Accept: "application/vnd.github+json",
-      "X-GitHub-Api-Version": "2022-11-28",
-      ...(options.headers || {}),
-    };
-    if (token()) headers.Authorization = `Bearer ${token()}`;
-    const response = await fetch(`${API}${path}`, { ...options, headers });
+    if (!cfg.apiBase) {
+      throw new Error("Serviço de coleta ainda não configurado.");
+    }
+    const response = await fetch(`${cfg.apiBase.replace(/\/$/, "")}${path}`, options);
     const text = await response.text();
     let data = {};
     try {
@@ -60,66 +52,19 @@
     return data;
   }
 
-  function bytesToBase64(bytes) {
-    let binary = "";
-    const chunk = 0x8000;
-    for (let i = 0; i < bytes.length; i += chunk) {
-      binary += String.fromCharCode(...bytes.subarray(i, i + chunk));
-    }
-    return btoa(binary);
-  }
-
-  async function resetEntradaBranch() {
-    const main = await api(`/repos/${cfg.repo}/git/ref/heads/main`);
-    const sha = main.object.sha;
-    try {
-      await api(`/repos/${cfg.repo}/git/refs/heads/${cfg.branch}`, {
-        method: "PATCH",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ sha, force: true }),
-      });
-    } catch {
-      await api(`/repos/${cfg.repo}/git/refs`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ref: `refs/heads/${cfg.branch}`, sha }),
-      });
-    }
-  }
-
   async function uploadPlanilha(file) {
-    const suffix = file.name.toLowerCase().endsWith(".csv") ? ".csv" : ".xlsx";
-    const path = `data/entrada/planilha${suffix}`;
-    const buffer = new Uint8Array(await file.arrayBuffer());
-    let currentSha;
-    try {
-      const current = await api(
-        `/repos/${cfg.repo}/contents/${path}?ref=${encodeURIComponent(cfg.branch)}`,
-      );
-      currentSha = current.sha;
-    } catch {
-      currentSha = undefined;
-    }
-    const result = await api(`/repos/${cfg.repo}/contents/${path}`, {
-      method: "PUT",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        message: `coleta: ${file.name}`,
-        content: bytesToBase64(buffer),
-        branch: cfg.branch,
-        sha: currentSha,
-      }),
+    const body = new FormData();
+    body.append("planilha", file, file.name);
+    return api("/capture", {
+      method: "POST",
+      body,
     });
-    return result.commit.sha;
   }
 
   async function waitForRun(headSha) {
     for (let attempt = 0; attempt < 30; attempt += 1) {
-      const payload = await api(
-        `/repos/${cfg.repo}/actions/runs?head_sha=${headSha}&per_page=5`,
-      );
-      const run = (payload.workflow_runs || [])[0];
-      if (run) return run;
+      const payload = await api(`/runs/by-sha/${encodeURIComponent(headSha)}`);
+      if (payload.run) return payload.run;
       await sleep(2000);
     }
     throw new Error("A captura ainda não iniciou. Tente de novo em alguns segundos.");
@@ -139,16 +84,7 @@
     const running = jobs.find((job) => job.status === "in_progress");
     barEl.style.width = `${Math.round((done / total) * 100)}%`;
 
-    const state =
-      run.status === "queued"
-        ? "Na fila…"
-        : running
-          ? `Em andamento: ${running.name}`
-          : run.status === "completed"
-            ? run.conclusion === "success"
-              ? "Coleta concluída"
-              : "A coleta terminou com falha"
-            : "Preparando a captura…";
+    const state = describeRun(run, running);
     setPhase(state, run.display_title || "");
 
     jobsEl.innerHTML = jobs
@@ -175,6 +111,15 @@
       .join("");
   }
 
+  function describeRun(run, running) {
+    if (run.status === "queued") return "Na fila…";
+    if (running) return `Em andamento: ${running.name}`;
+    if (run.status !== "completed") return "Preparando a captura…";
+    return run.conclusion === "success"
+      ? "Coleta concluída"
+      : "A coleta terminou com falha";
+  }
+
   function labelFor(item) {
     if (item.status === "completed" && item.conclusion === "success") return "concluído";
     if (item.status === "completed" && item.conclusion === "skipped") return "pulado";
@@ -196,9 +141,9 @@
   }
 
   async function pollRun(runId) {
-    const run = await api(`/repos/${cfg.repo}/actions/runs/${runId}`);
-    const jobs = await api(`/repos/${cfg.repo}/actions/runs/${runId}/jobs?per_page=50`);
-    renderJobs(jobs.jobs || [], run);
+    const payload = await api(`/runs/${runId}`);
+    const run = payload.run;
+    renderJobs(payload.jobs || [], run);
     if (run.status !== "completed") return false;
     if (pollTimer) {
       clearInterval(pollTimer);
@@ -206,20 +151,20 @@
     }
     if (run.conclusion === "success") {
       setPhase("Coleta concluída", "O relatório já deve aparecer no site.");
-      await revealReport(run.id);
+      await revealReport();
     } else {
       setPhase("A coleta falhou", "Veja os itens em vermelho.");
     }
     return true;
   }
 
-  async function revealReport(githubRunId) {
+  async function revealReport() {
     for (let attempt = 0; attempt < 20; attempt += 1) {
       try {
         const latest = await fetch(`${cfg.pagesUrl}latest.json?t=${Date.now()}`, {
           cache: "no-store",
         }).then((response) => (response.ok ? response.json() : null));
-        if (latest && latest.url) {
+        if (latest?.url) {
           reportLink.href = latest.url;
           actionsEl.hidden = false;
           return;
@@ -239,11 +184,10 @@
     barEl.style.width = "8%";
     setPhase("Enviando planilha", file.name);
     try {
-      await resetEntradaBranch();
-      const sha = await uploadPlanilha(file);
+      const uploaded = await uploadPlanilha(file);
       setPhase("Planilha enviada", "Iniciando a captura…");
       barEl.style.width = "18%";
-      const run = await waitForRun(sha);
+      const run = await waitForRun(uploaded.sha);
       await pollRun(run.id);
       pollTimer = setInterval(() => {
         pollRun(run.id).catch((error) => {
@@ -261,7 +205,7 @@
   });
 
   fileInput?.addEventListener("change", () => {
-    const file = fileInput.files && fileInput.files[0];
+    const file = fileInput.files?.[0];
     if (!file) return;
     openOverlay();
     startCapture(file);
