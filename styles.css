@@ -247,8 +247,9 @@ footer {
   background: rgba(22, 22, 22, 0.45);
 }
 
-.overlay[hidden] {
-  display: none;
+.overlay[hidden],
+.modal-actions[hidden] {
+  display: none !important;
 }
 
 .modal {
@@ -302,29 +303,6 @@ footer {
   width: 0;
   background: var(--red);
   transition: width 0.3s ease;
-}
-
-.pin-box {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin: 16px 0 0;
-}
-
-.pin-box input {
-  flex: 1;
-  min-width: 180px;
-  padding: 10px 12px;
-  border: 1px solid var(--line);
-  border-radius: 10px;
-  font: inherit;
-}
-
-.pin-error {
-  width: 100%;
-  margin: 0;
-  color: var(--red);
-  font-size: 13px;
 }
 
 .jobs {

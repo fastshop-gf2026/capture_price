@@ -1,7 +1,6 @@
 (() => {
   const cfg = window.COLETA || {};
   const API = "https://api.github.com";
-  const TOKEN_KEY = "fastshop-coleta-unlocked";
 
   const $ = (id) => document.getElementById(id);
   const fileInput = $("coleta-file");
@@ -10,25 +9,15 @@
   const closeBtn = $("coleta-fechar");
   const titleEl = $("coleta-titulo");
   const subtitleEl = $("coleta-subtitulo");
-  const pinBox = $("coleta-pin-box");
-  const pinInput = $("coleta-pin");
-  const pinBtn = $("coleta-pin-ok");
-  const pinError = $("coleta-pin-erro");
   const jobsEl = $("coleta-jobs");
   const barEl = $("coleta-bar");
   const actionsEl = $("coleta-acoes");
   const reportLink = $("coleta-relatorio");
-  const actionsLink = $("coleta-actions");
 
-  let selectedFile = null;
   let pollTimer = null;
 
   function token() {
     return cfg.token || "";
-  }
-
-  function needsPin() {
-    return Boolean(cfg.pin) && sessionStorage.getItem(TOKEN_KEY) !== "1";
   }
 
   function openOverlay() {
@@ -50,20 +39,6 @@
     subtitleEl.textContent = subtitle || "";
   }
 
-  function showPin() {
-    pinBox.hidden = false;
-    jobsEl.innerHTML = "";
-    actionsEl.hidden = true;
-    barEl.style.width = "0%";
-    pinError.hidden = true;
-    pinInput.value = "";
-    pinInput.focus();
-  }
-
-  function hidePin() {
-    pinBox.hidden = true;
-  }
-
   async function api(path, options = {}) {
     const headers = {
       Accept: "application/vnd.github+json",
@@ -80,7 +55,7 @@
       data = { message: text };
     }
     if (!response.ok) {
-      throw new Error(data.message || `GitHub API ${response.status}`);
+      throw new Error(data.message || `Falha ${response.status}`);
     }
     return data;
   }
@@ -147,7 +122,7 @@
       if (run) return run;
       await sleep(2000);
     }
-    throw new Error("A captura não apareceu nas Actions. Tente de novo em alguns segundos.");
+    throw new Error("A captura ainda não iniciou. Tente de novo em alguns segundos.");
   }
 
   function statusIcon(status, conclusion) {
@@ -166,7 +141,7 @@
 
     const state =
       run.status === "queued"
-        ? "Na fila do GitHub Actions…"
+        ? "Na fila…"
         : running
           ? `Em andamento: ${running.name}`
           : run.status === "completed"
@@ -174,7 +149,7 @@
               ? "Coleta concluída"
               : "A coleta terminou com falha"
             : "Preparando a captura…";
-    setPhase(state, run.html_url ? "Acompanhe os jobs abaixo." : "");
+    setPhase(state, run.display_title || "");
 
     jobsEl.innerHTML = jobs
       .map((job) => {
@@ -224,10 +199,6 @@
     const run = await api(`/repos/${cfg.repo}/actions/runs/${runId}`);
     const jobs = await api(`/repos/${cfg.repo}/actions/runs/${runId}/jobs?per_page=50`);
     renderJobs(jobs.jobs || [], run);
-    if (run.html_url) {
-      actionsLink.href = run.html_url;
-      actionsLink.hidden = true;
-    }
     if (run.status !== "completed") return false;
     if (pollTimer) {
       clearInterval(pollTimer);
@@ -237,7 +208,7 @@
       setPhase("Coleta concluída", "O relatório já deve aparecer no site.");
       await revealReport(run.id);
     } else {
-      setPhase("A coleta falhou", "Veja os jobs em vermelho para o detalhe.");
+      setPhase("A coleta falhou", "Veja os itens em vermelho.");
     }
     return true;
   }
@@ -248,11 +219,6 @@
         const latest = await fetch(`${cfg.pagesUrl}latest.json?t=${Date.now()}`, {
           cache: "no-store",
         }).then((response) => (response.ok ? response.json() : null));
-        if (latest && (!latest.github_run_id || String(latest.github_run_id) === String(githubRunId))) {
-          reportLink.href = latest.url;
-          actionsEl.hidden = false;
-          return;
-        }
         if (latest && latest.url) {
           reportLink.href = latest.url;
           actionsEl.hidden = false;
@@ -268,13 +234,6 @@
   }
 
   async function startCapture(file) {
-    if (!token()) {
-      setPhase("Coleta não configurada", "Peça ao time de automação para criar o secret COLETA_TOKEN.");
-      hidePin();
-      jobsEl.innerHTML = "";
-      return;
-    }
-    hidePin();
     actionsEl.hidden = true;
     jobsEl.innerHTML = "";
     barEl.style.width = "8%";
@@ -282,7 +241,7 @@
     try {
       await resetEntradaBranch();
       const sha = await uploadPlanilha(file);
-      setPhase("Planilha enviada", "Esperando a Action iniciar…");
+      setPhase("Planilha enviada", "Iniciando a captura…");
       barEl.style.width = "18%";
       const run = await waitForRun(sha);
       await pollRun(run.id);
@@ -296,47 +255,16 @@
     }
   }
 
-  function requestFile() {
+  openBtn?.addEventListener("click", () => {
     fileInput.value = "";
     fileInput.click();
-  }
-
-  openBtn?.addEventListener("click", () => {
-    if (!token()) {
-      openOverlay();
-      hidePin();
-      setPhase("Coleta não configurada", "Peça ao time de automação para criar o secret COLETA_TOKEN no repositório.");
-      return;
-    }
-    if (needsPin()) {
-      openOverlay();
-      setPhase("Enviar planilha", "Digite o código da coleta para continuar.");
-      showPin();
-      return;
-    }
-    requestFile();
-  });
-
-  pinBtn?.addEventListener("click", () => {
-    if ((pinInput.value || "").trim() === cfg.pin) {
-      sessionStorage.setItem(TOKEN_KEY, "1");
-      hidePin();
-      requestFile();
-      return;
-    }
-    pinError.hidden = false;
-  });
-
-  pinInput?.addEventListener("keydown", (event) => {
-    if (event.key === "Enter") pinBtn.click();
   });
 
   fileInput?.addEventListener("change", () => {
     const file = fileInput.files && fileInput.files[0];
     if (!file) return;
-    selectedFile = file;
     openOverlay();
-    startCapture(selectedFile);
+    startCapture(file);
   });
 
   closeBtn?.addEventListener("click", closeOverlay);
