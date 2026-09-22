@@ -12,17 +12,16 @@
       <div>
         <p class="brand">FASTSHOP · GF2026</p>
         <h1>Coletas de evidências de preço</h1>
-        <p class="subtitle">Cada execução gera um relatório Allure e ZIPs de evidências por grupo (BD, IN, LA, UT).</p>
-        
+        <p class="subtitle">Envie a planilha de SKUs. A captura começa nesta página e o relatório aparece aqui quando terminar.</p>
         <p class="hero-cta">
-          <a class="cta" href="https://github.com/Fastshop-BR/Robot-captura-preco-2025/issues/new?template=iniciar-coleta.md">Enviar planilha e iniciar coleta</a>
+          <button type="button" class="cta" id="btn-enviar-planilha">Enviar planilha</button>
           <a class="cta ghost" href="modelo-coleta.csv" download>Baixar modelo CSV</a>
         </p>
-        <div class="hero-downloads"><a class="action" href="coletas/20260922_113525/evidencias-BD.zip" download>Baixar BD</a><a class="action" href="coletas/20260922_113525/evidencias-IN.zip" download>Baixar IN</a><a class="action" href="coletas/20260922_113525/evidencias-LA.zip" download>Baixar LA</a><a class="action" href="coletas/20260922_113525/evidencias-UT.zip" download>Baixar UT</a><a class="action" href="coletas/20260922_113525/manifesto-evidencias.json" download>Baixar manifesto</a></div>
+        <div class="hero-downloads"><a class="action" href="coletas/20260922_115856/evidencias-BD.zip" download>Baixar BD</a><a class="action" href="coletas/20260922_115856/evidencias-IN.zip" download>Baixar IN</a><a class="action" href="coletas/20260922_115856/evidencias-LA.zip" download>Baixar LA</a><a class="action" href="coletas/20260922_115856/evidencias-UT.zip" download>Baixar UT</a><a class="action" href="coletas/20260922_115856/manifesto-evidencias.json" download>Baixar manifesto</a></div>
       </div>
       <div class="stats">
         <div class="stat">
-          <strong>8</strong>
+          <strong>9</strong>
           <span>coletas</span>
         </div>
         <div class="stat">
@@ -34,6 +33,16 @@
     <section class="grid">
             <article class="card latest">
               <span class="badge">Mais recente</span>
+              <time datetime="2026-09-22 11:58:56">22/09/2026</time>
+              <span class="hour">11:58:56</span>
+              <div class="card-actions">
+                <a class="action primary" href="coletas/20260922_115856/">Abrir relatório</a>
+                <a class="action" href="coletas/20260922_115856/evidencias-BD.zip" download>Baixar BD</a><a class="action" href="coletas/20260922_115856/evidencias-IN.zip" download>Baixar IN</a><a class="action" href="coletas/20260922_115856/evidencias-LA.zip" download>Baixar LA</a><a class="action" href="coletas/20260922_115856/evidencias-UT.zip" download>Baixar UT</a><a class="action" href="coletas/20260922_115856/manifesto-evidencias.json" download>Baixar manifesto</a>
+              </div>
+            </article>
+            
+            <article class="card">
+              <span class="badge muted">Allure</span>
               <time datetime="2026-09-22 11:35:25">22/09/2026</time>
               <span class="hour">11:35:25</span>
               <div class="card-actions">
@@ -114,5 +123,30 @@
             </section>
     <footer>Robô de captura de preços · Fastshop</footer>
   </div>
+  <input id="coleta-file" type="file" accept=".csv,.xlsx,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,text/csv" hidden>
+  <div id="coleta-overlay" class="overlay" hidden>
+    <section class="modal" role="dialog" aria-modal="true" aria-labelledby="coleta-titulo">
+      <div class="modal-head">
+        <div>
+          <h2 id="coleta-titulo">Enviar planilha</h2>
+          <p id="coleta-subtitulo" class="modal-sub"></p>
+        </div>
+        <button type="button" class="modal-close" id="coleta-fechar" aria-label="Fechar">×</button>
+      </div>
+      <div class="progress" aria-hidden="true"><span id="coleta-bar"></span></div>
+      <div id="coleta-pin-box" class="pin-box" hidden>
+        <input id="coleta-pin" type="password" placeholder="Código da coleta" autocomplete="off">
+        <button type="button" class="cta" id="coleta-pin-ok">Continuar</button>
+        <p id="coleta-pin-erro" class="pin-error" hidden>Credencial inválida.</p>
+      </div>
+      <div id="coleta-jobs" class="jobs"></div>
+      <div id="coleta-acoes" class="modal-actions" hidden>
+        <a class="cta" id="coleta-relatorio" href="#">Abrir relatório</a>
+        <a class="cta ghost" id="coleta-actions" href="#" hidden>Ver no GitHub</a>
+      </div>
+    </section>
+  </div>
+  <script src="config.js"></script>
+  <script src="coleta.js"></script>
 </body>
 </html>
