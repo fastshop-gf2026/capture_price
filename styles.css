@@ -66,6 +66,40 @@ body {
   max-width: 520px;
 }
 
+.hero-cta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 16px 0 0;
+}
+
+.cta {
+  display: inline-block;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--red);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.cta:hover {
+  background: var(--red-dark);
+  color: #fff;
+}
+
+.cta.ghost {
+  background: transparent;
+  color: var(--ink);
+  border: 1px solid var(--line);
+}
+
+.cta.ghost:hover {
+  background: #fff5f6;
+  color: var(--red);
+}
+
 .hero-downloads {
   display: flex;
   flex-wrap: wrap;
