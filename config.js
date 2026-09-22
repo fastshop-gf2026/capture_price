@@ -1,1 +1,1 @@
-window.COLETA = {"repo": "Fastshop-BR/Robot-captura-preco-2025", "pagesUrl": "https://fastshop-gf2026.github.io/capture_price/", "branch": "entrada", "workflowFile": "playwright-capture.yml", "apiBase": ""};
+window.COLETA = {"repo": "Fastshop-BR/Robot-captura-preco-2025", "pagesUrl": "https://fastshop-gf2026.github.io/capture_price/", "branch": "entrada", "workflowFile": "playwright-capture.yml", "apiBase": "https://fastshop-captura-preco.fastshop-gf2026.workers.dev"};
