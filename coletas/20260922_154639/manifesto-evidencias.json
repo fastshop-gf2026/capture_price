@@ -1,0 +1,366 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "generated_at": "2026-09-22T15:49:16-03:00",
+  "files": [
+    {
+      "sku": "A6B0CP31L7PTOB",
+      "group": "AE",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AE/A6B0CP31L7PTOB_20260922_154741_PDP.png",
+      "captured_at": "2026-09-22T15:47:41-03:00",
+      "url": "https://site.fastshop.com.br/kindle-16gb-modelo2024--tela-antirreflexo--troca-de-pagina-rapida--luz-ajustavel-e-bateria-longa-duracao--cor-preto-a6b0cp31l7pto_prd-67953/p",
+      "sha256": "27d26ce3e099dbb1c9ce9c788ae62363867744d930b8866314c623d63e6790f2"
+    },
+    {
+      "sku": "A6B0CP31L7PTOB",
+      "group": "AE",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AE/A6B0CP31L7PTOB_20260922_154733_PLP.png",
+      "captured_at": "2026-09-22T15:47:33-03:00",
+      "url": "https://site.fastshop.com.br/s?q=A6B0CP31L7PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "35058f4bb64d36f10133d6a9b59ae1b19e5a2e7efb69d36c126e31b3178cd3a1"
+    },
+    {
+      "sku": "A6ECHOPOPPTOB",
+      "group": "AE",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AE/A6ECHOPOPPTOB_20260922_154745_PDP.png",
+      "captured_at": "2026-09-22T15:47:45-03:00",
+      "url": "https://site.fastshop.com.br/echo-pop---smart-speaker-compacto-com-som-envolvente-e-alexa-a6echopoppto_prd-14960/p",
+      "sha256": "e2efcd27b4fc9779ee8e7ba423ce74ec78fce5fc05fab8809fd41ad9a1d8aa5c"
+    },
+    {
+      "sku": "A6ECHOPOPPTOB",
+      "group": "AE",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AE/A6ECHOPOPPTOB_20260922_154731_PLP.png",
+      "captured_at": "2026-09-22T15:47:31-03:00",
+      "url": "https://site.fastshop.com.br/s?q=A6ECHOPOPPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "b8cbe5f02f148f7921679fec9b30049eb7c5b1c833a7d0be8b1829c4f412e251"
+    },
+    {
+      "sku": "BRBRE57FK1",
+      "group": "AE",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AE/BRBRE57FK1_20260922_154745_PDP.png",
+      "captured_at": "2026-09-22T15:47:45-03:00",
+      "url": "https://site.fastshop.com.br/etiqueta-brother-17mm-dk-1204-original-95400-100409/p",
+      "sha256": "f65ca720f72796dafeb187b33f93b6232663429bed9d3c48c56107c6c47c3a71"
+    },
+    {
+      "sku": "BRBRE57FK1",
+      "group": "AE",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AE/BRBRE57FK1_20260922_154735_PLP.png",
+      "captured_at": "2026-09-22T15:47:35-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBRE57FK1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "405c0aafd92db471ff6954a07057bd739b7e3236e2add8243d717857f06239b4"
+    },
+    {
+      "sku": "EXMI41S1",
+      "group": "AE",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AE/EXMI41S1_20260922_154743_PDP.png",
+      "captured_at": "2026-09-22T15:47:43-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-electrolux-prata-com-painel-integrado-31l--mi41s--exmi41s_prd-12601/p",
+      "sha256": "0f9552afe2b016516a27bdda2b3cc6482e4410c786648c75d2de844b5fd3f29b"
+    },
+    {
+      "sku": "EXMI41S1",
+      "group": "AE",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/AE/EXMI41S1_110V_20260922_154745_PDP.png",
+      "captured_at": "2026-09-22T15:47:45-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-electrolux-prata-com-painel-integrado-31l--mi41s--exmi41s_prd-12601/p",
+      "sha256": "41dd39680b409f282f88999bec0df90f04eb0c8e2ffe7267eb89dfae5a909ed1"
+    },
+    {
+      "sku": "EXMI41S1",
+      "group": "AE",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/AE/EXMI41S1_220V_20260922_154748_PDP.png",
+      "captured_at": "2026-09-22T15:47:48-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-electrolux-prata-com-painel-integrado-31l--mi41s--exmi41s_prd-12602/p",
+      "sha256": "ab3a1a1a5829fc49e6f5a04bc653ecb63c0b95dd2b652ef7655bef5f95ecba9b"
+    },
+    {
+      "sku": "EXMI41S1",
+      "group": "AE",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AE/EXMI41S1_20260922_154733_PLP.png",
+      "captured_at": "2026-09-22T15:47:33-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXMI41S1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "9ae450c864a19f20009f62caec99994f8603b073e82a78f3d68817cef16cd554"
+    },
+    {
+      "sku": "JBLT770NCPTO",
+      "group": "AE",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AE/JBLT770NCPTO_20260922_154748_PDP.png",
+      "captured_at": "2026-09-22T15:47:48-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-4k-tcl-top-premium-sqd-mini-led-65%E2%80%9D-polegadas-processador-aipq-pro--dolby-vision--144hz--google-tv---65c7l-tk65c7lpto_prd-183440/p",
+      "sha256": "2d1a4ed37e21a855a285fab9bc2cde78803d3f6723f994eb79d9e63268b22776"
+    },
+    {
+      "sku": "JBLT770NCPTO",
+      "group": "AE",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AE/JBLT770NCPTO_20260922_154736_PLP.png",
+      "captured_at": "2026-09-22T15:47:36-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLT770NCPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a685b730bc9ac2e095575b4a3a4d02f5674f3b61980dacd32057ac59679f240b"
+    },
+    {
+      "sku": "LJLIP23ACRM",
+      "group": "AE",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AE/LJLIP23ACRM_20260922_154744_PDP.png",
+      "captured_at": "2026-09-22T15:47:44-03:00",
+      "url": "https://site.fastshop.com.br/capa-crystal-m-para-iphone-13--14--15-e-16e--em-policarbonato---laut-ljlip23acrm_prd-98610/p",
+      "sha256": "f41530f853b74ea43cfa9b2ed3e45be3d4482f578933d663b130b79e2b8f6e51"
+    },
+    {
+      "sku": "LJLIP23ACRM",
+      "group": "AE",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AE/LJLIP23ACRM_20260922_154734_PLP.png",
+      "captured_at": "2026-09-22T15:47:34-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLIP23ACRM&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "35343e5a0d2f388cd4bf7db33ecfdb137e9699cbc1cfe67f9cabb71d6d13748b"
+    },
+    {
+      "sku": "0S2534008BBCOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/0S2534008BBCOB_20260922_154742_PDP.png",
+      "captured_at": "2026-09-22T15:47:42-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-sem-fio-philips-tat1108-tws-bluetooth-com-microfone--formato-em-haste--ipx4-e-bateria-15-horas-branco-pitat1108bco_prd-4615/p",
+      "sha256": "3ccbe8c427b19de4f868bbbb377ab81fcfe6c1ca65f43914c2a2e99930ec4fe0"
+    },
+    {
+      "sku": "0S2534008BBCOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/0S2534008BBCOB_20260922_154741_PLP.png",
+      "captured_at": "2026-09-22T15:47:41-03:00",
+      "url": "https://site.fastshop.com.br/s?q=0S2534008BBCOB&fuzzy=auto&operator=or&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "49330690ffddbf8c7568f1484fb70e94506d270781e6c4aa712fbcb7a924a67b"
+    },
+    {
+      "sku": "I4CH20PDQCBCO",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/I4CH20PDQCBCO_20260922_154743_PDP.png",
+      "captured_at": "2026-09-22T15:47:43-03:00",
+      "url": "https://site.fastshop.com.br/carregador-turbo-20w-duo-usb-usb-c-qc%C2%AE-3-0-branco-geonav---ch20pdqc-i4ch20pdqcbco_prd-11270/p",
+      "sha256": "20225ed24a85d6bdc222e161a6cd6ea99410840d188fa1030830d0172992543a"
+    },
+    {
+      "sku": "I4CH20PDQCBCO",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/I4CH20PDQCBCO_20260922_154741_PLP.png",
+      "captured_at": "2026-09-22T15:47:41-03:00",
+      "url": "https://site.fastshop.com.br/s?q=I4CH20PDQCBCO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a4d87233a5cc26a752e934ba58ca4d29270e84fa49ee10d1e65578c87acd70e7"
+    },
+    {
+      "sku": "9EE600PTO",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/9EE600PTO_20260922_154756_PDP.png",
+      "captured_at": "2026-09-22T15:47:56-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-para-tvs-de-32--a-86--preto---e600---elg-pedestais-9ee600pto_prd-13591/p",
+      "sha256": "f46576b2947e91b97c80dbb904a1b4ed6cd47cbf8181ca671770d9aa7f3da505"
+    },
+    {
+      "sku": "9EE600PTO",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/9EE600PTO_20260922_154746_PLP.png",
+      "captured_at": "2026-09-22T15:47:46-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EE600PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f5f93b9a8a23ca44363461f6c4d274319250219b4d4f8212251033310ba18628"
+    },
+    {
+      "sku": "NLC30BR2PTO1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/NLC30BR2PTO1_20260922_154753_PDP.png",
+      "captured_at": "2026-09-22T15:47:53-03:00",
+      "url": "https://site.fastshop.com.br/cafeteira-nespresso-essenza-mini-preta-para-cafe-espresso---c30-br-nlc30br2pto_prd-13862/p",
+      "sha256": "c15621bba7fafb4e1053c327094fe0c3eafeed88a29c7dfe775a0e0ce2931bd3"
+    },
+    {
+      "sku": "NLC30BR2PTO1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/NLC30BR2PTO1_20260922_154744_PLP.png",
+      "captured_at": "2026-09-22T15:47:44-03:00",
+      "url": "https://site.fastshop.com.br/s?q=NLC30BR2PTO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "0cbc4c0bc854076f148fff82508f1be7ddff9d663576649c3edb7447aceac89e"
+    },
+    {
+      "sku": "UXX1504VANAZLB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/UXX1504VANAZLB_20260922_154755_PDP.png",
+      "captured_at": "2026-09-22T15:47:55-03:00",
+      "url": "https://site.fastshop.com.br/notebook-asus-vivobook-15--intel-core-i5-13%C2%AAger--8gb--512gb-ssd--w11-home--15-6---fhd--quiet-blue---x1504va-nj1743w-uxx1504vanazl_prd-106588/p",
+      "sha256": "ab7d883841370f42a1c18ba0ff67281749955fb37acfce34fd5aae3ac8c14b2c"
+    },
+    {
+      "sku": "UXX1504VANAZLB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/UXX1504VANAZLB_20260922_154746_PLP.png",
+      "captured_at": "2026-09-22T15:47:46-03:00",
+      "url": "https://site.fastshop.com.br/s?q=UXX1504VANAZLB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "cec6a75785787ce2185179fcc8385940f05c525351c116e6c174d8b52ce227b7"
+    },
+    {
+      "sku": "UXX1504VANPTAB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/UXX1504VANPTAB_20260922_154802_PDP.png",
+      "captured_at": "2026-09-22T15:48:02-03:00",
+      "url": "https://site.fastshop.com.br/notebook-asus-vivobook-15--13%C2%AAger--intelcore-i5--8gb--512gb-ssd--w11-home--15-6---fhd--cool-silver---x1504va-nj1740w-uxx1504vanpta_prd-105987/p",
+      "sha256": "8c8aab0e5a8b719a966f1093c656fb8ef9f32ef183b4dc06825bc5638a339451"
+    },
+    {
+      "sku": "UXX1504VANPTAB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/UXX1504VANPTAB_20260922_154747_PLP.png",
+      "captured_at": "2026-09-22T15:47:47-03:00",
+      "url": "https://site.fastshop.com.br/s?q=UXX1504VANPTAB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "3789d2bb1088d3c7133b906df2ba053673465a52558f5a92983276d891a14d9e"
+    },
+    {
+      "sku": "WAMG372177BPOB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/WAMG372177BPOB_20260922_154757_PDP.png",
+      "captured_at": "2026-09-22T15:47:57-03:00",
+      "url": "https://site.fastshop.com.br/aparador-de-pelos-philips-multifuncional-7-em-1-uso-seco---mg3721-77-wamg372177bpo_prd-13122/p",
+      "sha256": "0d316c17413c4074c89108d4a1de85575230d7b26fb79f3deca8f3fca391b3cf"
+    },
+    {
+      "sku": "WAMG372177BPOB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/WAMG372177BPOB_20260922_154744_PLP.png",
+      "captured_at": "2026-09-22T15:47:44-03:00",
+      "url": "https://site.fastshop.com.br/s?q=WAMG372177BPOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "1cd6325a68a5b23ba7533522a2419960e86273b8ba007265218c7288a0511187"
+    },
+    {
+      "sku": "0SSTARLINKBCOB",
+      "group": "LA",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LA/0SSTARLINKBCOB_20260922_154739_PDP.png",
+      "captured_at": "2026-09-22T15:47:39-03:00",
+      "url": "https://site.fastshop.com.br/instalacao-starlink-gi00_starlink-65700/p",
+      "sha256": "e8f7bb693faac70922baa83ba5ff3dff722e793fbd74c4e97a958465786ce9e7"
+    },
+    {
+      "sku": "0SSTARLINKBCOB",
+      "group": "LA",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LA/0SSTARLINKBCOB_20260922_154735_PLP.png",
+      "captured_at": "2026-09-22T15:47:35-03:00",
+      "url": "https://site.fastshop.com.br/s?q=0SSTARLINKBCOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "cc127b1ab2f119f2a08a2529f8b2fb4128c82f5d29576c5327ef1beb3f4ba8c6"
+    },
+    {
+      "sku": "FJ705028297",
+      "group": "LA",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LA/FJ705028297_20260922_154741_PDP.png",
+      "captured_at": "2026-09-22T15:47:41-03:00",
+      "url": "https://site.fastshop.com.br/filme-fujifilm-instax-mini-borda-branca-20-fotos--54-x-86-mm--iso-800m--compativel-instax-mini-12-e-intax-mini-link-fj705028297_prd-10510/p",
+      "sha256": "6dcc372ff2c85b180988f269ca6023481c738ef76c59b376f103108fd9f1b2c5"
+    },
+    {
+      "sku": "FJ705028297",
+      "group": "LA",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LA/FJ705028297_20260922_154737_PLP.png",
+      "captured_at": "2026-09-22T15:47:37-03:00",
+      "url": "https://site.fastshop.com.br/s?q=FJ705028297&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "c0e609ae577cdd5292eb606385b553639a9b5eb78912b7ac542e379143627e3b"
+    },
+    {
+      "sku": "JBLBOOMBO3PTOB",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/JBLBOOMBO3PTOB_20260922_154750_PDP.png",
+      "captured_at": "2026-09-22T15:47:50-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-portatil-jbl-boombox-3-camuflada-bluetooth-188233-198674/p",
+      "sha256": "639313ed5ea218301c61531bd445f5b1c2d56bd5278d98027f293802c2cd1800"
+    },
+    {
+      "sku": "JBLBOOMBO3PTOB",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/JBLBOOMBO3PTOB_20260922_154741_PLP.png",
+      "captured_at": "2026-09-22T15:47:41-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLBOOMBO3PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "bbe05dcdfb7bba56af91ed8f1f43f9357a4b6afd6728af23c26118e098e040ef"
+    },
+    {
+      "sku": "JBLT520BTPTO",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/JBLT520BTPTO_20260922_154755_PDP.png",
+      "captured_at": "2026-09-22T15:47:55-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-boombox-4-preta--bateria-de-ate-34h---a-prova-d%E2%80%99agua-e-resistente-a-poeira-ip68-e-210w-jblboombx4pto_prd-170425/p",
+      "sha256": "3faa4e508376d0323a09e26216bff610805506e10f48eefb50f4483e452e82a1"
+    },
+    {
+      "sku": "JBLT520BTPTO",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/JBLT520BTPTO_20260922_154745_PLP.png",
+      "captured_at": "2026-09-22T15:47:45-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLT520BTPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a495bae192c992bb7a1ae31557e960d57bde96cae4db07eec756c46b50dc1886"
+    },
+    {
+      "sku": "PITAT1109PTO",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/PITAT1109PTO_20260922_154752_PDP.png",
+      "captured_at": "2026-09-22T15:47:52-03:00",
+      "url": "https://site.fastshop.com.br/fita-para-rotuladora-pantum-pp-110-laranja--15x50x97pc-174764-184980/p",
+      "sha256": "77bdf69ac18345dbd648597891aef92dcc57a928b2d52e2650cb1e5356304f18"
+    },
+    {
+      "sku": "PITAT1109PTO",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/PITAT1109PTO_20260922_154744_PLP.png",
+      "captured_at": "2026-09-22T15:47:44-03:00",
+      "url": "https://site.fastshop.com.br/s?q=PITAT1109PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "6178d4c25b8d32cc313788eefec0dac0c6f2083057e9490f93c0f2a6608e63c8"
+    },
+    {
+      "sku": "SGUN32H500PTOB",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/SGUN32H500PTOB_20260922_154754_PDP.png",
+      "captured_at": "2026-09-22T15:47:54-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-samsung-32--polegadas-hd-h5000f-2025--som-em-movimento-virtual-e-ai-energy-mode-sgun32h500pto_prd-103291/p",
+      "sha256": "5dba0f33364d6650bf1097f221a0efa80b2aaf6e9ac1d6860ca342ccafe915c5"
+    },
+    {
+      "sku": "SGUN32H500PTOB",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/SGUN32H500PTOB_20260922_154745_PLP.png",
+      "captured_at": "2026-09-22T15:47:45-03:00",
+      "url": "https://site.fastshop.com.br/s?q=SGUN32H500PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "455bd5bca181d2f9ef4ca53bb858158523160c81f71f3042d6cec70658a8d78e"
+    }
+  ]
+}
