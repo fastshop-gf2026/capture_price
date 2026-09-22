@@ -210,6 +210,11 @@ body {
   margin-top: auto;
 }
 
+.hint {
+  color: var(--muted);
+  font-size: 13px;
+}
+
 .action {
   color: var(--ink);
   font-weight: 600;
