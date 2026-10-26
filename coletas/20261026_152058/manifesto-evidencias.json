@@ -1,0 +1,195 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "generated_at": "2026-10-26T15:22:46-03:00",
+  "files": [
+    {
+      "sku": "JBLT530BTPTOB",
+      "group": "AE",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AE/JBLT530BTPTOB_20261026_152155_PDP.png",
+      "captured_at": "2026-10-26T15:21:55-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-bluetooth-jbl-tune-530bt-headphones-on-ear-preto-jblt530btpto_prd-161098/p",
+      "sha256": "6a9d48d4234c1d95de7556e26f58d51783d05de882b0f7629a461daa54052458"
+    },
+    {
+      "sku": "JBLT530BTPTOB",
+      "group": "AE",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AE/JBLT530BTPTOB_20261026_152153_PLP.png",
+      "captured_at": "2026-10-26T15:21:53-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLT530BTPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "8cf706928db0df81065a1af1a88416e6f641c75bd5a5e00c792814946813f575"
+    },
+    {
+      "sku": "JBLBOOMBX4PTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLBOOMBX4PTOB_20261026_152154_PDP.png",
+      "captured_at": "2026-10-26T15:21:54-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-boombox-4-preta--bateria-de-ate-34h---a-prova-d%E2%80%99agua-e-resistente-a-poeira-ip68-e-210w-jblboombx4pto_prd-170425/p",
+      "sha256": "fdcabe0b74efcef513fa4d3b1813516dc1ba0b5602542d2db68ab49a3a444fd7"
+    },
+    {
+      "sku": "JBLBOOMBX4PTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLBOOMBX4PTOB_20261026_152152_PLP.png",
+      "captured_at": "2026-10-26T15:21:52-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLBOOMBX4PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "b2f6a3d2d67ad17f02827d811c0c014e06fd695442a1083ef6a187ec394bb37d"
+    },
+    {
+      "sku": "L283GM0003BRB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/L283GM0003BRB_20261026_152156_PDP.png",
+      "captured_at": "2026-10-26T15:21:56-03:00",
+      "url": "https://site.fastshop.com.br/notebook-lenovo-yoga-slim-7i-intel-core-ultra-5--16gb--512gb-ssd--tela-de-14--oled--windows-11---83gm0003br-l283gm0003br_prd-65794/p",
+      "sha256": "db1270f1233d873245823f098847c864ae5d4e835820c3d939b9c918a8d4360a"
+    },
+    {
+      "sku": "L283GM0003BRB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/L283GM0003BRB_20261026_152152_PLP.png",
+      "captured_at": "2026-10-26T15:21:52-03:00",
+      "url": "https://site.fastshop.com.br/s?q=L283GM0003BRB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e653c354067a1676dd77c28820605d8231fb75d0930cc9754c31297fe083616b"
+    },
+    {
+      "sku": "EXFE5GBB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXFE5GBB_20261026_152151_PDP.png",
+      "captured_at": "2026-10-26T15:21:51-03:00",
+      "url": "https://site.fastshop.com.br/fogao-de-piso-electrolux-05-bocas-efficient-mesa-de-vidro--grades-individuais-de-ferro-fundido---fe5gb-exfe5gb_prd-94657/p",
+      "sha256": "86082a84ca1aff2e2c973592c7072291f08c092911c6c5f018c8630ef379e7da"
+    },
+    {
+      "sku": "EXFE5GBB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXFE5GBB_20261026_152149_PLP.png",
+      "captured_at": "2026-10-26T15:21:49-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXFE5GBB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e8649709a6b6617f8fa5ec35738baf3dc21cf36b47db3b1be986f393f1ea3277"
+    },
+    {
+      "sku": "NLD62BRAPO2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/NLD62BRAPO2_20261026_152151_PDP.png",
+      "captured_at": "2026-10-26T15:21:51-03:00",
+      "url": "https://site.fastshop.com.br/cafeteira-nespresso-pixie-redesign-azul-e-preta-para-cafe-em-capsula-nld62brapo_prd-94940/p",
+      "sha256": "3af658dfae5eb48dcc7f8df0998e94593bc4b60b63dc10ce334c573c077fe714"
+    },
+    {
+      "sku": "NLD62BRAPO2",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/NLD62BRAPO2_110V_20261026_152151_PDP.png",
+      "captured_at": "2026-10-26T15:21:51-03:00",
+      "url": "https://site.fastshop.com.br/cafeteira-nespresso-pixie-redesign-azul-e-preta-para-cafe-em-capsula-nld62brapo_prd-94940/p",
+      "sha256": "4f20a4c22f9eba3b91ea8ff5dc6527ec0181e3c30dae798d0b5f2241fa7e09cb"
+    },
+    {
+      "sku": "NLD62BRAPO2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/NLD62BRAPO2_20261026_152149_PLP.png",
+      "captured_at": "2026-10-26T15:21:49-03:00",
+      "url": "https://site.fastshop.com.br/s?q=NLD62BRAPO2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "134d6a9c093d8f4c931b702174e8c3d6615b94e56068e001850895491ccdd6eb"
+    },
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LA/WANA34100PTO1_20261026_152148_PDP.png",
+      "captured_at": "2026-10-26T15:21:48-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-airfryer-philips-walita-serie-3000---na341-wana34100pto_prd-95897/p",
+      "sha256": "1b8a8dffe054af44f18eec20c9fab1a951226965d44f9ce4ef99b533220a083d"
+    },
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/LA/WANA34100PTO1_220V_20261026_152219_PDP.png",
+      "captured_at": "2026-10-26T15:22:19-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-airfryer-philips-walita-serie-3000---na341-wana34100pto_prd-95897/p",
+      "sha256": "94cd34ac4b5926f8b8667b1ade3a8d035bef2aeed2025ecdb8cea58144d885e1"
+    },
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LA/WANA34100PTO1_20261026_152144_PLP.png",
+      "captured_at": "2026-10-26T15:21:44-03:00",
+      "url": "https://site.fastshop.com.br/s?q=WANA34100PTO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "2b59eaac78c112a3bf6fab581a420b7cee00f90e54f9c5d8de7b30e25770581f"
+    },
+    {
+      "sku": "WANA34109PTO2",
+      "group": "LA",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LA/WANA34109PTO2_20261026_152148_PDP.png",
+      "captured_at": "2026-10-26T15:21:48-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-airfryer-philips-walita-serie-3000---na341-wana34100pto_prd-95897/p",
+      "sha256": "a7bca29cd66e7763032fe38458117c25806648cd87225d1244be5b9244e8b5ac"
+    },
+    {
+      "sku": "WANA34109PTO2",
+      "group": "LA",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/LA/WANA34109PTO2_220V_20261026_152219_PDP.png",
+      "captured_at": "2026-10-26T15:22:19-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-airfryer-philips-walita-serie-3000---na341-wana34100pto_prd-95897/p",
+      "sha256": "3e56292de327d07e2b27dcb88175f9ddfba4fa9bef924dc900300391627b99dc"
+    },
+    {
+      "sku": "WANA34109PTO2",
+      "group": "LA",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LA/WANA34109PTO2_20261026_152145_PLP.png",
+      "captured_at": "2026-10-26T15:21:45-03:00",
+      "url": "https://site.fastshop.com.br/s?q=WANA34109PTO2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "3ee0488314a62980f24ce07e9171fbdc1f8b99e8637225612e30ebd44b1d5cf1"
+    },
+    {
+      "sku": "4000000766",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/4000000766_20261026_152156_PDP.png",
+      "captured_at": "2026-10-26T15:21:56-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-electrolux-23l-preto-efficient-com-descongelamento-assistido--me23p--45731-47115/p",
+      "sha256": "f2473d864ce88e9ede464fa7720aff3232fc259ccd0211b905ded06e89dc979f"
+    },
+    {
+      "sku": "4000000766",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/4000000766_110V_20261026_152157_PDP.png",
+      "captured_at": "2026-10-26T15:21:57-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-electrolux-23l-preto-efficient-com-descongelamento-assistido--me23p--45731-47115/p",
+      "sha256": "af39a77cacf9bf6864641baf8bdc68fd1b22572aae62603d338d46657f452d4d"
+    },
+    {
+      "sku": "4000000766",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/4000000766_220V_20261026_152158_PDP.png",
+      "captured_at": "2026-10-26T15:21:58-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-electrolux-23l-preto-efficient-com-descongelamento-assistido--me23p--45731-47116/p",
+      "sha256": "cb158ec62972c7ffc7f45a674f3c8edb3da9d98a93d7f7a25ba0928db2b12885"
+    },
+    {
+      "sku": "4000000766",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/4000000766_20261026_152153_PLP.png",
+      "captured_at": "2026-10-26T15:21:53-03:00",
+      "url": "https://site.fastshop.com.br/s?q=4000000766&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "2f0919bb3a662d75572c647e598384669fcffce3903cee09f7c233c39e3b428a"
+    }
+  ]
+}
