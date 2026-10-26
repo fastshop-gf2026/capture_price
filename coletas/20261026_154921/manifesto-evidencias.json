@@ -1,0 +1,735 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "generated_at": "2026-10-26T16:01:02-03:00",
+  "files": [
+    {
+      "sku": "HR4160880PGF1",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/HR4160880PGF1_20261026_155820_PDP.png",
+      "captured_at": "2026-10-26T15:58:20-03:00",
+      "url": "https://site.fastshop.com.br/kit-volante-e-pedal-t98-ferrari-para-ps4--ps5-e-pc---thrustmaster-hr4160880pgf_prd-111252/p",
+      "sha256": "c01340a0ca5e7f8426afe67f0b35ad5b1bb9a8e381f10df68f492878510c35cb"
+    },
+    {
+      "sku": "HR4160880PGF1",
+      "group": "AO",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/AO/HR4160880PGF1_110V_20261026_155821_PDP.png",
+      "captured_at": "2026-10-26T15:58:21-03:00",
+      "url": "https://site.fastshop.com.br/kit-volante-e-pedal-t98-ferrari-para-ps4--ps5-e-pc---thrustmaster-hr4160880pgf_prd-111252/p",
+      "sha256": "2dc71d6ed8a976be82f78704c464a00a119bf43ec5bb069d0d1e6b303386c9ca"
+    },
+    {
+      "sku": "HR4160880PGF1",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/HR4160880PGF1_20261026_155817_PLP.png",
+      "captured_at": "2026-10-26T15:58:17-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HR4160880PGF1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "58eb7c871da0d8acdaa7d9866810514df794aea6c1c336954b2a53cc701f1d21"
+    },
+    {
+      "sku": "MRPBA60036BCOB",
+      "group": "CL",
+      "name": "PDP",
+      "path": "Evidencias_PDP/CL/MRPBA60036BCOB_20261026_160041_PDP.png",
+      "captured_at": "2026-10-26T16:00:41-03:00",
+      "url": "https://site.fastshop.com.br/party-box-mondial-bivolt-pbx-600-a-62674-66007/p",
+      "sha256": "3616cf5c3e991ded1905035997cd5364bf5d8c2258fb4e9a6b31adb2c5667eb0"
+    },
+    {
+      "sku": "MRPBA60036BCOB",
+      "group": "CL",
+      "name": "PLP",
+      "path": "Evidencias_PLP/CL/MRPBA60036BCOB_20261026_160039_PLP.png",
+      "captured_at": "2026-10-26T16:00:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=MRPBA60036BCOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "9e55fb3143ceb1013458eec7b7bef9898315fbdd9e348662c06235ae4fb7b73d"
+    },
+    {
+      "sku": "0CCD702DBRRSBB",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/0CCD702DBRRSBB_20261026_155048_PDP.png",
+      "captured_at": "2026-10-26T15:50:48-03:00",
+      "url": "https://site.fastshop.com.br/modelador-conair-infusion-32mm-rosa-perolado-e-branco---cd702dbr-0ccd702dbrrsb_prd-15950/p",
+      "sha256": "b684488d6958789c8e8d77a657a116122872146b3a846921488848bf58e313f0"
+    },
+    {
+      "sku": "0CCD702DBRRSBB",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/0CCD702DBRRSBB_20261026_155032_PLP.png",
+      "captured_at": "2026-10-26T15:50:32-03:00",
+      "url": "https://site.fastshop.com.br/s?q=0CCD702DBRRSBB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a77d1245bcd53c330e7e74dccd49d8c7e11cfcfa028f5cbd666ba114d5fad05f"
+    },
+    {
+      "sku": "0K41332506AZL2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/0K41332506AZL2_20261026_155051_PDP.png",
+      "captured_at": "2026-10-26T15:50:51-03:00",
+      "url": "https://site.fastshop.com.br/secador-e-modelador-shark-flexstyle-teal-multifuncoes-5-em-1-edicao-limitada----41332506-0k41332506azl_prd-115449/p",
+      "sha256": "8fac0eaed12bf37928e6e7fd0ef501019e3710e67735233fbd2d98e0ad144995"
+    },
+    {
+      "sku": "0K41332506AZL2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/0K41332506AZL2_220V_20261026_155136_PDP.png",
+      "captured_at": "2026-10-26T15:51:36-03:00",
+      "url": "https://site.fastshop.com.br/secador-e-modelador-shark-flexstyle-teal-multifuncoes-5-em-1-edicao-limitada----41332506-0k41332506azl_prd-115449/p",
+      "sha256": "a0d47b4847fc8f2b3f02e72fd975c8cd9c56f2764d0357a3cd46eefc55e63699"
+    },
+    {
+      "sku": "0K41332506AZL2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/0K41332506AZL2_20261026_155035_PLP.png",
+      "captured_at": "2026-10-26T15:50:35-03:00",
+      "url": "https://site.fastshop.com.br/s?q=0K41332506AZL2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e1777cc62325597c77b5f99d6680989f359d36965f77de850746eefa1e63d92e"
+    },
+    {
+      "sku": "0K4133250BCO1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/0K4133250BCO1_20261026_155047_PDP.png",
+      "captured_at": "2026-10-26T15:50:47-03:00",
+      "url": "https://site.fastshop.com.br/modelador-shark-flexstyle-lisos-e-ondulados-com-95%C2%B0c-de-temperatura-maxima-branco---4133250-0k4133250bco_prd-15744/p",
+      "sha256": "7df9f15547c46de33e93646997fef462148866d9eb097f7fbfddce7b11e76e78"
+    },
+    {
+      "sku": "0K4133250BCO1",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/0K4133250BCO1_220V_20261026_155126_PDP.png",
+      "captured_at": "2026-10-26T15:51:26-03:00",
+      "url": "https://site.fastshop.com.br/modelador-shark-flexstyle-lisos-e-ondulados-com-95%C2%B0c-de-temperatura-maxima-branco---4133250-0k4133250bco_prd-15744/p",
+      "sha256": "3e9cb8f13912f1bceb0b7a6808d4ee9ab8f19ac7986f723ebe6a6b70135aed2f"
+    },
+    {
+      "sku": "0K4133250BCO1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/0K4133250BCO1_20261026_155032_PLP.png",
+      "captured_at": "2026-10-26T15:50:32-03:00",
+      "url": "https://site.fastshop.com.br/s?q=0K4133250BCO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e45bf272979bca77b06e5e21c9c12ca14adf4a5441b8fe39407eba740b16e00c"
+    },
+    {
+      "sku": "ARAFP4PTO1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARAFP4PTO1_20261026_155049_PDP.png",
+      "captured_at": "2026-10-26T15:50:49-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-sem-oleo-air-fryer-arno-easy-fry-extra-superficie-afp4-arafp4pto_prd-101089/p",
+      "sha256": "e55d316bb358de28d8fc6b1a6a86b6acd82043009d1c4756452bb57a728d306b"
+    },
+    {
+      "sku": "ARAFP4PTO1",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/ARAFP4PTO1_220V_20261026_155134_PDP.png",
+      "captured_at": "2026-10-26T15:51:34-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-sem-oleo-air-fryer-arno-easy-fry-extra-superficie-afp4-arafp4pto_prd-101089/p",
+      "sha256": "afd391fc4b3b0434b0c68747064c98cf35cf7618d92624f1ed11523e03e5a9c9"
+    },
+    {
+      "sku": "ARAFP4PTO1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARAFP4PTO1_20261026_155032_PLP.png",
+      "captured_at": "2026-10-26T15:50:32-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARAFP4PTO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "7c36fd2af09d524bbdff265ec76535e34d4089352a524708eb284961a0b43f6f"
+    },
+    {
+      "sku": "ARAFP4PTO2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARAFP4PTO2_20261026_155051_PDP.png",
+      "captured_at": "2026-10-26T15:50:51-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-sem-oleo-air-fryer-arno-easy-fry-extra-superficie-afp4-arafp4pto_prd-101089/p",
+      "sha256": "8fd4af4f9e94a6834c4f75220e08019bcea9736cc3a27b304d498335cdd78491"
+    },
+    {
+      "sku": "ARAFP4PTO2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/ARAFP4PTO2_220V_20261026_155137_PDP.png",
+      "captured_at": "2026-10-26T15:51:37-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-sem-oleo-air-fryer-arno-easy-fry-extra-superficie-afp4-arafp4pto_prd-101089/p",
+      "sha256": "a2b722bff63c5156e30c25eeb26400bbbdfb19de15ffc575d68abc25a8697683"
+    },
+    {
+      "sku": "ARAFP4PTO2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARAFP4PTO2_20261026_155032_PLP.png",
+      "captured_at": "2026-10-26T15:50:32-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARAFP4PTO2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "c6bc9cf5f3710acb3e16638de54b5842570fb8d1953dec86ee2f9d82349faedd"
+    },
+    {
+      "sku": "ARFMVRXO1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARFMVRXO1_20261026_155047_PDP.png",
+      "captured_at": "2026-10-26T15:50:47-03:00",
+      "url": "https://site.fastshop.com.br/ferro-a-vapor-arno-ultragliss-67-com-base-durilium-airglidea---fmv-arfmvrxo_prd-4673/p",
+      "sha256": "40ace542af8580765a793a6999f608c7831043773fa276cdd575cef506baf514"
+    },
+    {
+      "sku": "ARFMVRXO1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARFMVRXO1_20261026_155029_PLP.png",
+      "captured_at": "2026-10-26T15:50:29-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARFMVRXO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "edd44afae620c97e0fc1c46af857cebb0123ace1942b4cdfb1695c3e2005a4bf"
+    },
+    {
+      "sku": "ARGGRAIX2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARGGRAIX2_20261026_155121_PDP.png",
+      "captured_at": "2026-10-26T15:51:21-03:00",
+      "url": "https://site.fastshop.com.br/super-grill-eletrico-arno-com-abertura-de-180%C2%B0-inox-xl---ggra-arggraix_prd-4148/p",
+      "sha256": "14d635e31f11660daffa4198438c3de5f531c2eb2d1eb636c19bacdf8408f3a4"
+    },
+    {
+      "sku": "ARGGRAIX2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/ARGGRAIX2_220V_20261026_155155_PDP.png",
+      "captured_at": "2026-10-26T15:51:55-03:00",
+      "url": "https://site.fastshop.com.br/super-grill-eletrico-arno-com-abertura-de-180%C2%B0-inox-xl---ggra-arggraix_prd-4148/p",
+      "sha256": "4851ebd7f96e882e611c92ce2736ba46b5e2147381d72101a34113d58a93c52e"
+    },
+    {
+      "sku": "ARGGRAIX2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARGGRAIX2_20261026_155114_PLP.png",
+      "captured_at": "2026-10-26T15:51:14-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARGGRAIX2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "7239602a0edd05ecf3d7f43048e59d3ded58485c717c086c4e77dc02239bce25"
+    },
+    {
+      "sku": "ARKM10IPO2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARKM10IPO2_20261026_155159_PDP.png",
+      "captured_at": "2026-10-26T15:51:59-03:00",
+      "url": "https://site.fastshop.com.br/batedeira-arno-planetaria-bake-easy-km10-arkm10ipo_prd-130731/p",
+      "sha256": "4dca8536edb05f3c8a04ed3a173d492d5b9bc3e1407a8ae6234b047e1ec84887"
+    },
+    {
+      "sku": "ARKM10IPO2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/ARKM10IPO2_220V_20261026_155233_PDP.png",
+      "captured_at": "2026-10-26T15:52:33-03:00",
+      "url": "https://site.fastshop.com.br/batedeira-arno-planetaria-bake-easy-km10-arkm10ipo_prd-130731/p",
+      "sha256": "575a69070917af082ff0f445d886ccdf1beccd96f91fda12e988626ad172adbf"
+    },
+    {
+      "sku": "ARKM10IPO2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARKM10IPO2_20261026_155141_PLP.png",
+      "captured_at": "2026-10-26T15:51:41-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARKM10IPO2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "efde4ddc50603f8cc33e4afbe783bbdbcc94ebcb066312f173dbb9c28e756d78"
+    },
+    {
+      "sku": "ARSSEFAZL2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARSSEFAZL2_20261026_155208_PDP.png",
+      "captured_at": "2026-10-26T15:52:08-03:00",
+      "url": "https://site.fastshop.com.br/ferro-com-estacao-de-vapor-express-force--1700w--ssef-arssefazl_prd-130722/p",
+      "sha256": "2b9ade2306564c859c9a468d74e4c8daf3a40f902548db92c1d477d184b92de7"
+    },
+    {
+      "sku": "ARSSEFAZL2",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/ARSSEFAZL2_110V_20261026_155229_PDP.png",
+      "captured_at": "2026-10-26T15:52:29-03:00",
+      "url": "https://site.fastshop.com.br/ferro-com-estacao-de-vapor-express-force--1700w--ssef-arssefazl_prd-130484/p",
+      "sha256": "6e66fa0bede6fb068cb413071c0b4b0fd9a5b375c9cce761b0892ab0e4879323"
+    },
+    {
+      "sku": "ARSSEFAZL2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/ARSSEFAZL2_220V_20261026_155243_PDP.png",
+      "captured_at": "2026-10-26T15:52:43-03:00",
+      "url": "https://site.fastshop.com.br/ferro-com-estacao-de-vapor-express-force--1700w--ssef-arssefazl_prd-130722/p",
+      "sha256": "e6a4acfbca7d71c9c4c047d73f4db88e8706adea966f55ac9c7b87ee84df89f5"
+    },
+    {
+      "sku": "ARSSEFAZL2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARSSEFAZL2_20261026_155150_PLP.png",
+      "captured_at": "2026-10-26T15:51:50-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARSSEFAZL2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "0c634a84082297759fb3d852d9b00f5680684f0709a756454f20e4e0efd3b7e0"
+    },
+    {
+      "sku": "ARUP00APO2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARUP00APO2_20261026_155211_PDP.png",
+      "captured_at": "2026-10-26T15:52:11-03:00",
+      "url": "https://site.fastshop.com.br/liquidificador-arno-blend-up-up00-arup00apo_prd-130732/p",
+      "sha256": "cf947f4e1550986b4aa1a24b981e30f82cff65b40e19989fc270fbd4a7b0ce27"
+    },
+    {
+      "sku": "ARUP00APO2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/ARUP00APO2_220V_20261026_155251_PDP.png",
+      "captured_at": "2026-10-26T15:52:51-03:00",
+      "url": "https://site.fastshop.com.br/liquidificador-arno-blend-up-up00-arup00apo_prd-130732/p",
+      "sha256": "3f9a1a49350d896ca5d0500d55026ae3114f27026791317498da4b2259567126"
+    },
+    {
+      "sku": "ARUP00APO2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARUP00APO2_20261026_155152_PLP.png",
+      "captured_at": "2026-10-26T15:51:52-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARUP00APO2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "86ba0625d9d57d7876f464d677e9597199c76867c6675dc5287b268891b09af9"
+    },
+    {
+      "sku": "KIKUA35AVVRM1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/KIKUA35AVVRM1_20261026_155216_PDP.png",
+      "captured_at": "2026-10-26T15:52:16-03:00",
+      "url": "https://site.fastshop.com.br/liquidificador-kitchenaid-com-05-velocidades-e-jarra-com-1-7-litros-empire-red---k400-kikua35avvrm_prd-4174/p",
+      "sha256": "2de90295f2d576c1c148f6ae1c35cbbfb153cd80da3f6729ea0e1f8ce78da32a"
+    },
+    {
+      "sku": "KIKUA35AVVRM1",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/KIKUA35AVVRM1_220V_20261026_155255_PDP.png",
+      "captured_at": "2026-10-26T15:52:55-03:00",
+      "url": "https://site.fastshop.com.br/liquidificador-kitchenaid-com-05-velocidades-e-jarra-com-1-7-litros-empire-red---k400-kikua35avvrm_prd-4174/p",
+      "sha256": "6f6f8509ab7717eed1f5ff9ffa7b43dbcd31264d3e2a886e88547c35275a1e6f"
+    },
+    {
+      "sku": "KIKUA35AVVRM1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/KIKUA35AVVRM1_20261026_155154_PLP.png",
+      "captured_at": "2026-10-26T15:51:54-03:00",
+      "url": "https://site.fastshop.com.br/s?q=KIKUA35AVVRM1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "8048898b48da78e05bcf0c1dded9739a73ee7b35579eea8c5a5a53fe062c6dcc"
+    },
+    {
+      "sku": "KIKUA35AVVRM2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/KIKUA35AVVRM2_20261026_155237_PDP.png",
+      "captured_at": "2026-10-26T15:52:37-03:00",
+      "url": "https://site.fastshop.com.br/liquidificador-kitchenaid-com-05-velocidades-e-jarra-com-1-7-litros-empire-red---k400-kikua35avvrm_prd-4174/p",
+      "sha256": "11ff5ad90168207edc93697a6cb051e2c83b88c14d499b5384404fe13404e22b"
+    },
+    {
+      "sku": "KIKUA35AVVRM2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/KIKUA35AVVRM2_220V_20261026_155316_PDP.png",
+      "captured_at": "2026-10-26T15:53:16-03:00",
+      "url": "https://site.fastshop.com.br/liquidificador-kitchenaid-com-05-velocidades-e-jarra-com-1-7-litros-empire-red---k400-kikua35avvrm_prd-4174/p",
+      "sha256": "cc67c1a55646d0a8d11c3ac375eb5dbbae220481f90a4e661a868156ac7fce4c"
+    },
+    {
+      "sku": "KIKUA35AVVRM2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/KIKUA35AVVRM2_20261026_155212_PLP.png",
+      "captured_at": "2026-10-26T15:52:12-03:00",
+      "url": "https://site.fastshop.com.br/s?q=KIKUA35AVVRM2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "72938883d8897c952cb5c734fea7943259487b482281b31282d5fc1e5ca8c413"
+    },
+    {
+      "sku": "LIONE1942CNZ1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/LIONE1942CNZ1_20261026_155236_PDP.png",
+      "captured_at": "2026-10-26T15:52:36-03:00",
+      "url": "https://site.fastshop.com.br/secador-de-cabelo-lizz-one-com-120-000-rpm-cinza---dag1942-lione1942cnz_prd-124646/p",
+      "sha256": "37a4037b34de11f0feb6affe52802eab195569e842b5e190b13358a06b0decbc"
+    },
+    {
+      "sku": "LIONE1942CNZ1",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/LIONE1942CNZ1_110V_20261026_155249_PDP.png",
+      "captured_at": "2026-10-26T15:52:49-03:00",
+      "url": "https://site.fastshop.com.br/secador-de-cabelo-lizz-one-com-120-000-rpm-cinza---dag1942-lione1942cnz_prd-124647/p",
+      "sha256": "00fb51218651a57659f2d198decf25b7f286be13999f49e36fa013d0691dfbf1"
+    },
+    {
+      "sku": "LIONE1942CNZ1",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/LIONE1942CNZ1_220V_20261026_155300_PDP.png",
+      "captured_at": "2026-10-26T15:53:00-03:00",
+      "url": "https://site.fastshop.com.br/secador-de-cabelo-lizz-one-com-120-000-rpm-cinza---dag1942-lione1942cnz_prd-124646/p",
+      "sha256": "42d66a6abb4e377029cbf4ea3cf109e8d0f4fdae9608cd6ae4c36359ca315042"
+    },
+    {
+      "sku": "LIONE1942CNZ1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/LIONE1942CNZ1_20261026_155214_PLP.png",
+      "captured_at": "2026-10-26T15:52:14-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LIONE1942CNZ1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "8ed125f230647f024dffc2aff9c4ed0b73a385e2b6a22b4a4c06749106fff9b3"
+    },
+    {
+      "sku": "LIONE1942CNZ2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/LIONE1942CNZ2_20261026_155312_PDP.png",
+      "captured_at": "2026-10-26T15:53:12-03:00",
+      "url": "https://site.fastshop.com.br/secador-de-cabelo-lizz-one-com-120-000-rpm-cinza---dag1942-lione1942cnz_prd-124646/p",
+      "sha256": "f5d3c29e04f6b1f4e2dca91df14cbea52c4d51e2d81f88b6e37fbffdd33d1aed"
+    },
+    {
+      "sku": "LIONE1942CNZ2",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/LIONE1942CNZ2_110V_20261026_155321_PDP.png",
+      "captured_at": "2026-10-26T15:53:21-03:00",
+      "url": "https://site.fastshop.com.br/secador-de-cabelo-lizz-one-com-120-000-rpm-cinza---dag1942-lione1942cnz_prd-124647/p",
+      "sha256": "a053c309a4aa033fb48cc672289ea53afa78d036d6b0997d9b99c35c17801113"
+    },
+    {
+      "sku": "LIONE1942CNZ2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/LIONE1942CNZ2_220V_20261026_155330_PDP.png",
+      "captured_at": "2026-10-26T15:53:30-03:00",
+      "url": "https://site.fastshop.com.br/secador-de-cabelo-lizz-one-com-120-000-rpm-cinza---dag1942-lione1942cnz_prd-124646/p",
+      "sha256": "21cedba89499fd191f5d4a9c2f0dba910319b5400101d540830c2c5063865407"
+    },
+    {
+      "sku": "LIONE1942CNZ2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/LIONE1942CNZ2_20261026_155249_PLP.png",
+      "captured_at": "2026-10-26T15:52:49-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LIONE1942CNZ2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "51b8400970feb6284715e0326dc0193feb33a6ff06b932415b4733ef46c2c6d2"
+    },
+    {
+      "sku": "MYB968010VRM2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/MYB968010VRM2_20261026_155329_PDP.png",
+      "captured_at": "2026-10-26T15:53:29-03:00",
+      "url": "https://site.fastshop.com.br/sanduicheira-mickey-mouse-funny-plates-mallory---b968010-myb968010vrm_prd-2800/p",
+      "sha256": "9ea981c56a57270884ed6f689fac66dc164e2b8768645b7531988e635c55bc86"
+    },
+    {
+      "sku": "MYB968010VRM2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/MYB968010VRM2_220V_20261026_155403_PDP.png",
+      "captured_at": "2026-10-26T15:54:03-03:00",
+      "url": "https://site.fastshop.com.br/sanduicheira-mickey-mouse-funny-plates-mallory---b968010-myb968010vrm_prd-2800/p",
+      "sha256": "072ecbe8c265fb373da53fd8aef7173d24db0c7f0ebbc04274abb5abb1e50fe5"
+    },
+    {
+      "sku": "MYB968010VRM2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/MYB968010VRM2_20261026_155308_PLP.png",
+      "captured_at": "2026-10-26T15:53:08-03:00",
+      "url": "https://site.fastshop.com.br/s?q=MYB968010VRM2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "6c5b7f49c897aa555fd76cb7d9ce349addba72bfaf35e7c0263cba64e67cc5b6"
+    },
+    {
+      "sku": "NLGCV2BRVRM2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/NLGCV2BRVRM2_20261026_155331_PDP.png",
+      "captured_at": "2026-10-26T15:53:31-03:00",
+      "url": "https://site.fastshop.com.br/cafeteira-nespresso-vertuo-pop-vermelho-pimenta-para-cafe-espresso-manual---gcv2br-nlgcv2brvrm_prd-14797/p",
+      "sha256": "ef6f67640a5e3728b8bd7827904f1d3232018c5c7f8f07a42f6e468e7ddfd3b3"
+    },
+    {
+      "sku": "NLGCV2BRVRM2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/NLGCV2BRVRM2_220V_20261026_155408_PDP.png",
+      "captured_at": "2026-10-26T15:54:08-03:00",
+      "url": "https://site.fastshop.com.br/cafeteira-nespresso-vertuo-pop-vermelho-pimenta-para-cafe-espresso-manual---gcv2br-nlgcv2brvrm_prd-14797/p",
+      "sha256": "2e5babe5f51fedb99b110f2f7b4d513e4be0da42c537152ed654cee55c22cab7"
+    },
+    {
+      "sku": "NLGCV2BRVRM2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/NLGCV2BRVRM2_20261026_155309_PLP.png",
+      "captured_at": "2026-10-26T15:53:09-03:00",
+      "url": "https://site.fastshop.com.br/s?q=NLGCV2BRVRM2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "182d9a7e653f7adf760a1734caa2056a316a1a5dc1cf9aa0b5d031a3675ca1cb"
+    },
+    {
+      "sku": "OSOGRL500CNZ2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/OSOGRL500CNZ2_20261026_155333_PDP.png",
+      "captured_at": "2026-10-26T15:53:33-03:00",
+      "url": "https://site.fastshop.com.br/grill-eletrico-burguer-2-em-1-oster-com-capacidade-para-04-fatias---ogrl500-osogrl500cnz_prd-4194/p",
+      "sha256": "93d7db7d6ebc885fb366e0589e30962336bb05e3ccbdcbeb51b1fe23df2acc91"
+    },
+    {
+      "sku": "OSOGRL500CNZ2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/OSOGRL500CNZ2_220V_20261026_155411_PDP.png",
+      "captured_at": "2026-10-26T15:54:11-03:00",
+      "url": "https://site.fastshop.com.br/grill-eletrico-burguer-2-em-1-oster-com-capacidade-para-04-fatias---ogrl500-osogrl500cnz_prd-4194/p",
+      "sha256": "820e315ca9e2b076fe52e07f408acd790075d1890e07a30a4ea31373ea494682"
+    },
+    {
+      "sku": "OSOGRL500CNZ2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/OSOGRL500CNZ2_20261026_155314_PLP.png",
+      "captured_at": "2026-10-26T15:53:14-03:00",
+      "url": "https://site.fastshop.com.br/s?q=OSOGRL500CNZ2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "c4a851b20222f542084c2817b793f3449076e59bfbfd17bff76f937a1bc6f24a"
+    },
+    {
+      "sku": "RR408893BCO",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/RR408893BCO_20261026_155340_PDP.png",
+      "captured_at": "2026-10-26T15:53:40-03:00",
+      "url": "https://site.fastshop.com.br/maquina-para-gaseificar-agua-com-gas-gaia-branca---sodastream-rr408893bco_prd-18013/p",
+      "sha256": "72eee9ecabed6c162b9a32b87b199b22f55466cb8eebc83b1df82553fa3de8ce"
+    },
+    {
+      "sku": "RR408893BCO",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/RR408893BCO_20261026_155321_PLP.png",
+      "captured_at": "2026-10-26T15:53:21-03:00",
+      "url": "https://site.fastshop.com.br/s?q=RR408893BCO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "981c57c54e70641a245b5352307cc66d0cafcc0e4e4149e49720c8292caaf617"
+    },
+    {
+      "sku": "WARI2622VRM1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/WARI2622VRM1_20261026_155349_PDP.png",
+      "captured_at": "2026-10-26T15:53:49-03:00",
+      "url": "https://site.fastshop.com.br/mixer-philips-walita-daily--capacidade-de-1-litros-e-funcoes-triturar--bater---ri2622-wari2622vrm_prd-4187/p",
+      "sha256": "d4d8b9e6f9cf362827af10076215e83df1e2128d5b385ff658a7a4da07ac3dc7"
+    },
+    {
+      "sku": "WARI2622VRM1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/WARI2622VRM1_20261026_155336_PLP.png",
+      "captured_at": "2026-10-26T15:53:36-03:00",
+      "url": "https://site.fastshop.com.br/s?q=WARI2622VRM1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f850bb664bd194c24b9849d28d16d9340b474bb34681cf175e45cd719af9c49f"
+    },
+    {
+      "sku": "9EA02V6NPTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EA02V6NPTO_20261026_155042_PDP.png",
+      "captured_at": "2026-10-26T15:50:42-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-articulado-vesa-600-para-tv-s-32--a-86----elg-pedestais---a02v6n-9ea02v6npto_prd-13589/p",
+      "sha256": "db49485e2fff2ac636927fd58aa517c39d20ca2f59b62fab2bb934d9892594ad"
+    },
+    {
+      "sku": "9EA02V6NPTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EA02V6NPTO_20261026_155029_PLP.png",
+      "captured_at": "2026-10-26T15:50:29-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EA02V6NPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "027e8985ce54ef31a279f697c2a7f79f47c05222667b15cfdeb641cfb35789f8"
+    },
+    {
+      "sku": "9EE600PTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EE600PTO_20261026_155044_PDP.png",
+      "captured_at": "2026-10-26T15:50:44-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-para-tvs-de-32--a-86--preto---e600---elg-pedestais-9ee600pto_prd-13591/p",
+      "sha256": "38915217e7e19cb1d938f3539caa4e4c59913154c11b9d96ab64e7404a0e7f64"
+    },
+    {
+      "sku": "9EE600PTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EE600PTO_20261026_155028_PLP.png",
+      "captured_at": "2026-10-26T15:50:28-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EE600PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "27417038ed4cac25bab65201d0e83181994bad546eec99a75be35d6250ed3a20"
+    },
+    {
+      "sku": "9EGENIUSPTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EGENIUSPTO_20261026_155042_PDP.png",
+      "captured_at": "2026-10-26T15:50:42-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-universal-para-tvs-de-14--a-100--preto---genius---elg-pedestais-9egeniuspto_prd-13593/p",
+      "sha256": "ecf6b229154baf77d461c793808816644043a1fcb4a490e7d428af58f024f37e"
+    },
+    {
+      "sku": "9EGENIUSPTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EGENIUSPTO_20261026_155026_PLP.png",
+      "captured_at": "2026-10-26T15:50:26-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EGENIUSPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "89c4ac7424be29282ecc09aeabdd456f91cdfe2a898211ca91261b0207102e0e"
+    },
+    {
+      "sku": "9EMULTIARTIPTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EMULTIARTIPTO_20261026_155042_PDP.png",
+      "captured_at": "2026-10-26T15:50:42-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-multiarticulado-para-telas-gigantes-de-60--a-120--e-ate-120kg-preto---a02v9xl---elg-9emultiartpto_prd-127975/p",
+      "sha256": "f2738369fa6b6460292e1915b75f580af03eed229f3b7e655e6a666077e64eb9"
+    },
+    {
+      "sku": "9EMULTIARTIPTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EMULTIARTIPTO_20261026_155029_PLP.png",
+      "captured_at": "2026-10-26T15:50:29-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EMULTIARTIPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "7c35c1fdb05f9a7adf4bb033c25e5d82cb5f8025593fa9459530fc5fa924cfe0"
+    },
+    {
+      "sku": "9EN01V8PTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EN01V8PTO_20261026_155042_PDP.png",
+      "captured_at": "2026-10-26T15:50:42-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-para-tvs-de-39--a-100--preto---n01v8---elg-pedestais-9en01v8pto_prd-13594/p",
+      "sha256": "4e7b857860cfea55c0625acee981541b0f89fe6f98e30e17455114bb5d340503"
+    },
+    {
+      "sku": "9EN01V8PTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EN01V8PTO_20261026_155027_PLP.png",
+      "captured_at": "2026-10-26T15:50:27-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EN01V8PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "c6f83acf40e1d6530f6aae5cbb2aba424e01fc8e93ec37be1c06dee08815f40b"
+    },
+    {
+      "sku": "9EPRO100BPTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EPRO100BPTO_20261026_155042_PDP.png",
+      "captured_at": "2026-10-26T15:50:42-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-teto-para-projetor-ate-13-5kg---elg---pro100b-9epro100bpto_prd-51306/p",
+      "sha256": "41882d19b7bcf6161ef4a004a972b35efabc13486069830cf92acb8231396839"
+    },
+    {
+      "sku": "9EPRO100BPTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EPRO100BPTO_20261026_155026_PLP.png",
+      "captured_at": "2026-10-26T15:50:26-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EPRO100BPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "62472c2be6ae4cc5cd9f854f96fe8398232fa478019a480cf5989a0f3d9daa52"
+    },
+    {
+      "sku": "AOFIXOPTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/AOFIXOPTO_20261026_155109_PDP.png",
+      "captured_at": "2026-10-26T15:51:09-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-wall-m-f-para-tvs-de-39--a-116----aironflex--aofixopto_prd-169558/p",
+      "sha256": "a3a35b8f45ddf1b0ac0fc26faac2caec5703b35d6b15d4aad91f3b7f1ccd1f8c"
+    },
+    {
+      "sku": "AOFIXOPTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/AOFIXOPTO_20261026_155058_PLP.png",
+      "captured_at": "2026-10-26T15:50:58-03:00",
+      "url": "https://site.fastshop.com.br/s?q=AOFIXOPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f999ede23c8de5f0921d7d51677b066b2468f895cb6d60aaaf30e58e30323092"
+    },
+    {
+      "sku": "AOMA400V44BK",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/AOMA400V44BK_20261026_155113_PDP.png",
+      "captured_at": "2026-10-26T15:51:13-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-articulado-aironflex-para-tvs-de-lcd--led-e-plasma-de-37--a-65--preto---ma400v44bk-aoma400v44bk_prd-14018/p",
+      "sha256": "49bc581d714d29e09138a42cb13fca79a4b65d61cb4576d93fa038d67859c042"
+    },
+    {
+      "sku": "AOMA400V44BK",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/AOMA400V44BK_20261026_155102_PLP.png",
+      "captured_at": "2026-10-26T15:51:02-03:00",
+      "url": "https://site.fastshop.com.br/s?q=AOMA400V44BK&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "d04365e34ac7b53ba16f5f0eb11ea2ab9a2c4473e8e5d9c1912a6838fce37312"
+    },
+    {
+      "sku": "AOMF3580BK",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/AOMF3580BK_20261026_155111_PDP.png",
+      "captured_at": "2026-10-26T15:51:11-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-para-tvs-de-60--a-90--preto---mf3580bk---airon-flex-aomf3580bk_prd-14020/p",
+      "sha256": "81ecdbe9e14f358a552e86b64840c125fb2983bf900ce77c3ffd0a6a390f84e2"
+    },
+    {
+      "sku": "AOMF3580BK",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/AOMF3580BK_20261026_155100_PLP.png",
+      "captured_at": "2026-10-26T15:51:00-03:00",
+      "url": "https://site.fastshop.com.br/s?q=AOMF3580BK&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "112fcd6896787f45123926348bfa6d19ecb2a9fca3e290259b0aa9982b587228"
+    },
+    {
+      "sku": "AOMF40V44PROMO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/AOMF40V44PROMO_20261026_155113_PDP.png",
+      "captured_at": "2026-10-26T15:51:13-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-aironflex-para-tvs-de-lcd--led-e-plasma-de-43--a-65--preto--mf40v44promo-aomf40v44promo_prd-14022/p",
+      "sha256": "82ce974b33bcd7493a2eac11cc48c7be32f136e0fee258b8da1a982b306e5ee2"
+    },
+    {
+      "sku": "AOMF40V44PROMO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/AOMF40V44PROMO_20261026_155101_PLP.png",
+      "captured_at": "2026-10-26T15:51:01-03:00",
+      "url": "https://site.fastshop.com.br/s?q=AOMF40V44PROMO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "9d659f4c23029f8cbb3e2e4ed6704936e4c60dccf2a9e3e2bae886543e591ba2"
+    }
+  ]
+}
