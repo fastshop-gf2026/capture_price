@@ -1,0 +1,2301 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "generated_at": "2026-11-16T15:18:25-03:00",
+  "files": [
+    {
+      "sku": "JBJBLPBCLUPTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBJBLPBCLUPTOB_20261116_151215_PDP.png",
+      "captured_at": "2026-11-16T15:12:15-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-jbl-endurance-peak-4-intra-auricular-preto---jblendupeak4-jblendupeapto_prd/p",
+      "sha256": "b58275128561160fd7390d5e75beaeb857713f68a91f76acafc425a9dd227600"
+    },
+    {
+      "sku": "JBJBLPBCLUPTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBJBLPBCLUPTOB_20261116_151159_PLP.png",
+      "captured_at": "2026-11-16T15:11:59-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBJBLPBCLUPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "70a0ac2be710b12e15608ceac23e31e1e9d442d3618b3b80111a67adfc87ca3d"
+    },
+    {
+      "sku": "JBLBOOMBX4BCOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLBOOMBX4BCOB_20261116_151249_PDP.png",
+      "captured_at": "2026-11-16T15:12:49-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-jbl-boombox-4-azul-bluetooth-ate-34h-de-bateria-186224-196555/p",
+      "sha256": "b2ff29b80e0e88a7386cb55f3a27c931e23ba38fc2f7cb2a91fb9a4a952af6a1"
+    },
+    {
+      "sku": "JBLBOOMBX4BCOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLBOOMBX4BCOB_20261116_151234_PLP.png",
+      "captured_at": "2026-11-16T15:12:34-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLBOOMBX4BCOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "54663a953c442474d41ee4f970e6b37352a451104199867573df00c9521fb1db"
+    },
+    {
+      "sku": "JBLBOOMBX4LRJB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLBOOMBX4LRJB_20261116_151245_PDP.png",
+      "captured_at": "2026-11-16T15:12:45-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-boombox-4-laranja--bateria-de-ate-34h-a-prova-d%E2%80%99agua-e-resistente-a-poeira-ip68-e-210w-jblboomboxlrj_prd-170423/p",
+      "sha256": "0e716a8ac3300abfe910311182cd71ab5f5da317bc62638532e3b36952c775e5"
+    },
+    {
+      "sku": "JBLBOOMBX4LRJB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLBOOMBX4LRJB_20261116_151231_PLP.png",
+      "captured_at": "2026-11-16T15:12:31-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLBOOMBX4LRJB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "fc1b935af15105b2181dd38ccf61a5bc75157534bd7462bd061371e6ad1f01e4"
+    },
+    {
+      "sku": "JBLBOOMBX4PTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLBOOMBX4PTOB_20261116_151142_PDP.png",
+      "captured_at": "2026-11-16T15:11:42-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-boombox-4-camuflada-ate-34h-de-reproducao--ip68-a-prova-d%E2%80%99agua-e-resistente-a-poeira--210w-jblboomboxvbg_prd/p",
+      "sha256": "15c13056c454dc79f8451a6b1e424b59c41b25a470192142e7711cb117940f5c"
+    },
+    {
+      "sku": "JBLBOOMBX4PTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLBOOMBX4PTOB_20261116_151131_PLP.png",
+      "captured_at": "2026-11-16T15:11:31-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLBOOMBX4PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "d88e01961a7dc22f59e58a504a08fe025073d5a4894cbd0f9eab2745c2220333"
+    },
+    {
+      "sku": "JBLENDUPEAPTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLENDUPEAPTOB_20261116_151213_PDP.png",
+      "captured_at": "2026-11-16T15:12:13-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-partybox-club-120-com-ai-sound-boost-preta---jblpbclub120br-jbjblpbclupto_prd/p",
+      "sha256": "d25806c7e11e41654b795b743e96bc510d560197f7d7ed69808ed9a9f2277053"
+    },
+    {
+      "sku": "JBLENDUPEAPTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLENDUPEAPTOB_20261116_151157_PLP.png",
+      "captured_at": "2026-11-16T15:11:57-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLENDUPEAPTOB",
+      "sha256": "5a6594232706a4d8247720d132166facff9e326b758b4e31efc914218fb673ef"
+    },
+    {
+      "sku": "JBLENDUZONPTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLENDUZONPTOB_20261116_151324_PDP.png",
+      "captured_at": "2026-11-16T15:13:24-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-sem-fio-jbl-true-wireless-endurance-zone-preto-jblenduzonpto_prd-149403/p",
+      "sha256": "a3dcee1a51101ddad1964c0b5e35901dc45e5944fd1002dc916a6c7ee68feb8e"
+    },
+    {
+      "sku": "JBLENDUZONPTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLENDUZONPTOB_20261116_151310_PLP.png",
+      "captured_at": "2026-11-16T15:13:10-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLENDUZONPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "4765897df98a43c52e9171f4a92b218c601e966cecc7ffd4aa811e2e7b9129e4"
+    },
+    {
+      "sku": "JBLGO5BCO",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLGO5BCO_20261116_151354_PDP.png",
+      "captured_at": "2026-11-16T15:13:54-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-bluetooth-jbl-tune-780nc-over-ear-preto-com-noise-cancelling-jblt780ncpto_prd/p",
+      "sha256": "92949c2fe9d27fe4e6c3d96f4de0cad657b001ea7f3dae9dbad8d06c5e8445a9"
+    },
+    {
+      "sku": "JBLGO5BCO",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLGO5BCO_20261116_151346_PLP.png",
+      "captured_at": "2026-11-16T15:13:46-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLGO5BCO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "c7402deff8ff0ef3aabaad0508657391daaf7f89ecb0e89e43d81f5e341abf82"
+    },
+    {
+      "sku": "JBLGRIPPTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLGRIPPTOB_20261116_151140_PDP.png",
+      "captured_at": "2026-11-16T15:11:40-03:00",
+      "url": "https://site.fastshop.com.br/soundbar-jbl-bar-1000mk2-7-1-4-canais-wireless-com-480w-rms--purevoice-2-0-e-multibeam%E2%84%A2-3-0-jblbar10m2pto_prd/p",
+      "sha256": "1cf1ccea66af8b7c1bbe119628bada940ea190469f5da7e388ac82101834c063"
+    },
+    {
+      "sku": "JBLGRIPPTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLGRIPPTOB_20261116_151130_PLP.png",
+      "captured_at": "2026-11-16T15:11:30-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLGRIPPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f861728afa8ced86916de72832f9cadea85ce612d77ba6759a94444defb45b76"
+    },
+    {
+      "sku": "JBLLIVE780BCOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLLIVE780BCOB_20261116_151329_PDP.png",
+      "captured_at": "2026-11-16T15:13:29-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-partybox-encore-essential-2-preto--bateria-de-ate-15h-a-prova-d-agua-ipx4-jblpbencsspto_prd/p",
+      "sha256": "7791782a960ed90dd40ed6d82baed287d12aadc40894a16cf09968d78151a1fe"
+    },
+    {
+      "sku": "JBLLIVE780BCOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLLIVE780BCOB_20261116_151319_PLP.png",
+      "captured_at": "2026-11-16T15:13:19-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLLIVE780BCOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "cbdc923d5c988cab2d8b0a99553f7bb853fc3ab697cdad6e8cb07f00921dbb84"
+    },
+    {
+      "sku": "JBLOOMBOX4PTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLOOMBOX4PTOB_20261116_151212_PDP.png",
+      "captured_at": "2026-11-16T15:12:12-03:00",
+      "url": "https://site.fastshop.com.br/caixa-bluetooth-jbl-charge-6-a-prova-d-agua-preto---jblcharge6blkbr-jblcharge6pto_prd/p",
+      "sha256": "81a61edba4ae94a539725bf40280545b705f5b2759d039694b174857b0b3a93e"
+    },
+    {
+      "sku": "JBLOOMBOX4PTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLOOMBOX4PTOB_20261116_151156_PLP.png",
+      "captured_at": "2026-11-16T15:11:56-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLOOMBOX4PTOB",
+      "sha256": "e40aeae1742a39ae439b671eaf1a2de5cef7635461e58a832a19748aead34ef2"
+    },
+    {
+      "sku": "JBLPB130PTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLPB130PTOB_20261116_151326_PDP.png",
+      "captured_at": "2026-11-16T15:13:26-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-boombox-4-preta--bateria-de-ate-34h---a-prova-d%E2%80%99agua-e-resistente-a-poeira-ip68-e-210w-jblboombx4pto_prd-170425/p",
+      "sha256": "89ffecfbf2f82a9b5778b79ab57557bea198483d74d84ab3e034ceedd3465e81"
+    },
+    {
+      "sku": "JBLPB130PTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLPB130PTOB_20261116_151312_PLP.png",
+      "captured_at": "2026-11-16T15:13:12-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLPB130PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "d5e1915df23fac3f296a6d4fcf725849a5e7f6ddda04ea029a8217845742b77b"
+    },
+    {
+      "sku": "JBLSB180BRPTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLSB180BRPTOB_20261116_151330_PDP.png",
+      "captured_at": "2026-11-16T15:13:30-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-partybox-encore-essential-2-preto--bateria-de-ate-15h-a-prova-d-agua-ipx4-jblpbencsspto_prd/p",
+      "sha256": "43645646c0b62b78adebe5e46514134b90988db1169567d6b340aab2abbab861"
+    },
+    {
+      "sku": "JBLSB180BRPTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLSB180BRPTOB_20261116_151316_PLP.png",
+      "captured_at": "2026-11-16T15:13:16-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLSB180BRPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f82e853d184c9b78924b47d9cc5b7752c070d352c540e2cae0032bc1563ad23f"
+    },
+    {
+      "sku": "JBLSB595PTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLSB595PTOB_20261116_151323_PDP.png",
+      "captured_at": "2026-11-16T15:13:23-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-boombox-4-preta--bateria-de-ate-34h---a-prova-d%E2%80%99agua-e-resistente-a-poeira-ip68-e-210w-jblboombx4pto_prd/p",
+      "sha256": "15bf89124fe0181caece09a3b3526669cf41e0a06476349bb64b7d02f8f3516f"
+    },
+    {
+      "sku": "JBLSB595PTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLSB595PTOB_20261116_151307_PLP.png",
+      "captured_at": "2026-11-16T15:13:07-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLSB595PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "733bcf2ba137ab0c8fbe9b9786adf1f653c37e90d435f215a2c8d656b66a1ef6"
+    },
+    {
+      "sku": "JBLT530BTAZLB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLT530BTAZLB_20261116_151141_PDP.png",
+      "captured_at": "2026-11-16T15:11:41-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-partybox-encore-essential-2-preto--bateria-de-ate-15h-a-prova-d-agua-ipx4-jblpbencsspto_prd/p",
+      "sha256": "cc1e7d2b881b712f818e29745e8789c256b1a5f06b408e396eb12ebde89e4755"
+    },
+    {
+      "sku": "JBLT530BTAZLB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLT530BTAZLB_20261116_151131_PLP.png",
+      "captured_at": "2026-11-16T15:11:31-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLT530BTAZLB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "c23fe46be2be40f934a8de9e8bbd38ceec98f82ba24b59e1cc09c05f6bcbeb91"
+    },
+    {
+      "sku": "JBLT530BTBCOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLT530BTBCOB_20261116_151221_PDP.png",
+      "captured_at": "2026-11-16T15:12:21-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-party-box-520-br-preta--resistente-a-respingos-ipx4--show-de-luzes-futurista-jblparty52pto_prd/p",
+      "sha256": "be6fb73b360e5dd8c6831da39360f87f005f9ffba3217df1a2ee0c121236f15a"
+    },
+    {
+      "sku": "JBLT530BTBCOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLT530BTBCOB_20261116_151206_PLP.png",
+      "captured_at": "2026-11-16T15:12:06-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLT530BTBCOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "99ca1e8429408d1f37e0a59b7a5416dc3d4c925777f937c9d6f4e2c979b001ed"
+    },
+    {
+      "sku": "JBLT530BTBGEB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLT530BTBGEB_20261116_151350_PDP.png",
+      "captured_at": "2026-11-16T15:13:50-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-bluetooth-jbl-tune-530bt-headphones-on-ear-bege-jblt530btbge_prd-161107/p",
+      "sha256": "f183105179dcd86b738afc118c8b4fbb4c740c677c75f80d00b9640f1168797b"
+    },
+    {
+      "sku": "JBLT530BTBGEB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLT530BTBGEB_20261116_151339_PLP.png",
+      "captured_at": "2026-11-16T15:13:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLT530BTBGEB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "29ddef9489382f07d77b1958e36771f3301dd8a0f050b6a6f310eb317ad93350"
+    },
+    {
+      "sku": "JBLT530BTPTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLT530BTPTOB_20261116_151146_PDP.png",
+      "captured_at": "2026-11-16T15:11:46-03:00",
+      "url": "https://site.fastshop.com.br/soundbar-jbl-bar-1300xmk2-com-11-1-4-canais-bluetooth--dolby-atmos%C2%AE-real--dts-x-e-785w-de-potencia-jblbar1300xm2_prd/p",
+      "sha256": "7deccece9f09bb9e730d16a709cb0ea575ce074aed627b57c406d52159566a42"
+    },
+    {
+      "sku": "JBLT530BTPTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLT530BTPTOB_20261116_151134_PLP.png",
+      "captured_at": "2026-11-16T15:11:34-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLT530BTPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "19f6e6ed37b5f8c92b451f93677fc893e519f7b6de91db11e3d7f396ff17c556"
+    },
+    {
+      "sku": "JBLT730BAZLB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLT730BAZLB_20261116_151258_PDP.png",
+      "captured_at": "2026-11-16T15:12:58-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-bluetooth-jbl-tune-730bt-headphones-over-ear-azul-jblt730bazl_prd-161589/p",
+      "sha256": "9f150b4905e424438e4604d4d91759e0942283651a3800e6cf7ba5ff34f86c16"
+    },
+    {
+      "sku": "JBLT730BAZLB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLT730BAZLB_20261116_151241_PLP.png",
+      "captured_at": "2026-11-16T15:12:41-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLT730BAZLB",
+      "sha256": "9c8b5c5ccdd0addf8a2085d8341324729e19df4e1cb5c268a2a8212d173c3aba"
+    },
+    {
+      "sku": "JBLT730BTBCOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLT730BTBCOB_20261116_151324_PDP.png",
+      "captured_at": "2026-11-16T15:13:24-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-bluetooth-jbl-tune-730bt-headphones-over-ear-branco-jblt730btbco_prd-161655/p",
+      "sha256": "a0b92c2a8a1ae3586b9f9a2295af93a6bfb647310d5daf19ef8ec82b5f1cdbad"
+    },
+    {
+      "sku": "JBLT730BTBCOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLT730BTBCOB_20261116_151312_PLP.png",
+      "captured_at": "2026-11-16T15:13:12-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLT730BTBCOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "2ed87f92131c7b21e51be082eeb193f6834828af119094fdaa4383be7bfbc957"
+    },
+    {
+      "sku": "JBLT730BTPTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLT730BTPTOB_20261116_151145_PDP.png",
+      "captured_at": "2026-11-16T15:11:45-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-boombox-4-preta--bateria-de-ate-34h---a-prova-d%E2%80%99agua-e-resistente-a-poeira-ip68-e-210w-jblboombx4pto_prd/p",
+      "sha256": "a23cc3111da37d678b75aff42ed1a24acd1426c0b853724f4c1aa1b390812aae"
+    },
+    {
+      "sku": "JBLT730BTPTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLT730BTPTOB_20261116_151133_PLP.png",
+      "captured_at": "2026-11-16T15:11:33-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLT730BTPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "06ea37f8bb41bca615fc56c08deb36e1447a5c10664f2b442944c82e239d7153"
+    },
+    {
+      "sku": "JBLT780NCBCOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLT780NCBCOB_20261116_151249_PDP.png",
+      "captured_at": "2026-11-16T15:12:49-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-bluetooth-jbl-tune-780nc-over-ear-branco-com-noise-cancelling-jblt780ncbco_prd-161545/p",
+      "sha256": "460fa9a841182790e441eb962af397d2df3d9510246db75b934f68687977bb2b"
+    },
+    {
+      "sku": "JBLT780NCBCOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLT780NCBCOB_20261116_151235_PLP.png",
+      "captured_at": "2026-11-16T15:12:35-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLT780NCBCOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "15f9bd30ae56bc34b6f470ab5b12606e19738009544a1489ecb0ad0fe95b7ba6"
+    },
+    {
+      "sku": "JBLT780NCPTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLT780NCPTOB_20261116_151251_PDP.png",
+      "captured_at": "2026-11-16T15:12:51-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-bluetooth-jbl-tune-780nc-over-ear-preto-com-noise-cancelling-jblt780ncpto_prd-161546/p",
+      "sha256": "417457563fcdd9de6dea2a2a76b8b30b93eb5aa9e0cd9b489447b23611bd556e"
+    },
+    {
+      "sku": "JBLT780NCPTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLT780NCPTOB_20261116_151239_PLP.png",
+      "captured_at": "2026-11-16T15:12:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLT780NCPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "7d5cc875c233dd4a15e1ca474bb2e2f1bd9251358bc67ffaf8fcbbc075113370"
+    },
+    {
+      "sku": "JBLTBUDS2BPTO",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLTBUDS2BPTO_20261116_151354_PDP.png",
+      "captured_at": "2026-11-16T15:13:54-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-grip-preta-jblgrippto_prd/p",
+      "sha256": "beff0712324c1bd0f50088d3d7f97696907d1ca8f18b4c540b3b1d1900eefa70"
+    },
+    {
+      "sku": "JBLTBUDS2BPTO",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLTBUDS2BPTO_20261116_151345_PLP.png",
+      "captured_at": "2026-11-16T15:13:45-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLTBUDS2BPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e2494c94bec3b46bceb289e51a45a41c6d462a2fecc4a9ab12056b0b71cc942e"
+    },
+    {
+      "sku": "JBLWBUDS2AZL",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLWBUDS2AZL_20261116_151355_PDP.png",
+      "captured_at": "2026-11-16T15:13:55-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-jbl-wave-buds-2-azul-jblwbuds2azl_prd-67997/p",
+      "sha256": "146ffaf680265edc6440e99453316a062d3cf95eec7c098f14a8b854c0685fba"
+    },
+    {
+      "sku": "JBLWBUDS2AZL",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLWBUDS2AZL_20261116_151347_PLP.png",
+      "captured_at": "2026-11-16T15:13:47-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLWBUDS2AZL&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "425aa831bcbd7491b59e484d82614d64e9bf537d470c8cf76aaf20546dd8c6f5"
+    },
+    {
+      "sku": "JBLWBUDS2PTO",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/JBLWBUDS2PTO_20261116_151249_PDP.png",
+      "captured_at": "2026-11-16T15:12:49-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-bluetooth-jbl-tune-780nc-over-ear-preto-com-noise-cancelling-jblt780ncpto_prd/p",
+      "sha256": "2b471114960d9600af13e373e380cbf0edd601d4da1f77d4a9472db1222373e9"
+    },
+    {
+      "sku": "JBLWBUDS2PTO",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/JBLWBUDS2PTO_20261116_151236_PLP.png",
+      "captured_at": "2026-11-16T15:12:36-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLWBUDS2PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "9b92b143339e08fe92b5617710a8cdd7b6c68d19b411b3e7f2e1376334796ab9"
+    },
+    {
+      "sku": "L283GM0003BRB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/L283GM0003BRB_20261116_151142_PDP.png",
+      "captured_at": "2026-11-16T15:11:42-03:00",
+      "url": "https://site.fastshop.com.br/notebook-lenovo-yoga-slim-7i-intel-core-ultra-5--16gb--512gb-ssd--tela-de-14--oled--windows-11---83gm0003br-l283gm0003br_prd-65794/p",
+      "sha256": "f30f04b7f5035aea87c2360eb153eb5f4896378e8003a71f9327283edd68dda2"
+    },
+    {
+      "sku": "L283GM0003BRB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/L283GM0003BRB_20261116_151130_PLP.png",
+      "captured_at": "2026-11-16T15:11:30-03:00",
+      "url": "https://site.fastshop.com.br/s?q=L283GM0003BRB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a3101f9bc95bc26cfc150b6ca3b8f4c9078302f5eed27711080c39bb5b714cc8"
+    },
+    {
+      "sku": "L283NU0006CNZB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/L283NU0006CNZB_20261116_151352_PDP.png",
+      "captured_at": "2026-11-16T15:13:52-03:00",
+      "url": "https://site.fastshop.com.br/notebook-lenovo%C2%AE-ideapad-slim-3-intel-core-i3--8gb--512gb-ssd--tela-de-15-3---w11-home---83nu0006br-l283nu0006cnz_prd-166578/p",
+      "sha256": "87576adc0c31ca6d98b62c4a394d88f3f738b676a0111da462fbb112412bfd78"
+    },
+    {
+      "sku": "L283NU0006CNZB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/L283NU0006CNZB_20261116_151342_PLP.png",
+      "captured_at": "2026-11-16T15:13:42-03:00",
+      "url": "https://site.fastshop.com.br/s?q=L283NU0006CNZB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "49609dae026b914cb50956b19345f5919574bddb0a2054e4a2ed9f9659b72780"
+    },
+    {
+      "sku": "TK55C6KPTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/TK55C6KPTOB_20261116_151214_PDP.png",
+      "captured_at": "2026-11-16T15:12:14-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-4k-tcl-qd-mini-led-55%E2%80%9D-polegadas-com-hdmi-2-1--dolby-vision-iq--subwoofer--144hz-vrr-e-wi-fi---55c6k-tk55c6kpto_prd-121394/p",
+      "sha256": "b24aae62a381eadbd67fd12415c998b7d87909273e1d23aa44f72100c3a08073"
+    },
+    {
+      "sku": "TK55C6KPTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/TK55C6KPTOB_20261116_151157_PLP.png",
+      "captured_at": "2026-11-16T15:11:57-03:00",
+      "url": "https://site.fastshop.com.br/s?q=TK55C6KPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "0b1dabffb751b5f4616aa9fb285c0caf1c7e07aab56b04250a7212906dc714b2"
+    },
+    {
+      "sku": "TK65C6KPTOB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/TK65C6KPTOB_20261116_151219_PDP.png",
+      "captured_at": "2026-11-16T15:12:19-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-4k-tcl-qd-mini-led-65%E2%80%9D-polegadas-com-hdmi-2-1--dolby-vision-iq--subwoofer--144hz-vrr-e-wi-fi---65c6k-tk65c6kpto_prd-121398/p",
+      "sha256": "4d410deb72346381f1ceefa2254132f43869ad3166c916ca264e03de3cabac9f"
+    },
+    {
+      "sku": "TK65C6KPTOB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/TK65C6KPTOB_20261116_151203_PLP.png",
+      "captured_at": "2026-11-16T15:12:03-03:00",
+      "url": "https://site.fastshop.com.br/s?q=TK65C6KPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "58796549a9799ec961fb6cedd227a3c3a022af4cbe404fbc748182795f664fb9"
+    },
+    {
+      "sku": "BRBDK75DRB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/BRBDK75DRB_20261116_151343_PDP.png",
+      "captured_at": "2026-11-16T15:13:43-03:00",
+      "url": "https://site.fastshop.com.br/cooktop-5-bocas-brastemp-gourmand-inox-com-duplachama-e-trempe-com-ferro-fundido---bdk75dr-brbdk75dr_prd-3805/p",
+      "sha256": "750378e7ce1ef3705c8ab9d74ba20f4e778f863c138fa3fba49d8a02156cda25"
+    },
+    {
+      "sku": "BRBDK75DRB",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/BRBDK75DRB_220V_20261116_151352_PDP.png",
+      "captured_at": "2026-11-16T15:13:52-03:00",
+      "url": "https://site.fastshop.com.br/cooktop-5-bocas-brastemp-gourmand-inox-com-duplachama-e-trempe-com-ferro-fundido---bdk75dr-brbdk75dr_prd-3805/p",
+      "sha256": "44ee4b3ff61e6c9931e61b37b30ffd0fe0206bd20b9e699d4207fdf1d6cb28df"
+    },
+    {
+      "sku": "BRBDK75DRB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/BRBDK75DRB_20261116_151329_PLP.png",
+      "captured_at": "2026-11-16T15:13:29-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBDK75DRB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "39b426413838bc35df4527441a6b0b92187f799870f7ac5ee0f023719787d9cc"
+    },
+    {
+      "sku": "BRBDK90DRB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/BRBDK90DRB_20261116_151643_PDP.png",
+      "captured_at": "2026-11-16T15:16:43-03:00",
+      "url": "https://site.fastshop.com.br/cooktop-5-bocas-brastemp-gourmand-inox-com-duplachama-e-trempe-com-ferro-fundido-bdk90dr-brbdk90dr_prd-3806/p",
+      "sha256": "2b7890b9555d473f3b85d2ad386ba0c8972ce9c098141b5ad0307a30c2e9ae9c"
+    },
+    {
+      "sku": "BRBDK90DRB",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/BRBDK90DRB_220V_20261116_151653_PDP.png",
+      "captured_at": "2026-11-16T15:16:53-03:00",
+      "url": "https://site.fastshop.com.br/cooktop-5-bocas-brastemp-gourmand-inox-com-duplachama-e-trempe-com-ferro-fundido-bdk90dr-brbdk90dr_prd-3806/p",
+      "sha256": "b86cea861e017874e4e35a337fd354488cbaead4e8ef060050ca1cc7b0f25170"
+    },
+    {
+      "sku": "BRBDK90DRB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/BRBDK90DRB_20261116_151627_PLP.png",
+      "captured_at": "2026-11-16T15:16:27-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBDK90DRB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e2976fda1ec7e7c3b53395a9f15a5d58e807cabaa702cd83ffaaf5fe71e48b47"
+    },
+    {
+      "sku": "BRBFO4XAEUNAB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/BRBFO4XAEUNAB_20261116_151752_PDP.png",
+      "captured_at": "2026-11-16T15:17:52-03:00",
+      "url": "https://site.fastshop.com.br/fogao-de-piso-brastemp-de-04-piso-com-mesa-de-vidro-e-dupla-chama-preto---bfo4xae-brbfo4xaeuna_prd-12499/p",
+      "sha256": "51193d6fcf7edcdadb5dd476d134a9398d7185a308e231486022ae878bf472de"
+    },
+    {
+      "sku": "BRBFO4XAEUNAB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/BRBFO4XAEUNAB_20261116_151746_PLP.png",
+      "captured_at": "2026-11-16T15:17:46-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBFO4XAEUNAB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "36eb4e928355690e3a66ed672992b937895b74dfd47eede982fd33e519b82589"
+    },
+    {
+      "sku": "BRBLF08BSANA1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/BRBLF08BSANA1_20261116_151158_PDP.png",
+      "captured_at": "2026-11-16T15:11:58-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-brastemp-cinza-metalico-com-08-servicos-e-05-programas-de-lavagem---blf08b-brblf08bsana_prd-2498/p",
+      "sha256": "9e8213f723d258bec75bf870588044ecf7d9f5ebc02da38e37f0fb414db58beb"
+    },
+    {
+      "sku": "BRBLF08BSANA1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/BRBLF08BSANA1_20261116_151139_PLP.png",
+      "captured_at": "2026-11-16T15:11:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBLF08BSANA1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a2a797a8db95f78128e2fe36c84b6ef390f494d6d9f312b7cddbd7f193ef8037"
+    },
+    {
+      "sku": "BRBLF08BSANA2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/BRBLF08BSANA2_20261116_151158_PDP.png",
+      "captured_at": "2026-11-16T15:11:58-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-brastemp-cinza-metalico-com-08-servicos-e-05-programas-de-lavagem---blf08b-brblf08bsana_prd-2498/p",
+      "sha256": "8145cef3dea7f9470b93d364fd0de5cadfedde4de9bd6672b1570741c2b1a9e4"
+    },
+    {
+      "sku": "BRBLF08BSANA2",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/BRBLF08BSANA2_110V_20261116_151211_PDP.png",
+      "captured_at": "2026-11-16T15:12:11-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-brastemp-cinza-metalico-com-08-servicos-e-05-programas-de-lavagem---blf08b-brblf08bsana_prd-4555/p",
+      "sha256": "55780af2f4af787a3deb8058f6eef8e77fea4b33cf61d98216714f3e0bb002c0"
+    },
+    {
+      "sku": "BRBLF08BSANA2",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/BRBLF08BSANA2_220V_20261116_151224_PDP.png",
+      "captured_at": "2026-11-16T15:12:24-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-brastemp-cinza-metalico-com-08-servicos-e-05-programas-de-lavagem---blf08b-brblf08bsana_prd-2498/p",
+      "sha256": "85eb908604481421980a02b169214513a16dbfd7e39a24555328c1f7b0d18cfd"
+    },
+    {
+      "sku": "BRBLF08BSANA2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/BRBLF08BSANA2_20261116_151142_PLP.png",
+      "captured_at": "2026-11-16T15:11:42-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBLF08BSANA2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "6922565315a7b8d9c8dc50448d6ae8321fe615e4b99f4349849ecb5640e907ca"
+    },
+    {
+      "sku": "BRBLF62AP1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/BRBLF62AP1_20261116_151435_PDP.png",
+      "captured_at": "2026-11-16T15:14:35-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-brastemp-eclipse-collection-black-stainless-com-15-servicos--05-programas-de-lavagem---blf62ap-brblf62ap_prd-66626/p",
+      "sha256": "697e87b81f0a4edecd0f4b9b1d73dc681f6beca26b3e149d47502257fb205e02"
+    },
+    {
+      "sku": "BRBLF62AP1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/BRBLF62AP1_110V_20261116_151447_PDP.png",
+      "captured_at": "2026-11-16T15:14:47-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-brastemp-eclipse-collection-black-stainless-com-15-servicos--05-programas-de-lavagem---blf62ap-brblf62ap_prd-66626/p",
+      "sha256": "25b28473cc776a5fd7f311d1c83d7a9ca67aae578e659011566d8fbd864bf125"
+    },
+    {
+      "sku": "BRBLF62AP1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/BRBLF62AP1_20261116_151419_PLP.png",
+      "captured_at": "2026-11-16T15:14:19-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBLF62AP1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "ba18f32ad3d8a65d460c3c2032a5153d04f1b07f4016ced163742e9f38bba328"
+    },
+    {
+      "sku": "BRBMO40AR2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/BRBMO40AR2_20261116_151421_PDP.png",
+      "captured_at": "2026-11-16T15:14:21-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-de-embutir-brastemp-com-40-litros-de-capacidade-e-grill-inox---bmo40ar-brbmo40ar_prd-12505/p",
+      "sha256": "48b8e6b686533b5bb099661ccf3a5498d5b751295b0415f093eb40125edc4e30"
+    },
+    {
+      "sku": "BRBMO40AR2",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/BRBMO40AR2_220V_20261116_151430_PDP.png",
+      "captured_at": "2026-11-16T15:14:30-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-de-embutir-brastemp-com-40-litros-de-capacidade-e-grill-inox---bmo40ar-brbmo40ar_prd-12505/p",
+      "sha256": "9175c297855fe3d8f03f6b1107ba0ddda32366b0a128192f235e323e0568c27a"
+    },
+    {
+      "sku": "BRBMO40AR2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/BRBMO40AR2_20261116_151406_PLP.png",
+      "captured_at": "2026-11-16T15:14:06-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBMO40AR2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "9d89f01d227c4f580f34a16e27523f8887dc3431d4821a91d3d107c58dbc87c2"
+    },
+    {
+      "sku": "BRBO260ARBNA",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/BRBO260ARBNA_20261116_151337_PDP.png",
+      "captured_at": "2026-11-16T15:13:37-03:00",
+      "url": "https://site.fastshop.com.br/forno-de-embutir-eletrico-brastemp-67-litros-inox-com-funcao-ar-forcado-e-painel-touch---bo260ar-brbo260arbna_prd-12517/p",
+      "sha256": "7113e4ffe1879f57265aa98ac37f4fb29badbd6da3fe9afc95f49b6728765f14"
+    },
+    {
+      "sku": "BRBO260ARBNA",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/BRBO260ARBNA_220V_20261116_151344_PDP.png",
+      "captured_at": "2026-11-16T15:13:44-03:00",
+      "url": "https://site.fastshop.com.br/forno-de-embutir-eletrico-brastemp-67-litros-inox-com-funcao-ar-forcado-e-painel-touch---bo260ar-brbo260arbna_prd-12517/p",
+      "sha256": "db376a26f3d2f8c31f4ff9496f920371a730430f1af0bfdeb802397425edcf93"
+    },
+    {
+      "sku": "BRBO260ARBNA",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/BRBO260ARBNA_20261116_151323_PLP.png",
+      "captured_at": "2026-11-16T15:13:23-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBO260ARBNA&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "2ae081c9552e1ab6e94c62996a685abcd4c9cbdc7f3792edf2d19757777ad434"
+    },
+    {
+      "sku": "BRBOA84AE2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/BRBOA84AE2_20261116_151542_PDP.png",
+      "captured_at": "2026-11-16T15:15:42-03:00",
+      "url": "https://site.fastshop.com.br/forno-de-embutir-a-gas-brastemp-78-litros-preto-com-grill-e-timer-touch---boa84ae-brboa84ae_prd-12518/p",
+      "sha256": "74677aa007466b139e12bcb6bd3642958004d54e8ebe23637280f8a79a87a191"
+    },
+    {
+      "sku": "BRBOA84AE2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/BRBOA84AE2_20261116_151525_PLP.png",
+      "captured_at": "2026-11-16T15:15:25-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBOA84AE2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "77f973791e2882514380cf489fd9567186645ea70319d4fe9d01864fd0e323ec"
+    },
+    {
+      "sku": "BRBRA08ME1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/BRBRA08ME1_20261116_151554_PDP.png",
+      "captured_at": "2026-11-16T15:15:54-03:00",
+      "url": "https://site.fastshop.com.br/frigobar-brastemp-retro-76-litros-classic-black----bra08me-brbra08me_prd-171658/p",
+      "sha256": "3d7470d354ffe6eb094304ab4e576a18b4fd45097ce77226d8eb2638c6678320"
+    },
+    {
+      "sku": "BRBRA08ME1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/BRBRA08ME1_110V_20261116_151607_PDP.png",
+      "captured_at": "2026-11-16T15:16:07-03:00",
+      "url": "https://site.fastshop.com.br/frigobar-brastemp-retro-76-litros-classic-black----bra08me-brbra08me_prd-171658/p",
+      "sha256": "fd1c576c9a5e00fbab376d0b8443225c97d167c46d23a56174e3747e3d93e758"
+    },
+    {
+      "sku": "BRBRA08ME1",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/BRBRA08ME1_220V_20261116_151615_PDP.png",
+      "captured_at": "2026-11-16T15:16:15-03:00",
+      "url": "https://site.fastshop.com.br/frigobar-brastemp-retro-76-litros-classic-black----bra08me-brbra08me_prd-171665/p",
+      "sha256": "91bc35b826524925923ee6bf1519bbb5a6f55d6682ac7d56bdfab637ffbf9421"
+    },
+    {
+      "sku": "BRBRA08ME1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/BRBRA08ME1_20261116_151539_PLP.png",
+      "captured_at": "2026-11-16T15:15:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBRA08ME1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "ba7151cfc80688186b3418bc254a5781dbb43e35e5f18beae989dac65251fc89"
+    },
+    {
+      "sku": "BRBWF18ABANA1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/BRBWF18ABANA1_20261116_151657_PDP.png",
+      "captured_at": "2026-11-16T15:16:57-03:00",
+      "url": "https://site.fastshop.com.br/maquina-de-lavar-brastemp-18kg-branca-com-ciclo-tira-manchas-advanced-e-ciclo-antibolinha---bwf18ab-brbwf18ab_prd-104734/p",
+      "sha256": "b3edc9e39c9153c50e1dd691b4687912fbc7041d7264b0d1fd011dbd274301a1"
+    },
+    {
+      "sku": "BRBWF18ABANA1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/BRBWF18ABANA1_110V_20261116_151713_PDP.png",
+      "captured_at": "2026-11-16T15:17:13-03:00",
+      "url": "https://site.fastshop.com.br/maquina-de-lavar-brastemp-18kg-branca-com-ciclo-tira-manchas-advanced-e-ciclo-antibolinha---bwf18ab-brbwf18ab_prd-104738/p",
+      "sha256": "529cdffa6f2ad5ffa3180a520610524f406ad3128d7052b04284abad8e84fa2c"
+    },
+    {
+      "sku": "BRBWF18ABANA1",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/BRBWF18ABANA1_220V_20261116_151725_PDP.png",
+      "captured_at": "2026-11-16T15:17:25-03:00",
+      "url": "https://site.fastshop.com.br/maquina-de-lavar-brastemp-18kg-branca-com-ciclo-tira-manchas-advanced-e-ciclo-antibolinha---bwf18ab-brbwf18ab_prd-104734/p",
+      "sha256": "b23dbb75851136dd1eef4adf75c7044a842ec9115f1aab9b55c0d86324c1d400"
+    },
+    {
+      "sku": "BRBWF18ABANA1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/BRBWF18ABANA1_20261116_151644_PLP.png",
+      "captured_at": "2026-11-16T15:16:44-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBWF18ABANA1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "6de82f1fc342d8dfc2db9fe34cef69d1c10f1c8ac118fbc5d8514f7f9ee2fffc"
+    },
+    {
+      "sku": "BRBWJ14A9BNA2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/BRBWJ14A9BNA2_20261116_151610_PDP.png",
+      "captured_at": "2026-11-16T15:16:10-03:00",
+      "url": "https://site.fastshop.com.br/lavadora-de-roupas-brastemp-14kg-cinza-platinum-com-12-programas-de-lavagem-com-smart-sensor---bwj14a9-brbwj14a9_prd-143761/p",
+      "sha256": "a007e03128224ee3f56c5cbe6f0d39e7314cefdfb3f482c9447a72c764d769e4"
+    },
+    {
+      "sku": "BRBWJ14A9BNA2",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/BRBWJ14A9BNA2_110V_20261116_151620_PDP.png",
+      "captured_at": "2026-11-16T15:16:20-03:00",
+      "url": "https://site.fastshop.com.br/lavadora-de-roupas-brastemp-14kg-cinza-platinum-com-12-programas-de-lavagem-com-smart-sensor---bwj14a9-brbwj14a9_prd-143761/p",
+      "sha256": "8b6cefd97ddb13e3069fd33c6a9ee8095d3acfa6dc84f0ca8dcdc6fe9498e5ee"
+    },
+    {
+      "sku": "BRBWJ14A9BNA2",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/BRBWJ14A9BNA2_220V_20261116_151625_PDP.png",
+      "captured_at": "2026-11-16T15:16:25-03:00",
+      "url": "https://site.fastshop.com.br/lavadora-de-roupas-brastemp-14kg-cinza-platinum-com-12-programas-de-lavagem-com-smart-sensor---bwj14a9-brbwj14a9_prd-143697/p",
+      "sha256": "f81b51e04ccc3f2d30550721a7b7bc8ef25e09c403ef5bd327f829ff6f4ef022"
+    },
+    {
+      "sku": "BRBWJ14A9BNA2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/BRBWJ14A9BNA2_20261116_151556_PLP.png",
+      "captured_at": "2026-11-16T15:15:56-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BRBWJ14A9BNA2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "505f5bd1ba986176b941ee8397e1767f6bcb5e7b4ecad5bcc4ac9d353e64ba6e"
+    },
+    {
+      "sku": "EXBSE40CNZB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXBSE40CNZB_20261116_151751_PDP.png",
+      "captured_at": "2026-11-16T15:17:51-03:00",
+      "url": "https://site.fastshop.com.br/liquidificador-portatil-electrolux-experience-bse40-120w-sem-fio-com-carregamento-usb-exbse40cnz_prd-184802/p",
+      "sha256": "c1fba9b0eb13f443b88cc3cd2775145c1c2fc67a49f6a1d58fed5ba9d84b3f4a"
+    },
+    {
+      "sku": "EXBSE40CNZB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXBSE40CNZB_20261116_151742_PLP.png",
+      "captured_at": "2026-11-16T15:17:42-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXBSE40CNZB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "59441cc7e965bb9133aebe5f866ee0ec3ee3c72474e8ded08105f0ffdbd806b6"
+    },
+    {
+      "sku": "EXEAF45PTO1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXEAF45PTO1_20261116_151608_PDP.png",
+      "captured_at": "2026-11-16T15:16:08-03:00",
+      "url": "https://site.fastshop.com.br/air-fryer-electrolux-por-rita-lobo-5-6l-experience---eaf45-exeaf45pto_prd-94936/p",
+      "sha256": "62a4212d7161622c4f76cf15f7c2ff3fa9167d05db514ba82e3df54984ef704d"
+    },
+    {
+      "sku": "EXEAF45PTO1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXEAF45PTO1_110V_20261116_151616_PDP.png",
+      "captured_at": "2026-11-16T15:16:16-03:00",
+      "url": "https://site.fastshop.com.br/air-fryer-electrolux-por-rita-lobo-5-6l-experience---eaf45-exeaf45pto_prd-94936/p",
+      "sha256": "a2c069fcbaa700bed4995ee944afbc06e57271c33f5023cad0b3672956c070d7"
+    },
+    {
+      "sku": "EXEAF45PTO1",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXEAF45PTO1_220V_20261116_151626_PDP.png",
+      "captured_at": "2026-11-16T15:16:26-03:00",
+      "url": "https://site.fastshop.com.br/air-fryer-electrolux-por-rita-lobo-5-6l-experience---eaf45-exeaf45pto_prd-94937/p",
+      "sha256": "2b18eb10e107be2503ca33d0e6adc03e3ed11f1684f981d784329f2bb4125719"
+    },
+    {
+      "sku": "EXEAF45PTO1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXEAF45PTO1_20261116_151557_PLP.png",
+      "captured_at": "2026-11-16T15:15:57-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXEAF45PTO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "c42639af98fe796c0e0f5cf31a34e68b20d6c9b9b8b6f41ac8b11eae62beeade"
+    },
+    {
+      "sku": "EXEBL1500CNZ1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXEBL1500CNZ1_20261116_151703_PDP.png",
+      "captured_at": "2026-11-16T15:17:03-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-aiwa-50%E2%80%9D-android-4k-borda-ultrafina-hdr10-dolby-audio-aws-tv-50-bl-02-a-116796-123712/p",
+      "sha256": "497fb7307b43cda2b9231583d28d2bf0e4e45a90c1abc270e0efed2e6efe40ca"
+    },
+    {
+      "sku": "EXEBL1500CNZ1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXEBL1500CNZ1_20261116_151647_PLP.png",
+      "captured_at": "2026-11-16T15:16:47-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXEBL1500CNZ1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "0d354fc839cb9f863b681454261bf39b0a019148220ba2cd2e4dc5653fbec8fd"
+    },
+    {
+      "sku": "EXECM30ACO1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXECM30ACO1_20261116_151419_PDP.png",
+      "captured_at": "2026-11-16T15:14:19-03:00",
+      "url": "https://site.fastshop.com.br/cafeteira-eletrica-electrolux-experience-ecm30-inox-38-xicaras-digital-programavel-com-timer-execm30aco_prd-4161/p",
+      "sha256": "7f032006f5cbb0ae37365c60248be712f3c6bb37b4addd8fa8c6bfdeff326957"
+    },
+    {
+      "sku": "EXECM30ACO1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXECM30ACO1_20261116_151402_PLP.png",
+      "captured_at": "2026-11-16T15:14:02-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXECM30ACO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f2f5080fbec70cb4849fcba587eadf5530dc5b4433e637f34e08d0e7cde5e242"
+    },
+    {
+      "sku": "EXESI60AZL1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXESI60AZL1_20261116_151452_PDP.png",
+      "captured_at": "2026-11-16T15:14:52-03:00",
+      "url": "https://site.fastshop.com.br/ferro-de-passar-a-vapor-e-a-seco-electrolux-experience-care----esi60-exesi60azl_prd-4663/p",
+      "sha256": "57a2b972e7f0d301e8c8c06d6d0af196e6440df80c51fa24308161c38db398da"
+    },
+    {
+      "sku": "EXESI60AZL1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXESI60AZL1_110V_20261116_151456_PDP.png",
+      "captured_at": "2026-11-16T15:14:56-03:00",
+      "url": "https://site.fastshop.com.br/ferro-de-passar-a-vapor-e-a-seco-electrolux-experience-care----esi60-exesi60azl_prd-4663/p",
+      "sha256": "03cb946d6938df7f5e828de14f85072c5b2fb42101393fa11a7ec3b44cb9bf9a"
+    },
+    {
+      "sku": "EXESI60AZL1",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXESI60AZL1_220V_20261116_151504_PDP.png",
+      "captured_at": "2026-11-16T15:15:04-03:00",
+      "url": "https://site.fastshop.com.br/ferro-de-passar-a-vapor-e-a-seco-electrolux-experience-care----esi60-exesi60azl_prd-4664/p",
+      "sha256": "4b50250c6257ad368515e1f0a52864d068b18a60b7779ae6f73bb7bf2d2d1c6f"
+    },
+    {
+      "sku": "EXESI60AZL1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXESI60AZL1_20261116_151435_PLP.png",
+      "captured_at": "2026-11-16T15:14:35-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXESI60AZL1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "b2bf641612232193b5df816ccffbdbbfb5f2f65b937f8a9d8bd3e5673b65ddd5"
+    },
+    {
+      "sku": "EXESI80VRD1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXESI80VRD1_20261116_151726_PDP.png",
+      "captured_at": "2026-11-16T15:17:26-03:00",
+      "url": "https://site.fastshop.com.br/ferro-de-passar-a-vapor-e-a-seco-electrolux-experience-care---esi80-exesi80vrd_prd-4665/p",
+      "sha256": "5e4720e1463481cd217d53e7d0c1a9bbe7491fe18a8eb24bc44c2855977573da"
+    },
+    {
+      "sku": "EXESI80VRD1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXESI80VRD1_110V_20261116_151737_PDP.png",
+      "captured_at": "2026-11-16T15:17:37-03:00",
+      "url": "https://site.fastshop.com.br/ferro-de-passar-a-vapor-e-a-seco-electrolux-experience-care---esi80-exesi80vrd_prd-4665/p",
+      "sha256": "9fe61cf231d6c667676e39fc124827d8e870df0f3971de9b8b9e86b389fad586"
+    },
+    {
+      "sku": "EXESI80VRD1",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXESI80VRD1_220V_20261116_151742_PDP.png",
+      "captured_at": "2026-11-16T15:17:42-03:00",
+      "url": "https://site.fastshop.com.br/ferro-de-passar-a-vapor-e-a-seco-electrolux-experience-care---esi80-exesi80vrd_prd-4666/p",
+      "sha256": "a98573450a5fc036cf0e761c1325f7f21e3e87666a9c4daea58db6b336c92dfe"
+    },
+    {
+      "sku": "EXESI80VRD1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXESI80VRD1_20261116_151710_PLP.png",
+      "captured_at": "2026-11-16T15:17:10-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXESI80VRD1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "8b83ef4780d58b455ce33637cc6e6e6fea484bc8570f3ff1443da3700c4cea96"
+    },
+    {
+      "sku": "EXESM03PTO",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXESM03PTO_20261116_151736_PDP.png",
+      "captured_at": "2026-11-16T15:17:36-03:00",
+      "url": "https://site.fastshop.com.br/maquina-para-gaseificar-agua-com-gas-efficient-preta-com-cilindro-e-2-garrafas-esm03---electrolux-exesm03pto_prd-172036/p",
+      "sha256": "16665b38da5517610f74d8af34e491b4ef1262e7b5bda101331b8806eecb63b9"
+    },
+    {
+      "sku": "EXESM03PTO",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXESM03PTO_20261116_151722_PLP.png",
+      "captured_at": "2026-11-16T15:17:22-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXESM03PTO",
+      "sha256": "4681df106cef1b859fed4d3cdad6c7d82196bba0ec4af9cfee1d1b8ef241e85d"
+    },
+    {
+      "sku": "EXFE4DG2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXFE4DG2_20261116_151454_PDP.png",
+      "captured_at": "2026-11-16T15:14:54-03:00",
+      "url": "https://site.fastshop.com.br/fogao-de-piso-electrolux-de-04-bocas-experience-com-duplo-forno-e-mesa-de-vidro-cinza---fe4dg-exfe4dg_prd-122651/p",
+      "sha256": "fca469aa8e2d7126bb7b28d18dc66211fe842a331299625d3af13c1f0f2ccccf"
+    },
+    {
+      "sku": "EXFE4DG2",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXFE4DG2_220V_20261116_151530_PDP.png",
+      "captured_at": "2026-11-16T15:15:30-03:00",
+      "url": "https://site.fastshop.com.br/fogao-de-piso-electrolux-de-04-bocas-experience-com-duplo-forno-e-mesa-de-vidro-cinza---fe4dg-exfe4dg_prd-122651/p",
+      "sha256": "81ae701fd59cc4ff74434683314360765fb36abe7ec68967fccef6abc70b0c3f"
+    },
+    {
+      "sku": "EXFE4DG2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXFE4DG2_20261116_151440_PLP.png",
+      "captured_at": "2026-11-16T15:14:40-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXFE4DG2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a6b711d7d3153d923bb71830a4a2eae842ccb8962365b4c33edfb21ec35332e2"
+    },
+    {
+      "sku": "EXFE5DC1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXFE5DC1_20261116_151254_PDP.png",
+      "captured_at": "2026-11-16T15:12:54-03:00",
+      "url": "https://site.fastshop.com.br/fogao-de-piso-electrolux-de-05-bocas-experience-com-perfectcook360-prata---fe5dc-exfe5dc_prd-14997/p",
+      "sha256": "061e48df3580173b7e61ac9d16b071f0d86e8bccc667187b361ceb3bc7993785"
+    },
+    {
+      "sku": "EXFE5DC1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXFE5DC1_110V_20261116_151302_PDP.png",
+      "captured_at": "2026-11-16T15:13:02-03:00",
+      "url": "https://site.fastshop.com.br/fogao-de-piso-electrolux-de-05-bocas-experience-com-perfectcook360-prata---fe5dc-exfe5dc_prd-15001/p",
+      "sha256": "c28095d33ee69edc0a85c044c3e19a842e7f81193802fb563a0bb3333f007e30"
+    },
+    {
+      "sku": "EXFE5DC1",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXFE5DC1_220V_20261116_151315_PDP.png",
+      "captured_at": "2026-11-16T15:13:15-03:00",
+      "url": "https://site.fastshop.com.br/fogao-de-piso-electrolux-de-05-bocas-experience-com-perfectcook360-prata---fe5dc-exfe5dc_prd-14997/p",
+      "sha256": "c4740616e286bb1a0c36e3825fb7b75f26589e20473b09474f952ce15dc2e76f"
+    },
+    {
+      "sku": "EXFE5DC1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXFE5DC1_20261116_151242_PLP.png",
+      "captured_at": "2026-11-16T15:12:42-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXFE5DC1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "ea9a241a8b9258edb75573e6dab3422d478e9cea30c0938f3b2d2f38d49c4542"
+    },
+    {
+      "sku": "EXFE5GBB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXFE5GBB_20261116_151249_PDP.png",
+      "captured_at": "2026-11-16T15:12:49-03:00",
+      "url": "https://site.fastshop.com.br/fogao-de-piso-electrolux-05-bocas-efficient-mesa-de-vidro--grades-individuais-de-ferro-fundido---fe5gb-exfe5gb_prd-94657/p",
+      "sha256": "db7ad5000a197f9ec142b99ad81eadc7ea615aac109dcbcd4b3608e6a2e0aac8"
+    },
+    {
+      "sku": "EXFE5GBB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXFE5GBB_20261116_151233_PLP.png",
+      "captured_at": "2026-11-16T15:12:33-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXFE5GBB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "c4a63600edeb0eace0b97a922fa17d465da3849f5bcd1250f561a95a61bf6c1e"
+    },
+    {
+      "sku": "EXIB7S1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXIB7S1_20261116_151242_PDP.png",
+      "captured_at": "2026-11-16T15:12:42-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-de-02-portas-electrolux-frost-free-com-490-litros-efficient-com-autosense-inverse-inox-look---ib7s-exib7s_prd-18421/p",
+      "sha256": "833a30e09fa0988d03b545168e425038e48b37b953ab1e2d1a1d7e33b4a9f88f"
+    },
+    {
+      "sku": "EXIB7S1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXIB7S1_20261116_151229_PLP.png",
+      "captured_at": "2026-11-16T15:12:29-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXIB7S1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "ff63e2ce8fdfaf9718ad6582b4b99705a5cebd81970eb0ef6c03766f08a79741"
+    },
+    {
+      "sku": "EXIM7S1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXIM7S1_20261116_151246_PDP.png",
+      "captured_at": "2026-11-16T15:12:46-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-french-door-electrolux-frost-free-com-484-litros--autosense--inverter--inox-look---im7s-exim7s_prd-70808/p",
+      "sha256": "9a1986d82e32089e136eb48bf165e5f6cc5b32c41d37f15c12f5cb3d45f1bce3"
+    },
+    {
+      "sku": "EXIM7S1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXIM7S1_110V_20261116_151254_PDP.png",
+      "captured_at": "2026-11-16T15:12:54-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-french-door-electrolux-frost-free-com-484-litros--autosense--inverter--inox-look---im7s-exim7s_prd-70808/p",
+      "sha256": "8766dad4a8c3d8f8c4921550f47a7c125e8aae43917bad479baa1f499d55e03b"
+    },
+    {
+      "sku": "EXIM7S1",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXIM7S1_220V_20261116_151304_PDP.png",
+      "captured_at": "2026-11-16T15:13:04-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-french-door-electrolux-frost-free-com-484-litros--autosense--inverter--inox-look---im7s-exim7s_prd-70809/p",
+      "sha256": "691aa52a4e084c085c6991c3bb36af3447256d65f72f1ee5efae26fc30c09bfa"
+    },
+    {
+      "sku": "EXIM7S1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXIM7S1_20261116_151231_PLP.png",
+      "captured_at": "2026-11-16T15:12:31-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXIM7S1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "7d390d2769bf70537b07717f42bcfe0b6f67763690b236fb7a67491283702fa8"
+    },
+    {
+      "sku": "EXIM7S2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXIM7S2_20261116_151405_PDP.png",
+      "captured_at": "2026-11-16T15:14:05-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-french-door-electrolux-frost-free-com-484-litros--autosense--inverter--inox-look---im7s-exim7s_prd-70808/p",
+      "sha256": "be0e430e6de6ee5ad877ff256bcb94f6cf707ad96b73027aa68c3023ba2dc4c7"
+    },
+    {
+      "sku": "EXIM7S2",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXIM7S2_110V_20261116_151414_PDP.png",
+      "captured_at": "2026-11-16T15:14:14-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-french-door-electrolux-frost-free-com-484-litros--autosense--inverter--inox-look---im7s-exim7s_prd-70808/p",
+      "sha256": "51d260f9f2c7ac16d8bd245006176c4c9f940271391aeb0a581cc8d9c573a05c"
+    },
+    {
+      "sku": "EXIM7S2",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXIM7S2_220V_20261116_151421_PDP.png",
+      "captured_at": "2026-11-16T15:14:21-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-french-door-electrolux-frost-free-com-484-litros--autosense--inverter--inox-look---im7s-exim7s_prd-70809/p",
+      "sha256": "f695e84d8795b662dd7f8a7eb059f2455d29406673c518d42d4b766e88ed038c"
+    },
+    {
+      "sku": "EXIM7S2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXIM7S2_20261116_151348_PLP.png",
+      "captured_at": "2026-11-16T15:13:48-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXIM7S2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "1571323e77aeef134bed4f02dde0f47b84216d2b72fb629efa910e38c87bd87c"
+    },
+    {
+      "sku": "EXIT70SB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXIT70SB_20261116_151500_PDP.png",
+      "captured_at": "2026-11-16T15:15:00-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-de-02-portas-electrolux-frost-free-com-480-litros-efficient-com-autosense-inverter-inox-look---it70s-exit70s_prd-15546/p",
+      "sha256": "50f83657242f3060a79a69f43b3f48c3ab0800a078e2a9be0e9f70a432b38350"
+    },
+    {
+      "sku": "EXIT70SB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXIT70SB_20261116_151445_PLP.png",
+      "captured_at": "2026-11-16T15:14:45-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXIT70SB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "6d82378da510892db1cdf9ffa2ed88b92be2f5a1471d70558233a3c7522ec77c"
+    },
+    {
+      "sku": "EXKE5XCB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXKE5XCB_20261116_151535_PDP.png",
+      "captured_at": "2026-11-16T15:15:35-03:00",
+      "url": "https://site.fastshop.com.br/cooktop-electrolux-5-bocas-experience-inox-grades-duplas-ferro-fundido--ke5xc--exke5xc_prd-101074/p",
+      "sha256": "8810bd125ca91e25288406d4e1cef42afcfa83f27874706adc68c107b9f8de07"
+    },
+    {
+      "sku": "EXKE5XCB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXKE5XCB_20261116_151519_PLP.png",
+      "captured_at": "2026-11-16T15:15:19-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXKE5XCB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "352937e6f8a1640757fea61fa040eb5bd9be7b1bbcc93ca36ba5ce315c1c5798"
+    },
+    {
+      "sku": "EXLEE181",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXLEE181_20261116_151147_PDP.png",
+      "captured_at": "2026-11-16T15:11:47-03:00",
+      "url": "https://site.fastshop.com.br/lavadora-de-roupas-electrolux-18kg-efficient-branca-com-cesto-inox-e-jet-clean---lee18-exlee18_prd-111450/p",
+      "sha256": "e1292b0c8f19164e89c89442fba1ffa4bc5eddae177bd625f28a6e32479350b0"
+    },
+    {
+      "sku": "EXLEE181",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXLEE181_110V_20261116_151159_PDP.png",
+      "captured_at": "2026-11-16T15:11:59-03:00",
+      "url": "https://site.fastshop.com.br/lavadora-de-roupas-electrolux-18kg-efficient-branca-com-cesto-inox-e-jet-clean---lee18-exlee18_prd-111453/p",
+      "sha256": "e3783959b92903145611dea57957d8731d41552fc7fd39d00ecb13c01bf44fbc"
+    },
+    {
+      "sku": "EXLEE181",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXLEE181_220V_20261116_151211_PDP.png",
+      "captured_at": "2026-11-16T15:12:11-03:00",
+      "url": "https://site.fastshop.com.br/lavadora-de-roupas-electrolux-18kg-efficient-branca-com-cesto-inox-e-jet-clean---lee18-exlee18_prd-111450/p",
+      "sha256": "375413cf3c111f1267455cef6bb16761d1c723823b1776f4ea486626414d3d3c"
+    },
+    {
+      "sku": "EXLEE181",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXLEE181_20261116_151133_PLP.png",
+      "captured_at": "2026-11-16T15:11:33-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXLEE181&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "14c747b0169f6a9104bb28a0af2cb77c8fad33aa52ced0313d435cb81e51af97"
+    },
+    {
+      "sku": "EXLL10X1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXLL10X1_20261116_151320_PDP.png",
+      "captured_at": "2026-11-16T15:13:20-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-electrolux-com-a-porta-inox--10-servicos--07-programas-de-lavagem-e-funcao-higienizar-compras---ll10x-exll10x_prd-4105/p",
+      "sha256": "9bee0ab766dd7f15359d70129c285deb5062557ef867d39003ebef26813db9c2"
+    },
+    {
+      "sku": "EXLL10X1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXLL10X1_110V_20261116_151332_PDP.png",
+      "captured_at": "2026-11-16T15:13:32-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-electrolux-com-a-porta-inox--10-servicos--07-programas-de-lavagem-e-funcao-higienizar-compras---ll10x-exll10x_prd-4105/p",
+      "sha256": "ce0e184fd250f3475ad096c22b2422ff0d437cf7872619923381a12680d842f6"
+    },
+    {
+      "sku": "EXLL10X1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXLL10X1_20261116_151306_PLP.png",
+      "captured_at": "2026-11-16T15:13:06-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXLL10X1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "c4153dc2f9f7dfb4c51612c42ba9dce557bbe2742fc4688c135aad096a54a311"
+    },
+    {
+      "sku": "EXLL10X2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXLL10X2_20261116_151649_PDP.png",
+      "captured_at": "2026-11-16T15:16:49-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-electrolux-com-a-porta-inox--10-servicos--07-programas-de-lavagem-e-funcao-higienizar-compras---ll10x-exll10x_prd-4105/p",
+      "sha256": "044afd923306967a6400af5133fbd7634b6d34eccfa75f0837808635db684e7d"
+    },
+    {
+      "sku": "EXLL10X2",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXLL10X2_110V_20261116_151701_PDP.png",
+      "captured_at": "2026-11-16T15:17:01-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-electrolux-com-a-porta-inox--10-servicos--07-programas-de-lavagem-e-funcao-higienizar-compras---ll10x-exll10x_prd-4105/p",
+      "sha256": "a1acff2031410c7357fb63ee4aa2a4e01753b36fbdd561e20240f8577955937c"
+    },
+    {
+      "sku": "EXLL10X2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXLL10X2_20261116_151634_PLP.png",
+      "captured_at": "2026-11-16T15:16:34-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXLL10X2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "bf3da30a6173e6617b441935cc6efde5748bee8e986fba2e4b6dd068a829be5b"
+    },
+    {
+      "sku": "EXLL14X1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXLL14X1_20261116_151649_PDP.png",
+      "captured_at": "2026-11-16T15:16:49-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-electrolux-14-servicos-inox-com-funcao-higienizar-compras--ll14x--48388-49998/p",
+      "sha256": "facc59d3fa3bfd35ad8ab9a0b71008b7924f675da022583772c7b4040c82c47e"
+    },
+    {
+      "sku": "EXLL14X1",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXLL14X1_220V_20261116_151728_PDP.png",
+      "captured_at": "2026-11-16T15:17:28-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-electrolux-14-servicos-inox-com-funcao-higienizar-compras--ll14x--48388-49998/p",
+      "sha256": "8b9fb707787c28bf108b324a838b7ca69965b00eb92dcbdcf087c786bfa96ae8"
+    },
+    {
+      "sku": "EXLL14X1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXLL14X1_20261116_151634_PLP.png",
+      "captured_at": "2026-11-16T15:16:34-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXLL14X1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "b5ba154b7b377a52d45e1b8f5fb0ca2447dea6125869ac46be68b1a06fb7290e"
+    },
+    {
+      "sku": "EXLS08E1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXLS08E1_20261116_151754_PDP.png",
+      "captured_at": "2026-11-16T15:17:54-03:00",
+      "url": "https://site.fastshop.com.br/lava-louca-electrolux-inox-com-8-servicos--8-programas-de-lavagem---ls08e-exls08e_prd-100825/p",
+      "sha256": "3aa8dd3ef163c59be20b8da8e3e57b8d016970c633956cb420115226b5891541"
+    },
+    {
+      "sku": "EXLS08E1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXLS08E1_110V_20261116_151755_PDP.png",
+      "captured_at": "2026-11-16T15:17:55-03:00",
+      "url": "https://site.fastshop.com.br/lava-louca-electrolux-inox-com-8-servicos--8-programas-de-lavagem---ls08e-exls08e_prd-100900/p",
+      "sha256": "393ef5c66894848eac70bada51d388c6218641b8ce5015fb5ce49515ba462c8f"
+    },
+    {
+      "sku": "EXLS08E1",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXLS08E1_220V_20261116_151756_PDP.png",
+      "captured_at": "2026-11-16T15:17:56-03:00",
+      "url": "https://site.fastshop.com.br/lava-louca-electrolux-inox-com-8-servicos--8-programas-de-lavagem---ls08e-exls08e_prd-100825/p",
+      "sha256": "a2ddbba455372a3c34c73b1319c2ad7d01cd839403376c1c94643de71f13e568"
+    },
+    {
+      "sku": "EXLS08E1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXLS08E1_20261116_151748_PLP.png",
+      "captured_at": "2026-11-16T15:17:48-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXLS08E1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "ef3fdab8a9cee9dce3123eca56f9211a340180c44cc418613b046cd7e545fab3"
+    },
+    {
+      "sku": "EXLS08E2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXLS08E2_20261116_151148_PDP.png",
+      "captured_at": "2026-11-16T15:11:48-03:00",
+      "url": "https://site.fastshop.com.br/lava-louca-electrolux-inox-com-8-servicos--8-programas-de-lavagem---ls08e-exls08e_prd-100825/p",
+      "sha256": "1572a67c9baaac606417fceaa449de0aa83182507890f4961f9cd74573d7c185"
+    },
+    {
+      "sku": "EXLS08E2",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXLS08E2_110V_20261116_151202_PDP.png",
+      "captured_at": "2026-11-16T15:12:02-03:00",
+      "url": "https://site.fastshop.com.br/lava-louca-electrolux-inox-com-8-servicos--8-programas-de-lavagem---ls08e-exls08e_prd-100900/p",
+      "sha256": "fbabd33dde5948ee6c7876e3d8c67f71ba4e89057e34c629ff68aa5a038618da"
+    },
+    {
+      "sku": "EXLS08E2",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXLS08E2_220V_20261116_151216_PDP.png",
+      "captured_at": "2026-11-16T15:12:16-03:00",
+      "url": "https://site.fastshop.com.br/lava-louca-electrolux-inox-com-8-servicos--8-programas-de-lavagem---ls08e-exls08e_prd-100825/p",
+      "sha256": "417c385aefb780a8e89bee52dc486e38f4e4732a2562c1eb1d636217c508b37e"
+    },
+    {
+      "sku": "EXLS08E2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXLS08E2_20261116_151136_PLP.png",
+      "captured_at": "2026-11-16T15:11:36-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXLS08E2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "68b055bcdb897ccefabf7a69f7c2ed318dbf31bea9fd6d47c8361050c0a83365"
+    },
+    {
+      "sku": "EXME3BP1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXME3BP1_20261116_151549_PDP.png",
+      "captured_at": "2026-11-16T15:15:49-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-de-embutir-electrolux-experience-com-34-litros-de-capacidade-preto---me3bp-exme3bp_prd-13761/p",
+      "sha256": "f0f349e1d14ba0665d85c27f67e7ab0725f9fab89a95c8f2edc0605cb0bda524"
+    },
+    {
+      "sku": "EXME3BP1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXME3BP1_20261116_151532_PLP.png",
+      "captured_at": "2026-11-16T15:15:32-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXME3BP1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "20b1e86c5da5983b81e34efa057cc1f7ef6cae0cbdd49ac2bd3d9b29c52fd760"
+    },
+    {
+      "sku": "EXME3BP2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXME3BP2_20261116_151230_PDP.png",
+      "captured_at": "2026-11-16T15:12:30-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-de-embutir-electrolux-experience-com-34-litros-de-capacidade-preto---me3bp-exme3bp_prd-13761/p",
+      "sha256": "ca8c7e9c6c620c6e470d80bcefbb25ff0b5959b7a941241dee48d6b8dc2105ea"
+    },
+    {
+      "sku": "EXME3BP2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXME3BP2_20261116_151214_PLP.png",
+      "captured_at": "2026-11-16T15:12:14-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXME3BP2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "5c6133bb86c8e61db21c7f39a8612f0a986ea36dad2dcb4a20c4d50c2ea8038d"
+    },
+    {
+      "sku": "EXMI41S1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXMI41S1_20261116_151601_PDP.png",
+      "captured_at": "2026-11-16T15:16:01-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-electrolux-prata-com-painel-integrado-31l--mi41s--exmi41s_prd-12601/p",
+      "sha256": "e0df5bc88176052e09a944bfff986c6dc13d186e42bef48c92c19d2eb24958a8"
+    },
+    {
+      "sku": "EXMI41S1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXMI41S1_110V_20261116_151607_PDP.png",
+      "captured_at": "2026-11-16T15:16:07-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-electrolux-prata-com-painel-integrado-31l--mi41s--exmi41s_prd-12601/p",
+      "sha256": "71179240af4b9676c243e92ad269ecd9fd3eb4a3e94daeae5d91a6e64a99a07e"
+    },
+    {
+      "sku": "EXMI41S1",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXMI41S1_220V_20261116_151617_PDP.png",
+      "captured_at": "2026-11-16T15:16:17-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-electrolux-prata-com-painel-integrado-31l--mi41s--exmi41s_prd-12602/p",
+      "sha256": "1e1fd3850fb3af7ecb6803102c5e97efbfdb5266f0407f164cdb66edc1fa8874"
+    },
+    {
+      "sku": "EXMI41S1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXMI41S1_20261116_151546_PLP.png",
+      "captured_at": "2026-11-16T15:15:46-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXMI41S1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "4c4efd1f459027c2fa6bf4d0dc693aeea0c4c010726de9d049c4a91f506c1ce5"
+    },
+    {
+      "sku": "EXMI41S2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXMI41S2_20261116_151426_PDP.png",
+      "captured_at": "2026-11-16T15:14:26-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-electrolux-prata-com-painel-integrado-31l--mi41s--exmi41s_prd-12601/p",
+      "sha256": "128d646f11e56e3d8c597e0b9649a527a9e4ef7bd540431773ec5ad02f95c123"
+    },
+    {
+      "sku": "EXMI41S2",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXMI41S2_110V_20261116_151434_PDP.png",
+      "captured_at": "2026-11-16T15:14:34-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-electrolux-prata-com-painel-integrado-31l--mi41s--exmi41s_prd-12601/p",
+      "sha256": "fe688ba09de1b427a8e091fa0adaf8875aa39ea0dfd23aace287eb3f75f797b1"
+    },
+    {
+      "sku": "EXMI41S2",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXMI41S2_220V_20261116_151445_PDP.png",
+      "captured_at": "2026-11-16T15:14:45-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-electrolux-prata-com-painel-integrado-31l--mi41s--exmi41s_prd-12602/p",
+      "sha256": "4d0c920e6f3353a0f9d363434245e7d309d002645c8b23d7cf8d3a2625a16528"
+    },
+    {
+      "sku": "EXMI41S2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXMI41S2_20261116_151409_PLP.png",
+      "captured_at": "2026-11-16T15:14:09-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXMI41S2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "ab23676b68491343fd349d1b2a481fda6fc31dc0859ba3676d7355eb1e6feb01"
+    },
+    {
+      "sku": "EXOE8EA2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXOE8EA2_20261116_151151_PDP.png",
+      "captured_at": "2026-11-16T15:11:51-03:00",
+      "url": "https://site.fastshop.com.br/forno-eletrico-de-embutir-electrolux-experience-com-80-litros-de-capacidade--grill-e-painel-touch-preto---oe8ea-exoe8ea_prd-102467/p",
+      "sha256": "6b0e57b458ff1dbaf45f853b7612bd2f4e89402b462da7d3958fa990cf025b61"
+    },
+    {
+      "sku": "EXOE8EA2",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXOE8EA2_220V_20261116_151156_PDP.png",
+      "captured_at": "2026-11-16T15:11:56-03:00",
+      "url": "https://site.fastshop.com.br/forno-eletrico-de-embutir-electrolux-experience-com-80-litros-de-capacidade--grill-e-painel-touch-preto---oe8ea-exoe8ea_prd-102467/p",
+      "sha256": "d4a16fbd57d1228dc4a70e84cbdd681e13c34d5458160a6da358c8ea025df1cc"
+    },
+    {
+      "sku": "EXOE8EA2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXOE8EA2_20261116_151134_PLP.png",
+      "captured_at": "2026-11-16T15:11:34-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXOE8EA2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "df7db3931644cfe6e976040f4cb4b3d2b0bcc7547685c9ce6891ae6bc44d45e6"
+    },
+    {
+      "sku": "EXOE8EW2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXOE8EW2_20261116_151723_PDP.png",
+      "captured_at": "2026-11-16T15:17:23-03:00",
+      "url": "https://site.fastshop.com.br/forno-eletrico-embutir-electrolux-expert--80-litros-de-capacidade--grill-e-painel-touch-cinza-metalizado---oe8ew-exoe8ew_prd-14988/p",
+      "sha256": "6c353a0a39a1d049f0cdad57e3604397a94a6effd43d57fc457d0aae49ea693a"
+    },
+    {
+      "sku": "EXOE8EW2",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXOE8EW2_220V_20261116_151733_PDP.png",
+      "captured_at": "2026-11-16T15:17:33-03:00",
+      "url": "https://site.fastshop.com.br/forno-eletrico-embutir-electrolux-expert--80-litros-de-capacidade--grill-e-painel-touch-cinza-metalizado---oe8ew-exoe8ew_prd-14988/p",
+      "sha256": "7a13fa48ebaf8aa2b499c68237a2d6abe91972009335735683f7a66a5f896c47"
+    },
+    {
+      "sku": "EXOE8EW2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXOE8EW2_20261116_151710_PLP.png",
+      "captured_at": "2026-11-16T15:17:10-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXOE8EW2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "de5f31bebd4d954da33a59176d5d895b6fef25104e8c6d634eae8d09fb2bdbca"
+    },
+    {
+      "sku": "EXPC01XGFT1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXPC01XGFT1_20261116_151522_PDP.png",
+      "captured_at": "2026-11-16T15:15:22-03:00",
+      "url": "https://site.fastshop.com.br/purificador-electrolux-agua-gelada--fria-e-natural-com-compressor-cinza-pc01x-expc01xgft_prd-15583/p",
+      "sha256": "62256ee9fa6059bd6ab8e0fac68d42bc186043fc7021f27193662a6948103acc"
+    },
+    {
+      "sku": "EXPC01XGFT1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXPC01XGFT1_110V_20261116_151533_PDP.png",
+      "captured_at": "2026-11-16T15:15:33-03:00",
+      "url": "https://site.fastshop.com.br/purificador-electrolux-agua-gelada--fria-e-natural-com-compressor-cinza-pc01x-expc01xgft_prd-15583/p",
+      "sha256": "16817d2b11a65aa1ad89ddd05190ec407fc033945723df8fef7132ad24355af7"
+    },
+    {
+      "sku": "EXPC01XGFT1",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXPC01XGFT1_220V_20261116_151539_PDP.png",
+      "captured_at": "2026-11-16T15:15:39-03:00",
+      "url": "https://site.fastshop.com.br/purificador-electrolux-agua-gelada--fria-e-natural-com-compressor-cinza-pc01x-expc01xgft_prd-15584/p",
+      "sha256": "04b81471978b0aa91edebaabaa84cfe16ce9b7af3a5e9fa2f60f00e829864ca8"
+    },
+    {
+      "sku": "EXPC01XGFT1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXPC01XGFT1_20261116_151505_PLP.png",
+      "captured_at": "2026-11-16T15:15:05-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXPC01XGFT1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "dcda8cd75bf75c3ba564b49a68ff850392e8ee670ebdc44c08fca9b86c6c3082"
+    },
+    {
+      "sku": "EXPCC20IX1",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXPCC20IX1_20261116_151150_PDP.png",
+      "captured_at": "2026-11-16T15:11:50-03:00",
+      "url": "https://site.fastshop.com.br/panela-de-pressao-eletrica-electrolux-experience-por-rita-lobo-6l-inox---pcc20-expcc20ix_prd-13730/p",
+      "sha256": "77a2131db987cab0da6743e686c13703831ed28bde40f436d4442d5e0384f3db"
+    },
+    {
+      "sku": "EXPCC20IX1",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/EXPCC20IX1_110V_20261116_151204_PDP.png",
+      "captured_at": "2026-11-16T15:12:04-03:00",
+      "url": "https://site.fastshop.com.br/panela-de-pressao-eletrica-electrolux-experience-por-rita-lobo-6l-inox---pcc20-expcc20ix_prd-13730/p",
+      "sha256": "5571b8e60eba96d3ed1bd8a60d926d078488d6f08ccf8e72e7b6cb91405a308e"
+    },
+    {
+      "sku": "EXPCC20IX1",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXPCC20IX1_220V_20261116_151213_PDP.png",
+      "captured_at": "2026-11-16T15:12:13-03:00",
+      "url": "https://site.fastshop.com.br/panela-de-pressao-eletrica-electrolux-experience-por-rita-lobo-6l-inox---pcc20-expcc20ix_prd-13731/p",
+      "sha256": "a2f796f234dbc1d82c53125d5620e1bc54fc77de1576bc36fad52be87c100454"
+    },
+    {
+      "sku": "EXPCC20IX1",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXPCC20IX1_20261116_151136_PLP.png",
+      "captured_at": "2026-11-16T15:11:36-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXPCC20IX1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "7b3e6e0c617e6c9a3ea8746278b03f348cf6bfa5a9c5529c730462a7d9697bb8"
+    },
+    {
+      "sku": "EXPE12GCNZB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXPE12GCNZB_20261116_151329_PDP.png",
+      "captured_at": "2026-11-16T15:13:29-03:00",
+      "url": "https://site.fastshop.com.br/purificador-electrolux-pure-4x-agua-gelada--fria-e-natural-com-painel-touch-cinza-pe12g-expe12gcnz_prd-13736/p",
+      "sha256": "0ce3588e5a09a1ae5384e6fad4927c8a1fd1d7900fdc436bbbc22b1c10535919"
+    },
+    {
+      "sku": "EXPE12GCNZB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXPE12GCNZB_20261116_151315_PLP.png",
+      "captured_at": "2026-11-16T15:13:15-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXPE12GCNZB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "d92c7096b7eb6fea480a916278c3528e3637a87077c354a04cd6b1f8f5b5d34a"
+    },
+    {
+      "sku": "EXSFP122",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/EXSFP122_20261116_151406_PDP.png",
+      "captured_at": "2026-11-16T15:14:06-03:00",
+      "url": "https://site.fastshop.com.br/secadora-de-roupas-eletrica-electrolux-com-08-ciclos-de-secagem--12-kg--branca--premium-care---sfp12-exsfp12_prd-12617/p",
+      "sha256": "f42d0a1bc1c961d0064c5cc97554ed5085a37d8060b70015edb5133b82554c94"
+    },
+    {
+      "sku": "EXSFP122",
+      "group": "IN",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/IN/EXSFP122_220V_20261116_151416_PDP.png",
+      "captured_at": "2026-11-16T15:14:16-03:00",
+      "url": "https://site.fastshop.com.br/secadora-de-roupas-eletrica-electrolux-com-08-ciclos-de-secagem--12-kg--branca--premium-care---sfp12-exsfp12_prd-12617/p",
+      "sha256": "387c12fcc9e27d0c35ffe01d0fc48a780c7c13c7f38ad942cf6c1cdabed223fa"
+    },
+    {
+      "sku": "EXSFP122",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/EXSFP122_20261116_151348_PLP.png",
+      "captured_at": "2026-11-16T15:13:48-03:00",
+      "url": "https://site.fastshop.com.br/s?q=EXSFP122&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "09bc3cbe49e8ecf4fda92baf4337c20e7d50db196d11a7ed2fc0c8ce2d4e4fe2"
+    },
+    {
+      "sku": "LO910007601GFT",
+      "group": "LA",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LA/LO910007601GFT_20261116_151140_PDP.png",
+      "captured_at": "2026-11-16T15:11:40-03:00",
+      "url": "https://site.fastshop.com.br/mouse-sem-fio-logitech-mobi-fold-dobravel-com-touch-scroll-e-4k-dpi-grafite---910-007601-lo91000760gft_prd-193513/p",
+      "sha256": "0a7fc71cbfe1b2f5e21491e6c2aed34ecb7970883adc85d7e74df3d33b7767ea"
+    },
+    {
+      "sku": "LO910007601GFT",
+      "group": "LA",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LA/LO910007601GFT_20261116_151131_PLP.png",
+      "captured_at": "2026-11-16T15:11:31-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LO910007601GFT&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "317374c8ab6ecefb5850547b0ed1ff136254c7fe5ffa69351146a5014f10f281"
+    },
+    {
+      "sku": "LO941000119PTO",
+      "group": "LA",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LA/LO941000119PTO_20261116_151137_PDP.png",
+      "captured_at": "2026-11-16T15:11:37-03:00",
+      "url": "https://site.fastshop.com.br/cambio-logitech-g-driving-force---compativel-com-volantes-g923--g29-e-g920-para-ps--xbox-e-pc-lo941000119pto_prd-12042/p",
+      "sha256": "3fefbc1901bc2f69158ce5449c3b3b485bf3c718a9a97405568cd14cc902d7c3"
+    },
+    {
+      "sku": "LO941000119PTO",
+      "group": "LA",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LA/LO941000119PTO_20261116_151131_PLP.png",
+      "captured_at": "2026-11-16T15:11:31-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LO941000119PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f36537102923978feee7520658f6c568627db7315f54537433d7879659e41ee0"
+    },
+    {
+      "sku": "LOG305LIGHPTO",
+      "group": "LA",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LA/LOG305LIGHPTO_20261116_151141_PDP.png",
+      "captured_at": "2026-11-16T15:11:41-03:00",
+      "url": "https://site.fastshop.com.br/mouse-gamer-sem-fio-logitech-g-g305-preto-log305lighpto_prd-10008/p",
+      "sha256": "4bfcb5947f7da8cf0ec9c1e69c1545db7161e69c4d881824786e53224e7ec1d3"
+    },
+    {
+      "sku": "LOG305LIGHPTO",
+      "group": "LA",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LA/LOG305LIGHPTO_20261116_151129_PLP.png",
+      "captured_at": "2026-11-16T15:11:29-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LOG305LIGHPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e031b5d9cb8c8e453d5c90b36e0b916c6ee98707bb20031df6690404d7ed2b94"
+    },
+    {
+      "sku": "WAMG7922PTAB",
+      "group": "LA",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LA/WAMG7922PTAB_20261116_151142_PDP.png",
+      "captured_at": "2026-11-16T15:11:42-03:00",
+      "url": "https://site.fastshop.com.br/aparador-all-in-one-trimmer-7000-series-prata---mg7922-15---philips-wamg7922pta_prd-135838/p",
+      "sha256": "c6dd308377264eb84a5e8b4088b28267ab4e27a062d136bfd43b5c8cca03e9b9"
+    },
+    {
+      "sku": "WAMG7922PTAB",
+      "group": "LA",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LA/WAMG7922PTAB_20261116_151132_PLP.png",
+      "captured_at": "2026-11-16T15:11:32-03:00",
+      "url": "https://site.fastshop.com.br/s?q=WAMG7922PTAB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "267897ff7a82d12743d40dc7fca979f838f0743546719691123b2d3d114063f3"
+    },
+    {
+      "sku": "1QMHP27S11",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/1QMHP27S11_20261116_151255_PDP.png",
+      "captured_at": "2026-11-16T15:12:55-03:00",
+      "url": "https://site.fastshop.com.br/samsung-vision-ai-tv-55--neo-qled-4k-qn70h-2027-sgqn55qn70ha_prd-194018/p",
+      "sha256": "4d27acba0eff253f25ede51f556b430f07c6328b1bfb476c2a5ad6439a8d91ce"
+    },
+    {
+      "sku": "1QMHP27S11",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/1QMHP27S11_20261116_151236_PLP.png",
+      "captured_at": "2026-11-16T15:12:36-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMHP27S11&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "751d5146be8589e25b06c51212ab2da42c8d2e93be9fce2629076e12d100f83a"
+    },
+    {
+      "sku": "1QMHP27S22",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/1QMHP27S22_20261116_151434_PDP.png",
+      "captured_at": "2026-11-16T15:14:34-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-samsung-50--mini-led-4k-m75h-2027-sgun50m75hpto_prd-192774/p",
+      "sha256": "5a295b000c68f75bf7c0498933b5fb0dc56fd74523409cbaa20bf610491821ff"
+    },
+    {
+      "sku": "1QMHP27S22",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/1QMHP27S22_20261116_151422_PLP.png",
+      "captured_at": "2026-11-16T15:14:22-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMHP27S22&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "ed38ec713ea96896f5bdda8f03bb2881bbc4adf6e8b4a4f755251e9177685b52"
+    },
+    {
+      "sku": "3L71465PTO",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/3L71465PTO_20261116_151419_PDP.png",
+      "captured_at": "2026-11-16T15:14:19-03:00",
+      "url": "https://site.fastshop.com.br/elements-cadeira-ergonomica-de-escritorio-astra-pro-com-apoio-lombar-e-cabeca-ajustavel--preta-3l71465pto_prd-70602/p",
+      "sha256": "63bd681eccb054c9fc301081cf7eb4f982358d21592d8d57f6039f9ae9b76fdd"
+    },
+    {
+      "sku": "3L71465PTO",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/3L71465PTO_20261116_151408_PLP.png",
+      "captured_at": "2026-11-16T15:14:08-03:00",
+      "url": "https://site.fastshop.com.br/s?q=3L71465PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a52a7a137c009b592ba0a761d0b3e5487bac8bfbdb3546e7c8268f396b223dea"
+    },
+    {
+      "sku": "9EE600PTO",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/9EE600PTO_20261116_151230_PDP.png",
+      "captured_at": "2026-11-16T15:12:30-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-para-tvs-de-32--a-86--preto---e600---elg-pedestais-9ee600pto_prd-13591/p",
+      "sha256": "3c1660a896f38bd33aaddc91e69352d8cb756b8c33bf0d7068da941e62d3249e"
+    },
+    {
+      "sku": "9EE600PTO",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/9EE600PTO_20261116_151212_PLP.png",
+      "captured_at": "2026-11-16T15:12:12-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EE600PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "188dbca1c334943f53769477ded4d2b1d65dab501d86c1e72469617783bbf910"
+    },
+    {
+      "sku": "BPCHIPTRIPL4SP",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/BPCHIPTRIPL4SP_20261116_151148_PDP.png",
+      "captured_at": "2026-11-16T15:11:48-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-sem-fio-philips-tat1108-tws-bluetooth-com-microfone--formato-em-haste--ipx4-e-bateria-15-horas-branco-pitat1108bco_prd-4615/p",
+      "sha256": "497c2004e589a321c520695a05601e9dc5c50cefd9b9ce0f3d1caf079ff5cb14"
+    },
+    {
+      "sku": "BPCHIPTRIPL4SP",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/BPCHIPTRIPL4SP_20261116_151134_PLP.png",
+      "captured_at": "2026-11-16T15:11:34-03:00",
+      "url": "https://site.fastshop.com.br/s?q=BPCHIPTRIPL4SP&fuzzy=auto&operator=or&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "9599d10448cdefd50fb49e1d10ba1af1b3f0a360e62e806116d503d3f6f7aae1"
+    },
+    {
+      "sku": "COCPC31AFONAB",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/COCPC31AFONAB_20261116_151337_PDP.png",
+      "captured_at": "2026-11-16T15:13:37-03:00",
+      "url": "https://site.fastshop.com.br/capa--ooni-koda-de-protecao-forno-pizza-16-uu-p0af00-174889-185110/p",
+      "sha256": "bb719bdc7cd94bbec199455a9ff97f339a81b1ba16116b488007a7fc262dfdc5"
+    },
+    {
+      "sku": "COCPC31AFONAB",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/COCPC31AFONAB_20261116_151319_PLP.png",
+      "captured_at": "2026-11-16T15:13:19-03:00",
+      "url": "https://site.fastshop.com.br/s?q=COCPC31AFONAB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "7256926ff7973830a47c5e1bd9881f2b2d9a0185194d2fefbdbb8486c4dede65"
+    },
+    {
+      "sku": "COCZD12MT1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/COCZD12MT1_20261116_151226_PDP.png",
+      "captured_at": "2026-11-16T15:12:26-03:00",
+      "url": "https://site.fastshop.com.br/cervejeira-consul-titanium---czd12mt-coczd12mt_prd-171657/p",
+      "sha256": "f0c7eea36aa871a7c589f40a7cfc6511c836783f1b18a5295e9af82d90463a9e"
+    },
+    {
+      "sku": "COCZD12MT1",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/COCZD12MT1_110V_20261116_151239_PDP.png",
+      "captured_at": "2026-11-16T15:12:39-03:00",
+      "url": "https://site.fastshop.com.br/cervejeira-consul-titanium---czd12mt-coczd12mt_prd-171659/p",
+      "sha256": "6c25df20d0374da4acf8bd633a5a5ce154586989b35063d30b852a886aaba788"
+    },
+    {
+      "sku": "COCZD12MT1",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/COCZD12MT1_220V_20261116_151252_PDP.png",
+      "captured_at": "2026-11-16T15:12:52-03:00",
+      "url": "https://site.fastshop.com.br/cervejeira-consul-titanium---czd12mt-coczd12mt_prd-171657/p",
+      "sha256": "776570068bbf81f5602ce985a7b6f65b0927237dcf059cd49bff0100aff7151d"
+    },
+    {
+      "sku": "COCZD12MT1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/COCZD12MT1_20261116_151206_PLP.png",
+      "captured_at": "2026-11-16T15:12:06-03:00",
+      "url": "https://site.fastshop.com.br/s?q=COCZD12MT1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "1a4a5c8cdeff5135a2efc0a5dd4367c3aedee2a7847c781c06021aa53958d04a"
+    },
+    {
+      "sku": "HH43Q6QVVPTOB",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/HH43Q6QVVPTOB_20261116_151345_PDP.png",
+      "captured_at": "2026-11-16T15:13:45-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-hisense-hi-qled-4k-43--polegadas-com-dolby-atmos--dolby-gaming-e-alexa---43q6qvv-hh43q6qvvpto_prd-167297/p",
+      "sha256": "6a9392a54e0d25d9add62431cf3270d346dc9b7cdcbaf7bf915cbee11c2064d3"
+    },
+    {
+      "sku": "HH43Q6QVVPTOB",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/HH43Q6QVVPTOB_20261116_151329_PLP.png",
+      "captured_at": "2026-11-16T15:13:29-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HH43Q6QVVPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "9bdf074c48373612cd18817eb1ddfcaa1c9c8343b217c03dfc7712f84c4290be"
+    },
+    {
+      "sku": "HH50Q6QVVPTOB",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/HH50Q6QVVPTOB_20261116_151146_PDP.png",
+      "captured_at": "2026-11-16T15:11:46-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-hisense-hi-qled-4k-50--polegadas-com-processador-ai--dolby-atmos-e-compatibilidade-alexa---50q6qvv-hh50q6qvvpto_prd-167296/p",
+      "sha256": "9e9ea5fb33c6045a763d3beef375a880686e17a6aa4d90a76bf8624122af84b4"
+    },
+    {
+      "sku": "HH50Q6QVVPTOB",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/HH50Q6QVVPTOB_20261116_151131_PLP.png",
+      "captured_at": "2026-11-16T15:11:31-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HH50Q6QVVPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "8788fb8d0c3f97f877d46a886215d6d0793b7f0c9704b039047a39489a2caef0"
+    },
+    {
+      "sku": "HH75Q6QVVPTOB",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/HH75Q6QVVPTOB_20261116_151438_PDP.png",
+      "captured_at": "2026-11-16T15:14:38-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-hisense-hi-qled-4k-75--polegadas-com-processador-ai--dolby-atmos-e-compatibilidade-alexa---75q6qvv-hh75q6qvvpto_prd-194877/p",
+      "sha256": "dfd5642b25810d5964ca0f797ece67ea8d25c215743a3db020e49f2f6c8b7d09"
+    },
+    {
+      "sku": "HH75Q6QVVPTOB",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/HH75Q6QVVPTOB_20261116_151428_PLP.png",
+      "captured_at": "2026-11-16T15:14:28-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HH75Q6QVVPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "7097e969e7902ff8c0db01d145bf636171b96f26ef6f3d193ef54b5f1a2f7df4"
+    },
+    {
+      "sku": "HHAP12CWBRBCO1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/HHAP12CWBRBCO1_20261116_151353_PDP.png",
+      "captured_at": "2026-11-16T15:13:53-03:00",
+      "url": "https://site.fastshop.com.br/ar-condicionado-portatil-wi-fi-hisense-com-12-000-btus--frio--branco---ap-12cwbrnps01-hhap12cwbrbco_prd-2835/p",
+      "sha256": "a6e996a13a2a2539db0ac3b2be4976b709f41e9f787e91d8dec37c8c1018ad31"
+    },
+    {
+      "sku": "HHAP12CWBRBCO1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/HHAP12CWBRBCO1_20261116_151336_PLP.png",
+      "captured_at": "2026-11-16T15:13:36-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HHAP12CWBRBCO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "5c3970aa7501a71ea3e40149cd4686b7e1cb01923c8a4fbbfce8b84fce3d8cca"
+    },
+    {
+      "sku": "HHWD1I1141BT11",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/HHWD1I1141BT11_20261116_151344_PDP.png",
+      "captured_at": "2026-11-16T15:13:44-03:00",
+      "url": "https://site.fastshop.com.br/lava-e-seca-hisense-1i--11kg-7kg---4-em-1--inverter--ciclo-rapido--economia-de-agua---wd1i1141-hhwd1i1141bt1_prd-170778/p",
+      "sha256": "88c5d780087658a427f066bf41bf53296a4808727c18a1d1937192beb270be46"
+    },
+    {
+      "sku": "HHWD1I1141BT11",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/HHWD1I1141BT11_20261116_151327_PLP.png",
+      "captured_at": "2026-11-16T15:13:27-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HHWD1I1141BT11&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "8fe5c3fa8103bb06f5e82270020e69d9ef7c6aa677f42da97d24395d2d4c2e89"
+    },
+    {
+      "sku": "HHWD3S1243BB1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/HHWD3S1243BB1_20261116_151345_PDP.png",
+      "captured_at": "2026-11-16T15:13:45-03:00",
+      "url": "https://site.fastshop.com.br/lava-e-seca-hisense-3s-inverter-wifi-14kg-black-127v-wd3s1443bb1-193956-204507/p",
+      "sha256": "83a84149de8f5ac74533bea137a3793915adef0054560641a13d6f0915fe494e"
+    },
+    {
+      "sku": "HHWD3S1243BB1",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/HHWD3S1243BB1_110V_20261116_151359_PDP.png",
+      "captured_at": "2026-11-16T15:13:59-03:00",
+      "url": "https://site.fastshop.com.br/lava-e-seca-hisense-3s-inverter-wifi-14kg-black-127v-wd3s1443bb1-193956-204507/p",
+      "sha256": "76cbd649ff0f5b9998af223bcb5076193e23bc527ed5047e723243fecbc48ff7"
+    },
+    {
+      "sku": "HHWD3S1243BB1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/HHWD3S1243BB1_20261116_151329_PLP.png",
+      "captured_at": "2026-11-16T15:13:29-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HHWD3S1243BB1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "9ecbd36e5987fe2547f016cba4b449601e778d5569340834dbc902e2d6e2833f"
+    },
+    {
+      "sku": "HR4160880PGF1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/HR4160880PGF1_20261116_151410_PDP.png",
+      "captured_at": "2026-11-16T15:14:10-03:00",
+      "url": "https://site.fastshop.com.br/kit-volante-e-pedal-t98-ferrari-para-ps4--ps5-e-pc---thrustmaster-hr4160880pgf_prd-111252/p",
+      "sha256": "79710f6c39377fbe1d112079e5fc49996c256b05c7e55866493236c1696083cd"
+    },
+    {
+      "sku": "HR4160880PGF1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/HR4160880PGF1_20261116_151353_PLP.png",
+      "captured_at": "2026-11-16T15:13:53-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HR4160880PGF1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "666b2474ea314f75c936625e7ba512d32f3e70ce0d8b05e6307f55e83698a5d0"
+    },
+    {
+      "sku": "HW14262RSAB",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/HW14262RSAB_20261116_151303_PDP.png",
+      "captured_at": "2026-11-16T15:13:03-03:00",
+      "url": "https://site.fastshop.com.br/split-gree-g-side-auto-hw-12k-220v-qf-inv-r32-189436-199895/p",
+      "sha256": "72503c8bcf37036fe6a0446a2199cbd9ef65bffb42f1cf77ba36496423d718d5"
+    },
+    {
+      "sku": "HW14262RSAB",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/HW14262RSAB_220V_20261116_151314_PDP.png",
+      "captured_at": "2026-11-16T15:13:14-03:00",
+      "url": "https://site.fastshop.com.br/split-gree-g-side-auto-hw-12k-220v-qf-inv-r32-189436-199895/p",
+      "sha256": "bf5d7e15134b19f543454c6ec81c2409dfeceeeb8e7fe6690fa8582cf6e2c809"
+    },
+    {
+      "sku": "HW14262RSAB",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/HW14262RSAB_20261116_151249_PLP.png",
+      "captured_at": "2026-11-16T15:12:49-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW14262RSAB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "09cdafeac08c1430675bb3d4526590917463c9858601d64bfbc9bfbb3f4991f6"
+    },
+    {
+      "sku": "I4CH35PDWTBCOB",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/I4CH35PDWTBCOB_20261116_151150_PDP.png",
+      "captured_at": "2026-11-16T15:11:50-03:00",
+      "url": "https://site.fastshop.com.br/carregador-de-tomada-turbo-35w-super-power-duo---branco---geonav---ch35pdwt-i4ch35pdwtbco_prd-14762/p",
+      "sha256": "7d70c93256887358a46543f09c61890072d91c222fa9199c5ca1221ca18ef8bd"
+    },
+    {
+      "sku": "I4CH35PDWTBCOB",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/I4CH35PDWTBCOB_20261116_151136_PLP.png",
+      "captured_at": "2026-11-16T15:11:36-03:00",
+      "url": "https://site.fastshop.com.br/s?q=I4CH35PDWTBCOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "61f01012a14c17856e1cfae6ee5ada988d15b2aa13f3be49c087d1c5e55fb19e"
+    },
+    {
+      "sku": "L2ZAFR0856CNZB",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/L2ZAFR0856CNZB_20261116_151225_PDP.png",
+      "captured_at": "2026-11-16T15:12:25-03:00",
+      "url": "https://site.fastshop.com.br/tablet-lenovo-idea-tab-cinza-com-11--2-5k-90hz--8gb--128gb--wi-fi--android-13--processador-octa-core-l2zafr0856cnz_prd-125286/p",
+      "sha256": "90be5f905c219332c4c50267128884c0bd7cab09f541d00586a68f1f90b1b669"
+    },
+    {
+      "sku": "L2ZAFR0856CNZB",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/L2ZAFR0856CNZB_20261116_151206_PLP.png",
+      "captured_at": "2026-11-16T15:12:06-03:00",
+      "url": "https://site.fastshop.com.br/s?q=L2ZAFR0856CNZB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "b26d849ffc59fe34858092c112075046a376fb7b675f3d3be6e480000f62fac0"
+    },
+    {
+      "sku": "L2ZAG70943CNZB",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/L2ZAG70943CNZB_20261116_151145_PDP.png",
+      "captured_at": "2026-11-16T15:11:45-03:00",
+      "url": "https://site.fastshop.com.br/tablet-lenovo-idea-tab-plus-cinza-com-12-1---wi-fi--octa-core--8gb--128gb--caneta-e-case-com-teclado-integrado-zag70943br-l2zag70943cnz_prd-154744/p",
+      "sha256": "d29c7126c790bfd4cfadf7ed242ba2b9acec423c19f48e9ea74bb8fb1a4559a3"
+    },
+    {
+      "sku": "L2ZAG70943CNZB",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/L2ZAG70943CNZB_20261116_151131_PLP.png",
+      "captured_at": "2026-11-16T15:11:31-03:00",
+      "url": "https://site.fastshop.com.br/s?q=L2ZAG70943CNZB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a7fcfefeeed6c269bc2c53d1ff5085b2d813b1b5b9a29117198216b990a7babd"
+    },
+    {
+      "sku": "LJLIP23ACRM",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/LJLIP23ACRM_20261116_151150_PDP.png",
+      "captured_at": "2026-11-16T15:11:50-03:00",
+      "url": "https://site.fastshop.com.br/capa-crystal-m-para-iphone-13--14--15-e-16e--em-policarbonato---laut-ljlip23acrm_prd-98610/p",
+      "sha256": "b9e079c0ab56fa6361ecebd4e940c304711ba8aa54a8ed158b81740fa4709c49"
+    },
+    {
+      "sku": "LJLIP23ACRM",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/LJLIP23ACRM_20261116_151132_PLP.png",
+      "captured_at": "2026-11-16T15:11:32-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLIP23ACRM&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "eb1e1471cd95ea702abc93f240183ceb497e35f0551567cbf75092f665d87cd4"
+    },
+    {
+      "sku": "OSOBAT640PTO1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/OSOBAT640PTO1_20261116_151341_PDP.png",
+      "captured_at": "2026-11-16T15:13:41-03:00",
+      "url": "https://site.fastshop.com.br/batedeira-planetaria-oster-obat640---12-velocidades-03-batedores-osobat640pto_prd-15465/p",
+      "sha256": "8d20e97aba6c06854195c81a8ddff2511068454359935c2c020e68432de41d35"
+    },
+    {
+      "sku": "OSOBAT640PTO1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/OSOBAT640PTO1_20261116_151323_PLP.png",
+      "captured_at": "2026-11-16T15:13:23-03:00",
+      "url": "https://site.fastshop.com.br/s?q=OSOBAT640PTO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e05ec26ed753af5e09500a092751cd230f2dd5a924bc4631bddca41e062b55d8"
+    },
+    {
+      "sku": "OSOBAT641PTO1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/OSOBAT641PTO1_20261116_151155_PDP.png",
+      "captured_at": "2026-11-16T15:11:55-03:00",
+      "url": "https://site.fastshop.com.br/batedeira-planetaria-oster-com-03-batedores-preta---obat641-osobat641pto_prd-14851/p",
+      "sha256": "de14b1ee4d6bf0a7ec53257a3166f90021d6dbf8b85a469b132522be8ae195f7"
+    },
+    {
+      "sku": "OSOBAT641PTO1",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/OSOBAT641PTO1_110V_20261116_151202_PDP.png",
+      "captured_at": "2026-11-16T15:12:02-03:00",
+      "url": "https://site.fastshop.com.br/batedeira-planetaria-oster-com-03-batedores-preta---obat641-osobat641pto_prd-14851/p",
+      "sha256": "4f5eb202435245a59cf5bfce7ad3dd075c455963b3c0d0aa7fc6a09c61b959f4"
+    },
+    {
+      "sku": "OSOBAT641PTO1",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/OSOBAT641PTO1_220V_20261116_151213_PDP.png",
+      "captured_at": "2026-11-16T15:12:13-03:00",
+      "url": "https://site.fastshop.com.br/batedeira-planetaria-oster-com-03-batedores-preta---obat641-osobat641pto_prd-14852/p",
+      "sha256": "20e466610ce4c4c49deb6ae75955c975aa28a5d602254201d65def88f66a5244"
+    },
+    {
+      "sku": "OSOBAT641PTO1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/OSOBAT641PTO1_20261116_151137_PLP.png",
+      "captured_at": "2026-11-16T15:11:37-03:00",
+      "url": "https://site.fastshop.com.br/s?q=OSOBAT641PTO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "9024688d17ae1d487799c226b39b7d888346535e208b41c4273b366f172ebb41"
+    },
+    {
+      "sku": "PANAF190G1W1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/PANAF190G1W1_20261116_151238_PDP.png",
+      "captured_at": "2026-11-16T15:12:38-03:00",
+      "url": "https://site.fastshop.com.br/lavadora-de-roupas-intuitive--panasonic-19kg-branca-com-10-programas-de-lavagem-e-smartsense---na-f190g1-panaf190g1w_prd-157321/p",
+      "sha256": "2667353d6e728864e4cc4bc7889239fd0de36ac75c1c48300f4715f4274686e8"
+    },
+    {
+      "sku": "PANAF190G1W1",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/PANAF190G1W1_110V_20261116_151251_PDP.png",
+      "captured_at": "2026-11-16T15:12:51-03:00",
+      "url": "https://site.fastshop.com.br/lavadora-de-roupas-intuitive--panasonic-19kg-branca-com-10-programas-de-lavagem-e-smartsense---na-f190g1-panaf190g1w_prd-157322/p",
+      "sha256": "ca46986b82ab492c78b1dd426df7b081d1a546b04a56f35ffb5a0a4ef01f4e9f"
+    },
+    {
+      "sku": "PANAF190G1W1",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/PANAF190G1W1_220V_20261116_151302_PDP.png",
+      "captured_at": "2026-11-16T15:13:02-03:00",
+      "url": "https://site.fastshop.com.br/lavadora-de-roupas-intuitive--panasonic-19kg-branca-com-10-programas-de-lavagem-e-smartsense---na-f190g1-panaf190g1w_prd-157321/p",
+      "sha256": "1c9d2de61149fd14cf6b0216f998c5cc27fc64c900a3cf7b89be873b7e5a3a46"
+    },
+    {
+      "sku": "PANAF190G1W1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/PANAF190G1W1_20261116_151221_PLP.png",
+      "captured_at": "2026-11-16T15:12:21-03:00",
+      "url": "https://site.fastshop.com.br/s?q=PANAF190G1W1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "b4ae936e530bc62c21cddad338c5096a1616e6330e0cbe368eb52c3770ee27df"
+    },
+    {
+      "sku": "PANNST55LMR1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/PANNST55LMR1_20261116_151233_PDP.png",
+      "captured_at": "2026-11-16T15:12:33-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-de-mesa-panasonic-com-27-litros-de-capacidade-prata---nn-st55lmrun-pannst55lmr_prd-12674/p",
+      "sha256": "8f8049ad99eafa4b3cd21aecf481aac20aaebced1e87a8a4f8f7f658965a47b8"
+    },
+    {
+      "sku": "PANNST55LMR1",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/PANNST55LMR1_110V_20261116_151240_PDP.png",
+      "captured_at": "2026-11-16T15:12:40-03:00",
+      "url": "https://site.fastshop.com.br/micro-ondas-de-mesa-panasonic-com-27-litros-de-capacidade-prata---nn-st55lmrun-pannst55lmr_prd-12674/p",
+      "sha256": "015b69d60feab81681d30950606f3a51ac7021cf554d5c92fa8b8a0b54f8a128"
+    },
+    {
+      "sku": "PANNST55LMR1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/PANNST55LMR1_20261116_151212_PLP.png",
+      "captured_at": "2026-11-16T15:12:12-03:00",
+      "url": "https://site.fastshop.com.br/s?q=PANNST55LMR1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "65c8b05a3428cf479e7b1f53a1604e04f4d4d417a76076a7ed8df49f90d497ff"
+    },
+    {
+      "sku": "PANRBB64PV2X",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/PANRBB64PV2X_20261116_151301_PDP.png",
+      "captured_at": "2026-11-16T15:13:01-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-bottom-freezer-panasonic-de-02-portas-frost-free-com-475-litros-aco-escovado---nr-bb64pv2x-panrbb64pv2xb_prd-183567/p",
+      "sha256": "2a08b2c6e9ea6c7ca27fc028bf94bea9076071e30b0c249d0ad0e0ebaf5a2817"
+    },
+    {
+      "sku": "PANRBB64PV2X",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/PANRBB64PV2X_20261116_151245_PLP.png",
+      "captured_at": "2026-11-16T15:12:45-03:00",
+      "url": "https://site.fastshop.com.br/s?q=PANRBB64PV2X&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "80dbc11f43557c52edcd853af5fea949acf3943ec56975370acd829a3e6a2013"
+    }
+  ]
+}
