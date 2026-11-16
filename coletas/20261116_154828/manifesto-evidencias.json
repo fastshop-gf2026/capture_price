@@ -1,0 +1,96 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "generated_at": "2026-11-16T15:50:32-03:00",
+  "files": [
+    {
+      "sku": "L283GM0003BRB",
+      "group": "BD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/BD/L283GM0003BRB_20261116_154903_PDP.png",
+      "captured_at": "2026-11-16T15:49:03-03:00",
+      "url": "https://site.fastshop.com.br/notebook-lenovo-yoga-slim-7i-intel-core-ultra-5--16gb--512gb-ssd--tela-de-14--oled--windows-11---83gm0003br-l283gm0003br_prd-65794/p",
+      "sha256": "3ec7bb138d45e3ce2fe4813848ac37f5dfc4117814c5a204fb83cae92a872a36"
+    },
+    {
+      "sku": "L283GM0003BRB",
+      "group": "BD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/BD/L283GM0003BRB_20261116_154902_PLP.png",
+      "captured_at": "2026-11-16T15:49:02-03:00",
+      "url": "https://site.fastshop.com.br/s?q=L283GM0003BRB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "8a460a892df2011737fc0e3ea86c9091dc4b90b6cd9a4692d09da3e1573983a8"
+    },
+    {
+      "sku": "NLD62BRAPO2",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/NLD62BRAPO2_20261116_154917_PDP.png",
+      "captured_at": "2026-11-16T15:49:17-03:00",
+      "url": "https://site.fastshop.com.br/cafeteira-nespresso-pixie-redesign-azul-e-preta-para-cafe-em-capsula-nld62brapo_prd-94940/p",
+      "sha256": "f6c4fb15d55e65edbaaf55b161700ce6bcb34c2c6d2101c1d766243a7b118141"
+    },
+    {
+      "sku": "NLD62BRAPO2",
+      "group": "IN",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/IN/NLD62BRAPO2_110V_20261116_154917_PDP.png",
+      "captured_at": "2026-11-16T15:49:17-03:00",
+      "url": "https://site.fastshop.com.br/cafeteira-nespresso-pixie-redesign-azul-e-preta-para-cafe-em-capsula-nld62brapo_prd-94940/p",
+      "sha256": "5794e9d5030af85043d24cdfc8df0c4d430903f7c6a983a29a377c0c2a081800"
+    },
+    {
+      "sku": "NLD62BRAPO2",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/NLD62BRAPO2_20261116_154915_PLP.png",
+      "captured_at": "2026-11-16T15:49:15-03:00",
+      "url": "https://site.fastshop.com.br/s?q=NLD62BRAPO2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "7d48a0c1b2b54746a40ae561ca10a472d1afad12820b77299cb049dd333a4f15"
+    },
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LA/WANA34100PTO1_20261116_154912_PDP.png",
+      "captured_at": "2026-11-16T15:49:12-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-airfryer-philips-walita-serie-3000---na341-wana34100pto_prd-95897/p",
+      "sha256": "5d574de7c7fdea58937773df7e6a7d51c6b454ab4c78da3f9f600cb522301db3"
+    },
+    {
+      "sku": "WANA34100PTO1",
+      "group": "LA",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LA/WANA34100PTO1_20261116_154910_PLP.png",
+      "captured_at": "2026-11-16T15:49:10-03:00",
+      "url": "https://site.fastshop.com.br/s?q=WANA34100PTO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "1f24a5208ca5062ba50b3a509b517dc86da0ce143847a2c83c2d361ff2ddfd91"
+    },
+    {
+      "sku": "1QMDWTF08S2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/1QMDWTF08S2_20261116_154919_PDP.png",
+      "captured_at": "2026-11-16T15:49:19-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-midea-touch-plus-cinza-com-08-servicos-e-05-programas-de-lavagem---mdwtf08s-1qmdwtf08s_prd-155649/p",
+      "sha256": "8cf2f6538bec4299c6249719114c8ac7d77546c234c99a1e0ad19408c45d9c2c"
+    },
+    {
+      "sku": "1QMDWTF08S2",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/1QMDWTF08S2_110V_20261116_154920_PDP.png",
+      "captured_at": "2026-11-16T15:49:20-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-midea-touch-plus-cinza-com-08-servicos-e-05-programas-de-lavagem---mdwtf08s-1qmdwtf08s_prd-155649/p",
+      "sha256": "5c79beacb88ec3baeebb8f18f0705c724e55c7021969f44e32ee9ae408622fc9"
+    },
+    {
+      "sku": "1QMDWTF08S2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/1QMDWTF08S2_20261116_154918_PLP.png",
+      "captured_at": "2026-11-16T15:49:18-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMDWTF08S2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "58fbe18b51540e029bee4223fe0eeb67c200b3d393af27cf0ad801f93b3e0662"
+    }
+  ]
+}
