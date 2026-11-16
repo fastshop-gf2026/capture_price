@@ -1,0 +1,2148 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "generated_at": "2026-11-16T16:54:25-03:00",
+  "files": [
+    {
+      "sku": "AEML8K2BZADRD",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/AEML8K2BZADRD_20261116_165059_PDP.png",
+      "captured_at": "2026-11-16T16:50:59-03:00",
+      "url": "https://site.fastshop.com.br/dock-station-apple-para-iphone-e-ipod-dourado---ml8k2bza-aeml8k2bzadrd_prd-70645/p",
+      "sha256": "fed391cfab8d5c2a7773139c2c4cd4f9d4a368b16efccec071619d7d349ebc75"
+    },
+    {
+      "sku": "AEML8K2BZADRD",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/AEML8K2BZADRD_20261116_165047_PLP.png",
+      "captured_at": "2026-11-16T16:50:47-03:00",
+      "url": "https://site.fastshop.com.br/s?q=AEML8K2BZADRD&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e3994d366a2d8f94ee9faa4a4b34874647503d194bef3ffbe14a4ca8bab5a375"
+    },
+    {
+      "sku": "I4AER10PTO",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/I4AER10PTO_20261116_165059_PDP.png",
+      "captured_at": "2026-11-16T16:50:59-03:00",
+      "url": "https://site.fastshop.com.br/climatizador-de-ar-itatiaia-40l-127v-caita1400a-172481-182637/p",
+      "sha256": "1bbffaca07d54006195450750b9f7ab3843eda536b97e47e366120ecb565833f"
+    },
+    {
+      "sku": "I4AER10PTO",
+      "group": "AD",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/AD/I4AER10PTO_110V_20261116_165101_PDP.png",
+      "captured_at": "2026-11-16T16:51:01-03:00",
+      "url": "https://site.fastshop.com.br/climatizador-de-ar-itatiaia-40l-127v-caita1400a-172481-182637/p",
+      "sha256": "6f3bd6211d6db0bd7830a4472b0db9b09bbbeffefaf0d9150f0c349200366422"
+    },
+    {
+      "sku": "I4AER10PTO",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/I4AER10PTO_20261116_165049_PLP.png",
+      "captured_at": "2026-11-16T16:50:49-03:00",
+      "url": "https://site.fastshop.com.br/s?q=I4AER10PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "26386f51d8e1e6a86e994d9a4a4518b037eaf90a8cbfcfd5d8263c1a53111ab8"
+    },
+    {
+      "sku": "I4AER15BCO",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/I4AER15BCO_20261116_165032_PDP.png",
+      "captured_at": "2026-11-16T16:50:32-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-geonav-tws-harmonywave-intra-auricular-com-cancelamento-ativo-de-ruido-branco---aer15-i4aer15bco_prd-16175/p",
+      "sha256": "c30b62911308db62fa3c7df78f77321fa1406dbdbc1aca26ab84d189199f86d0"
+    },
+    {
+      "sku": "I4AER15BCO",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/I4AER15BCO_20261116_165017_PLP.png",
+      "captured_at": "2026-11-16T16:50:17-03:00",
+      "url": "https://site.fastshop.com.br/s?q=I4AER15BCO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "09b32cf3f590e7528a3cc301bec7a370c13b265a03ebdd3bfd1f8dedf2be61fc"
+    },
+    {
+      "sku": "I4AER15PTO",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/I4AER15PTO_20261116_165031_PDP.png",
+      "captured_at": "2026-11-16T16:50:31-03:00",
+      "url": "https://site.fastshop.com.br/pneu-aro-16-firestone-f600-205-55r-16-91v-138490-147187/p",
+      "sha256": "19318209c5f89ae5883c07da319c92d72082b5e4ff4c4c44379f313b38655fc5"
+    },
+    {
+      "sku": "I4AER15PTO",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/I4AER15PTO_20261116_165017_PLP.png",
+      "captured_at": "2026-11-16T16:50:17-03:00",
+      "url": "https://site.fastshop.com.br/s?q=I4AER15PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "9433a2983ce90ceaa652a411b731d71744b78331b0b358be4cd8a4eb6302bed2"
+    },
+    {
+      "sku": "I4AERCX02PTOB",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/I4AERCX02PTOB_20261116_165057_PDP.png",
+      "captured_at": "2026-11-16T16:50:57-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-geonav-aerbox-2-tws-com-potencia-de-5w-rms-preta---aercx02-i4aercx02pto_prd-16176/p",
+      "sha256": "235989720009103289a0304889bd0a15d39ec595ce02d0a7d301b7ab46d8120b"
+    },
+    {
+      "sku": "I4AERCX02PTOB",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/I4AERCX02PTOB_20261116_165045_PLP.png",
+      "captured_at": "2026-11-16T16:50:45-03:00",
+      "url": "https://site.fastshop.com.br/s?q=I4AERCX02PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "46e67819c5024f80780ac209d76dd2a5e1c51b2a18b78d6714210a6a9afa5d69"
+    },
+    {
+      "sku": "JBLPARTY52PTOB",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/JBLPARTY52PTOB_20261116_164956_PDP.png",
+      "captured_at": "2026-11-16T16:49:56-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-partybox-720-preta-jblpartb72pto_prd/p",
+      "sha256": "2d5c8a0a16ac8c4c6b0ffd08c741d38ef478b856653eabcbd680069428a3b06e"
+    },
+    {
+      "sku": "JBLPARTY52PTOB",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/JBLPARTY52PTOB_20261116_164941_PLP.png",
+      "captured_at": "2026-11-16T16:49:41-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLPARTY52PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "571c0a5bf26517c6cb31f89cc0c45091fc5c0d95a082ab6a4e774e69d5f7b882"
+    },
+    {
+      "sku": "JBLPARTYBUPTOB",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/JBLPARTYBUPTOB_20261116_164951_PDP.png",
+      "captured_at": "2026-11-16T16:49:51-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-partybox-encore-2-preta-com-microfone--a-prova-de-respingos-ipx4-jblpbenc22pto_prd/p",
+      "sha256": "8012bf95a4ed2bdfa90ae5ffe1ea40ad0ef5247009b5b23af601b9ea358d2d05"
+    },
+    {
+      "sku": "JBLPARTYBUPTOB",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/JBLPARTYBUPTOB_20261116_164938_PLP.png",
+      "captured_at": "2026-11-16T16:49:38-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLPARTYBUPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a9866c4c519df745dde983206cb43dd43627ef1c1b663023e674c2c1952b0586"
+    },
+    {
+      "sku": "JBLSNDGERO",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/JBLSNDGERO_20261116_165029_PDP.png",
+      "captured_at": "2026-11-16T16:50:29-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-partybox-encore-2-preta-com-microfone--a-prova-de-respingos-ipx4-jblpbenc22pto_prd/p",
+      "sha256": "d9fef2d1b8b990d780fb9dbf9347e2bdb8ae2625a93d50b6030ddd0a972a8a69"
+    },
+    {
+      "sku": "JBLSNDGERO",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/JBLSNDGERO_20261116_165015_PLP.png",
+      "captured_at": "2026-11-16T16:50:15-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLSNDGERO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "166c2a9f13ab20d94c3076372185a40595d49b5e2a28633e447d50a2e2c37890"
+    },
+    {
+      "sku": "JBLSNDGERP",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/JBLSNDGERP_20261116_165030_PDP.png",
+      "captured_at": "2026-11-16T16:50:30-03:00",
+      "url": "https://site.fastshop.com.br/soundbar-jbl-bar-1000mk2-7-1-4-canais-wireless-com-480w-rms--purevoice-2-0-e-multibeam%E2%84%A2-3-0-jblbar10m2pto_prd/p",
+      "sha256": "b7129f494dcf50d476b4b7d56d97a44d993530992e832bb4e5a0ed67bbd67b7e"
+    },
+    {
+      "sku": "JBLSNDGERP",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/JBLSNDGERP_20261116_165014_PLP.png",
+      "captured_at": "2026-11-16T16:50:14-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLSNDGERP&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "2f26813d649b2a073d7d03dcc47f56551ce7cac4028c0a24c6a1c4b0461293d4"
+    },
+    {
+      "sku": "LGGRABPTOB",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/LGGRABPTOB_20261116_165027_PDP.png",
+      "captured_at": "2026-11-16T16:50:27-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-lg-xboom-grab--recarregavel--ip67--ate-20h-de-reproducao--luzes-multicolor-e-resistencia-militar-lggrabpto_prd-111131/p",
+      "sha256": "c674c446ee74bc6fd84443475724ce5748b84055ee0e5b9b843ee3c091f2b233"
+    },
+    {
+      "sku": "LGGRABPTOB",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/LGGRABPTOB_20261116_165014_PLP.png",
+      "captured_at": "2026-11-16T16:50:14-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LGGRABPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "86d48f7258b3e2a916127838defe309a76d37acf04c9b46f4c24772b3be70563"
+    },
+    {
+      "sku": "LGS70TRPTOB",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/LGS70TRPTOB_20261116_164952_PDP.png",
+      "captured_at": "2026-11-16T16:49:52-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-lg-qned-mini-led-ai-4k-65--polegadas-com-recurso-para-jogos--google-assistente-e-wi-fi---65qned70bsa-lg65qnedpto_prd-183602/p",
+      "sha256": "1b666c17d6522288bcc27f7401f46b74036f18d98d4bfdd9ef6e325db9ee4611"
+    },
+    {
+      "sku": "LGS70TRPTOB",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/LGS70TRPTOB_20261116_164938_PLP.png",
+      "captured_at": "2026-11-16T16:49:38-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LGS70TRPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "86628430196e516c481b052f0fa304e895406ef2876e1be13030115db20fd8c8"
+    },
+    {
+      "sku": "LGSTAGE301PTOB",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/LGSTAGE301PTOB_20261116_164948_PDP.png",
+      "captured_at": "2026-11-16T16:49:48-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-lg-xboom-stage-301--240w--bluetooth--ipx4--bateria-12h--bass-boost--luzes-led--entrada-optica-e-usb-lgstage301pto_prd-111132/p",
+      "sha256": "ade41720757c93462f14fc977aec5d20cb13a17beae0e02e309eb19839b45325"
+    },
+    {
+      "sku": "LGSTAGE301PTOB",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/LGSTAGE301PTOB_20261116_164933_PLP.png",
+      "captured_at": "2026-11-16T16:49:33-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LGSTAGE301PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "614a23b7b2a5c1bb3926967d58e5483a62ca75baef141c0d5a4c32beb99afed3"
+    },
+    {
+      "sku": "LGXG8TPTOB",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/LGXG8TPTOB_20261116_165024_PDP.png",
+      "captured_at": "2026-11-16T16:50:24-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-86%E2%80%9D-lg-4k-86qned73asa-qned-webos-25-ai-a7-gen8-156941-166883/p",
+      "sha256": "0585c6d84c54c4fa01bc8fb8619950d06bf0b8a9a2366271d27e4850e887ae84"
+    },
+    {
+      "sku": "LGXG8TPTOB",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/LGXG8TPTOB_20261116_165009_PLP.png",
+      "captured_at": "2026-11-16T16:50:09-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LGXG8TPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "1fc4775c31d820c98674bd14afb5759a960c08602efd3831d6b2f6ff0da0fc34"
+    },
+    {
+      "sku": "LGXG9SPTOB",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/LGXG9SPTOB_20261116_164950_PDP.png",
+      "captured_at": "2026-11-16T16:49:50-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-portatil-lg-xboom-a-prova-d-agua--ip67--e-24-horas-de-bateria---xg9s-lgxg9spto_prd-15824/p",
+      "sha256": "b22ff57887da063ef2825b4701f61048c2d6cc8fb20247c8eb22714392e15898"
+    },
+    {
+      "sku": "LGXG9SPTOB",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/LGXG9SPTOB_20261116_164936_PLP.png",
+      "captured_at": "2026-11-16T16:49:36-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LGXG9SPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "2604af13eeda35ec030a7124a466b6bc8a91be971a26d7d201e12a2e8afd423a"
+    },
+    {
+      "sku": "PITAH2209BK00",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/PITAH2209BK00_20261116_165052_PDP.png",
+      "captured_at": "2026-11-16T16:50:52-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-philips-bluetooth-headphone-preto---tah2209bk-00-pitah2209bk00_prd-103290/p",
+      "sha256": "03cdbe980c15dda43b7b0d9987d7bb1f5082cc8c00a63bddc496f4a4c0c81856"
+    },
+    {
+      "sku": "PITAH2209BK00",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/PITAH2209BK00_20261116_165040_PLP.png",
+      "captured_at": "2026-11-16T16:50:40-03:00",
+      "url": "https://site.fastshop.com.br/s?q=PITAH2209BK00&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "7c98a63090c2f2ff715652797d4fb3b489896dddf63fb89312a49196c345ba4d"
+    },
+    {
+      "sku": "PITAH2300PTO",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/PITAH2300PTO_20261116_165057_PDP.png",
+      "captured_at": "2026-11-16T16:50:57-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-philips-headphone-preto---tah2300bk-00-pitah2300pto_prd-125230/p",
+      "sha256": "e159c60ce2b73b2f19db7595378ec791d998fb87996677ecb71223d401745b64"
+    },
+    {
+      "sku": "PITAH2300PTO",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/PITAH2300PTO_20261116_165047_PLP.png",
+      "captured_at": "2026-11-16T16:50:47-03:00",
+      "url": "https://site.fastshop.com.br/s?q=PITAH2300PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "74598729ca3070cee3c962f9325d6f5173f964b6e68887167b5355ad39755c8b"
+    },
+    {
+      "sku": "SGHWQ800FZPTOB",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/SGHWQ800FZPTOB_20261116_164953_PDP.png",
+      "captured_at": "2026-11-16T16:49:53-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-qled-4k-advanced-85--polegadas-com-google-tv-e-144-hz-vrr---85p8l-tk85p8lpto_prd-183439/p",
+      "sha256": "7fc51912a82b73316e845cbdc337bf53a37a85c0db899d45831e066a1f2562e5"
+    },
+    {
+      "sku": "SGHWQ800FZPTOB",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/SGHWQ800FZPTOB_20261116_164942_PLP.png",
+      "captured_at": "2026-11-16T16:49:42-03:00",
+      "url": "https://site.fastshop.com.br/s?q=SGHWQ800FZPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "681713c84486327d99db718f51ff3f1f50c5f16e1344375733e551ebf31eeec7"
+    },
+    {
+      "sku": "3RSIMFXPROPACB",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/3RSIMFXPROPACB_20261116_165123_PDP.png",
+      "captured_at": "2026-11-16T16:51:23-03:00",
+      "url": "https://site.fastshop.com.br/aro-avulso-simagic---fx-pro-3rsimfxpropac_prd-172034/p",
+      "sha256": "a6c53480875c70e37c40e7959f52a17b93d1fd1dec6e5b4da0a409feca508195"
+    },
+    {
+      "sku": "3RSIMFXPROPACB",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/3RSIMFXPROPACB_20261116_165109_PLP.png",
+      "captured_at": "2026-11-16T16:51:09-03:00",
+      "url": "https://site.fastshop.com.br/s?q=3RSIMFXPROPACB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "77792ff6354b4bd7ce8d395ce3d82486f1cca204064faf5d1022548e19433507"
+    },
+    {
+      "sku": "3RSIMGT1PACB",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/3RSIMGT1PACB_20261116_165128_PDP.png",
+      "captured_at": "2026-11-16T16:51:28-03:00",
+      "url": "https://site.fastshop.com.br/aro-avulso-simagic---gt1-3rsimgt1pac_prd-171541/p",
+      "sha256": "5c2d658e9502f6acbc2d1e890853bea1db9e0a9ba1a69135b22317342a1c7dc6"
+    },
+    {
+      "sku": "3RSIMGT1PACB",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/3RSIMGT1PACB_20261116_165113_PLP.png",
+      "captured_at": "2026-11-16T16:51:13-03:00",
+      "url": "https://site.fastshop.com.br/s?q=3RSIMGT1PACB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "5695a7ee1a31266f6e7a9d325c81838a432b371a6a4e817d6704c13aa1b57561"
+    },
+    {
+      "sku": "3RSIMGTNEOPACB",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/3RSIMGTNEOPACB_20261116_165122_PDP.png",
+      "captured_at": "2026-11-16T16:51:22-03:00",
+      "url": "https://site.fastshop.com.br/aro-avulso-simagic---gt-neo-3rsimgtneopac_prd-171864/p",
+      "sha256": "27c86386c2d81fe1f57f92fa36866605171b0880a2372557dfda45ac15714613"
+    },
+    {
+      "sku": "3RSIMGTNEOPACB",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/3RSIMGTNEOPACB_20261116_165105_PLP.png",
+      "captured_at": "2026-11-16T16:51:05-03:00",
+      "url": "https://site.fastshop.com.br/s?q=3RSIMGTNEOPACB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "778a55e91265f06bdc3f2329da5bf6f344cee39102c2fd0c93d4145c105b2c0d"
+    },
+    {
+      "sku": "3RSIMGTSPACB",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/3RSIMGTSPACB_20261116_165057_PDP.png",
+      "captured_at": "2026-11-16T16:50:57-03:00",
+      "url": "https://site.fastshop.com.br/aro-avulso-simagic---gts-3rsimgtspac_prd-171861/p",
+      "sha256": "97d577a2e970474228a4d3f9f9d11347b4a88b0573b1a2156deb8b86bd040287"
+    },
+    {
+      "sku": "3RSIMGTSPACB",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/3RSIMGTSPACB_20261116_165041_PLP.png",
+      "captured_at": "2026-11-16T16:50:41-03:00",
+      "url": "https://site.fastshop.com.br/s?q=3RSIMGTSPACB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "41d57acd8ea7c96e59f25ff3a22fd1abedd0132b20d0af43ad119c96cb5c402e"
+    },
+    {
+      "sku": "3RSIMTB1PACB",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/3RSIMTB1PACB_20261116_165100_PDP.png",
+      "captured_at": "2026-11-16T16:51:00-03:00",
+      "url": "https://site.fastshop.com.br/freio-de-mao-simagic-tb-1-3rsimtb1pac_prd-171863/p",
+      "sha256": "c6ce807b480f0c4a27b4de5d96e51e2b2a7a42228fc3844cba13461f8e0384ba"
+    },
+    {
+      "sku": "3RSIMTB1PACB",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/3RSIMTB1PACB_20261116_165043_PLP.png",
+      "captured_at": "2026-11-16T16:50:43-03:00",
+      "url": "https://site.fastshop.com.br/s?q=3RSIMTB1PACB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "71c16818179db614cbd9722683caabca7cd684eb657771e4ecd8d66f54e4b94b"
+    },
+    {
+      "sku": "HR4160880PGF1",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/HR4160880PGF1_20261116_164955_PDP.png",
+      "captured_at": "2026-11-16T16:49:55-03:00",
+      "url": "https://site.fastshop.com.br/kit-volante-e-pedal-t98-ferrari-para-ps4--ps5-e-pc---thrustmaster-hr4160880pgf_prd-111252/p",
+      "sha256": "d22ac7eebc54177e70e785caa7051da962a3cf3cb23b669c120487cf0e626854"
+    },
+    {
+      "sku": "HR4160880PGF1",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/HR4160880PGF1_20261116_164935_PLP.png",
+      "captured_at": "2026-11-16T16:49:35-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HR4160880PGF1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "46708081d838469effff2caeb2481fbafd63fb6e0ad5cd2f6ed7c1e125003250"
+    },
+    {
+      "sku": "HR4460297PGF1",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/HR4460297PGF1_20261116_165127_PDP.png",
+      "captured_at": "2026-11-16T16:51:27-03:00",
+      "url": "https://site.fastshop.com.br/kit-volante-e-pedal-t98-ferrari-para-xbox---thrustmaster-hr4460297pgf_prd-111250/p",
+      "sha256": "b88f36b93cfb44a4d0e71ad625abc2daaa995c9c03fc83bd782361ea720e340d"
+    },
+    {
+      "sku": "HR4460297PGF1",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/HR4460297PGF1_20261116_165116_PLP.png",
+      "captured_at": "2026-11-16T16:51:16-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HR4460297PGF1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f70c6f5f659fdb0ca8c32d2f5cdd68bc1e3847ae15ef9d77b1d2582e5e862b05"
+    },
+    {
+      "sku": "JBLQTUM250BRXB",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/JBLQTUM250BRXB_20261116_165131_PDP.png",
+      "captured_at": "2026-11-16T16:51:31-03:00",
+      "url": "https://site.fastshop.com.br/soundbar-jbl-com-3-1-2-canais--bluetooth--dolby-atmos%C2%AE--hdmi-earc-e-220w-de-potencia-jblsb595pto_prd/p",
+      "sha256": "c95a0561a62caca0b8435487b43e06561a8089e9b7f0bdc6f916e9afdb885f89"
+    },
+    {
+      "sku": "JBLQTUM250BRXB",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/JBLQTUM250BRXB_20261116_165118_PLP.png",
+      "captured_at": "2026-11-16T16:51:18-03:00",
+      "url": "https://site.fastshop.com.br/s?q=JBLQTUM250BRXB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "7ccd5193879bcb8c52e0f09d3ed89c7d2023f1280fa1f4a6e3c025368380f257"
+    },
+    {
+      "sku": "LJLIP23ACRM",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJLIP23ACRM_20261116_165054_PDP.png",
+      "captured_at": "2026-11-16T16:50:54-03:00",
+      "url": "https://site.fastshop.com.br/capa-crystal-m-para-iphone-13--14--15-e-16e--em-policarbonato---laut-ljlip23acrm_prd-98610/p",
+      "sha256": "5b665d3624819268bd3c8e01174559dde28e44118b76996afd54bdd5d53ac437"
+    },
+    {
+      "sku": "LJLIP23ACRM",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJLIP23ACRM_20261116_165039_PLP.png",
+      "captured_at": "2026-11-16T16:50:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLIP23ACRM&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "4d93b2463451398fb67e61319b1a3aa0567a119f540c3f75ca1f5b921e2e4ca6"
+    },
+    {
+      "sku": "LJLIP25AHSMAZL",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJLIP25AHSMAZL_20261116_164950_PDP.png",
+      "captured_at": "2026-11-16T16:49:50-03:00",
+      "url": "https://site.fastshop.com.br/capa-protetora-huex-slim-para-iphone-17-azul---laut-ljlip25ahsazl_prd-122728/p",
+      "sha256": "68021111e4e56e7d3e90a7bba9daa5e0afb6519c7fa68e2b0cc560473d247d4f"
+    },
+    {
+      "sku": "LJLIP25AHSMAZL",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJLIP25AHSMAZL_20261116_164939_PLP.png",
+      "captured_at": "2026-11-16T16:49:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLIP25AHSMAZL&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "4e0dd380ebf9d72b6fe213b6fe8b140a91c5b8b3bec0efbf9e9b08f4ee51d650"
+    },
+    {
+      "sku": "LJLIP25APGLGLO",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJLIP25APGLGLO_20261116_165019_PDP.png",
+      "captured_at": "2026-11-16T16:50:19-03:00",
+      "url": "https://site.fastshop.com.br/pelicula-para-camera-traseira-compativel-com-iphone-17-transparente---laut-ljlip25apgglo_prd-122721/p",
+      "sha256": "f177bae2fb559c4173cefdb1ca8be637c10547d521f15e6fd763000c900ac651"
+    },
+    {
+      "sku": "LJLIP25APGLGLO",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJLIP25APGLGLO_20261116_165006_PLP.png",
+      "captured_at": "2026-11-16T16:50:06-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLIP25APGLGLO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "6f2da62e4e4d17195f4cf0fa850551b4e471adcc0d8af95a10800e877757a219"
+    },
+    {
+      "sku": "LJLIP25BHSMAZL",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJLIP25BHSMAZL_20261116_164954_PDP.png",
+      "captured_at": "2026-11-16T16:49:54-03:00",
+      "url": "https://site.fastshop.com.br/capa-protetora-huex-slim-para-iphone-17-pro-azul---laut-ljlip25bhsazl_prd-122604/p",
+      "sha256": "b79cb4c828df5f07c5073a96a072fcb8138008fc7c977cd139a0e341be7a1ed1"
+    },
+    {
+      "sku": "LJLIP25BHSMAZL",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJLIP25BHSMAZL_20261116_164939_PLP.png",
+      "captured_at": "2026-11-16T16:49:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLIP25BHSMAZL&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "04028f7a77fb4043ab175d43cfbddfdfe58f581ec8ae608a1a4c71e959a9689d"
+    },
+    {
+      "sku": "LJLIP25BSFBACN",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJLIP25BSFBACN_20261116_164949_PDP.png",
+      "captured_at": "2026-11-16T16:49:49-03:00",
+      "url": "https://site.fastshop.com.br/capa-protetora-shield-para-iphone-17-pro-azul-e-cinza---laut---l_ip25b_sf_bl-ljlip25bsfacn_prd-123968/p",
+      "sha256": "86e3939a16558e10c67ad45def46ee7ab4e8140f39f06492bad69a32cf0a325e"
+    },
+    {
+      "sku": "LJLIP25BSFBACN",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJLIP25BSFBACN_20261116_164935_PLP.png",
+      "captured_at": "2026-11-16T16:49:35-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLIP25BSFBACN&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "0950fb462813a236b05f67da14d025e15cbc4e3db7ebe65457c57def30636dc8"
+    },
+    {
+      "sku": "LJLMMAVOCLO",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJLMMAVOCLO_20261116_164953_PDP.png",
+      "captured_at": "2026-11-16T16:49:53-03:00",
+      "url": "https://site.fastshop.com.br/carteira-magmoji-abacate-com-magsafe-colorida---laut-ljlmmavoclo_prd-124619/p",
+      "sha256": "131038bbf0172cb6e8fb078bbe216f6f778fb4b637d5898c2f518581d76ff444"
+    },
+    {
+      "sku": "LJLMMAVOCLO",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJLMMAVOCLO_20261116_164941_PLP.png",
+      "captured_at": "2026-11-16T16:49:41-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLMMAVOCLO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "55475eff5a1414a8588a17d0a41b2acfff12b62b7f37976432cc3fd1d63fecb3"
+    },
+    {
+      "sku": "LJLMMBULCLO",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJLMMBULCLO_20261116_164949_PDP.png",
+      "captured_at": "2026-11-16T16:49:49-03:00",
+      "url": "https://site.fastshop.com.br/carteira-magmoji-bulldog-com-magsafe-colorida---laut-ljlmmbulclo_prd-124058/p",
+      "sha256": "ebc665f76961e2266eb5fe688dc83b7583d3eff39524b6a43a75c4a77617ea9c"
+    },
+    {
+      "sku": "LJLMMBULCLO",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJLMMBULCLO_20261116_164935_PLP.png",
+      "captured_at": "2026-11-16T16:49:35-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLMMBULCLO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "4ffbedb42d9171f82d620187c9839d8775081e0f81284aca13306bd48d3ec81b"
+    },
+    {
+      "sku": "LJLMMCCCLO",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJLMMCCCLO_20261116_165022_PDP.png",
+      "captured_at": "2026-11-16T16:50:22-03:00",
+      "url": "https://site.fastshop.com.br/magmoji-badge-com-magsafe-cupcake---laut-ljlmmccclo_prd-124780/p",
+      "sha256": "a325ac4a3f7f635af456507eafced520a359959fd57e2291551c66d502ff4e23"
+    },
+    {
+      "sku": "LJLMMCCCLO",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJLMMCCCLO_20261116_165012_PLP.png",
+      "captured_at": "2026-11-16T16:50:12-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLMMCCCLO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "37aa60c0e02ee94339081cbe90e091dd30a8665e5b4be8635fd6b995de83c39f"
+    },
+    {
+      "sku": "LJLMMDUCCLO",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJLMMDUCCLO_20261116_165022_PDP.png",
+      "captured_at": "2026-11-16T16:50:22-03:00",
+      "url": "https://site.fastshop.com.br/carteira-magmoji-pato-com-magsafe-colorida---laut-ljlmmducclo_prd-124054/p",
+      "sha256": "e4d5514a6b95d48082e8732b610d7df05171c52e22232776c440da6aa47c266f"
+    },
+    {
+      "sku": "LJLMMDUCCLO",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJLMMDUCCLO_20261116_165007_PLP.png",
+      "captured_at": "2026-11-16T16:50:07-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLMMDUCCLO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "3e6abecf8b5217453334966b4eea916bea7172e82a0922f673a7dea3d081749c"
+    },
+    {
+      "sku": "LJLMMGDCLO",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJLMMGDCLO_20261116_165052_PDP.png",
+      "captured_at": "2026-11-16T16:50:52-03:00",
+      "url": "https://site.fastshop.com.br/magmoji-badge-com-magsafe-good-day---laut-ljlmmgdclo_prd-124932/p",
+      "sha256": "dcf8b3336f9b02f056d5394004269f52e792793d3cba0c8e7fd69e841abf1189"
+    },
+    {
+      "sku": "LJLMMGDCLO",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJLMMGDCLO_20261116_165037_PLP.png",
+      "captured_at": "2026-11-16T16:50:37-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLMMGDCLO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "5ceecac5aa9089ce0e5fb8323136c333b7d394999a493889724d6fc7fe5f133f"
+    },
+    {
+      "sku": "LJLMMUNI2CLO",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJLMMUNI2CLO_20261116_165021_PDP.png",
+      "captured_at": "2026-11-16T16:50:21-03:00",
+      "url": "https://site.fastshop.com.br/magmoji-badge-com-magsafe-unicornio-branco---laut-ljlmmuni2clo_prd-124934/p",
+      "sha256": "b4215b9a0b12f504d3f42651bf2bc37283744c91dfa2926901a37081cefad84f"
+    },
+    {
+      "sku": "LJLMMUNI2CLO",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJLMMUNI2CLO_20261116_165007_PLP.png",
+      "captured_at": "2026-11-16T16:50:07-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLMMUNI2CLO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f48f36fcfd4f1e8f80fe24fdf88d3205f385ca7ce0aeba54fa01393b917cada1"
+    },
+    {
+      "sku": "LJLMMUNICLO",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJLMMUNICLO_20261116_165022_PDP.png",
+      "captured_at": "2026-11-16T16:50:22-03:00",
+      "url": "https://site.fastshop.com.br/magmoji-badge-com-magsafe-unicornios---laut-ljlmmuniclo_prd-124935/p",
+      "sha256": "0c4f1bd2c02d4f5a280402e1b3abb9edb89e09890684160a280d7b1d2efa38b5"
+    },
+    {
+      "sku": "LJLMMUNICLO",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJLMMUNICLO_20261116_165011_PLP.png",
+      "captured_at": "2026-11-16T16:50:11-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJLMMUNICLO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "84cb7cad707ac7b256ec3479644e08c201dbf8066402c8efd5891e1dcc8bac2b"
+    },
+    {
+      "sku": "LJTIP24BHAZL",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LJTIP24BHAZL_20261116_165054_PDP.png",
+      "captured_at": "2026-11-16T16:50:54-03:00",
+      "url": "https://site.fastshop.com.br/capa-para-iphone-16-pro-huex-protect-azul---laut---lt-ip24bhptbl-ljtip24bhazl_prd-51398/p",
+      "sha256": "42f8406e94d134e1ac99e05ee8310552f8b3332bf690b277857b7a55b30d13ae"
+    },
+    {
+      "sku": "LJTIP24BHAZL",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LJTIP24BHAZL_20261116_165040_PLP.png",
+      "captured_at": "2026-11-16T16:50:40-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LJTIP24BHAZL&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e8d33b382e69d77607677f0e6e9a710ab2df75442433c30fdedec66f3afb30db"
+    },
+    {
+      "sku": "LO95600003LIL",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/LO95600003LIL_20261116_165055_PDP.png",
+      "captured_at": "2026-11-16T16:50:55-03:00",
+      "url": "https://site.fastshop.com.br/mouse-pad-extra-grande-desk-mat-studio-series-em-tecido-lilas---logitech---956-000036-lo95600003lil_prd-14558/p",
+      "sha256": "7c72e88d14761932ed7b31e9404fe54a8ebe4f58162cbfc3eb7f199135f674d0"
+    },
+    {
+      "sku": "LO95600003LIL",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/LO95600003LIL_20261116_165041_PLP.png",
+      "captured_at": "2026-11-16T16:50:41-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LO95600003LIL&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "ddda35290dfaee15ce57cbf9dc78f2ac29329b4d6deb92dc835e16f6bae054ad"
+    },
+    {
+      "sku": "WLBEASTXPROPTA",
+      "group": "AO",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AO/WLBEASTXPROPTA_20261116_165128_PDP.png",
+      "captured_at": "2026-11-16T16:51:28-03:00",
+      "url": "https://site.fastshop.com.br/mouse-beast-x-pro-em-magnesio-prata---wlmouse-wlbeastxpropta_prd-179373/p",
+      "sha256": "99e9ca6aa6e7e39c386e14017991d387c6fd0281a4594ff983f2bda44b19588b"
+    },
+    {
+      "sku": "WLBEASTXPROPTA",
+      "group": "AO",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AO/WLBEASTXPROPTA_20261116_165114_PLP.png",
+      "captured_at": "2026-11-16T16:51:14-03:00",
+      "url": "https://site.fastshop.com.br/s?q=WLBEASTXPROPTA&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "337108e6aa0425ffa9863834eaa05d57003726d8df2e22f5bcc753ece3e25a85"
+    },
+    {
+      "sku": "MRPBA60036BCOB",
+      "group": "CL",
+      "name": "PDP",
+      "path": "Evidencias_PDP/CL/MRPBA60036BCOB_20261116_164930_PDP.png",
+      "captured_at": "2026-11-16T16:49:30-03:00",
+      "url": "https://site.fastshop.com.br/party-box-mondial-bivolt-pbx-600-a-62674-66007/p",
+      "sha256": "58c35bb892439091ef6fa1e7e98d650f4081452ba6d6b93e26e14a6785d46667"
+    },
+    {
+      "sku": "MRPBA60036BCOB",
+      "group": "CL",
+      "name": "PLP",
+      "path": "Evidencias_PLP/CL/MRPBA60036BCOB_20261116_164928_PLP.png",
+      "captured_at": "2026-11-16T16:49:28-03:00",
+      "url": "https://site.fastshop.com.br/s?q=MRPBA60036BCOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "93cdc81999bb8d35d17f7cccd2d7f55a9302d126caa8030fdbecaa5f2dc08f74"
+    },
+    {
+      "sku": "HW14256TTNB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW14256TTNB_20261116_165101_PDP.png",
+      "captured_at": "2026-11-16T16:51:01-03:00",
+      "url": "https://site.fastshop.com.br/smartwatch-huawei-watch-gt-5-pro-titanio-com-1-43---bluetooth-e-32gb-hw14256ttn_prd-110697/p",
+      "sha256": "9dd9502d66bc9a9c5fda9bb2856cbac64c304fcb8997dd0825ab1a06ba12e4cf"
+    },
+    {
+      "sku": "HW14256TTNB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW14256TTNB_20261116_165048_PLP.png",
+      "captured_at": "2026-11-16T16:50:48-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW14256TTNB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f6f8c91b9f58d42b841195ee0533fe0161e9d3437baa9f8286a6c818d2fc1523"
+    },
+    {
+      "sku": "HW14257VRDB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW14257VRDB_20261116_164949_PDP.png",
+      "captured_at": "2026-11-16T16:49:49-03:00",
+      "url": "https://site.fastshop.com.br/smartwatch-huawei-watch-ultimate-verde--esportes-em-nivel-profissional--pulseira-de-titanio-com-bluetooth-hw14257vrd_prd-110703/p",
+      "sha256": "ad3a0ca81383a4eaecdb4800569911cb49bac2ec68ce082d0884e1d4d61b324b"
+    },
+    {
+      "sku": "HW14257VRDB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW14257VRDB_20261116_164935_PLP.png",
+      "captured_at": "2026-11-16T16:49:35-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW14257VRDB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "5fe8d8403bc67ae7e105e53130a839a28c16321b1d5dfeb3a4826ca49b6853e2"
+    },
+    {
+      "sku": "HW14264VRDB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW14264VRDB_20261116_165115_PDP.png",
+      "captured_at": "2026-11-16T16:51:15-03:00",
+      "url": "https://site.fastshop.com.br/smartwatch-huawei-band-10-verde--com-pulseira-em-fluoroelastomero--bluetooth-hw14264vrd_prd-111189/p",
+      "sha256": "92fb477fb25d0bc6a7a74e0e2257feb54cbbe7ec3a1308df6b72bd7f74087860"
+    },
+    {
+      "sku": "HW14264VRDB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW14264VRDB_20261116_165110_PLP.png",
+      "captured_at": "2026-11-16T16:51:10-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW14264VRDB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "9fefcb2d3a5c8e20657f502259b0fce675088647fed2f5b2cdaeaf06af372ade"
+    },
+    {
+      "sku": "HW14276PTOB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW14276PTOB_20261116_164948_PDP.png",
+      "captured_at": "2026-11-16T16:49:48-03:00",
+      "url": "https://site.fastshop.com.br/smartwatch-huawei-watch-5-preto-com-46mm--pulseira-em-fluoroelastomero--bluetooth-e-32gb-hw14276pto_prd-112224/p",
+      "sha256": "a268868dfa5f8d1eb1a7c60b60fcde17402fead59a9e46dffb2adce2a0db07ad"
+    },
+    {
+      "sku": "HW14276PTOB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW14276PTOB_20261116_164934_PLP.png",
+      "captured_at": "2026-11-16T16:49:34-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW14276PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "58786d17ed9ed04fb001194ed086d177a11d2a3fbb765e9df077647eca49d034"
+    },
+    {
+      "sku": "HW14277TTNB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW14277TTNB_20261116_165022_PDP.png",
+      "captured_at": "2026-11-16T16:50:22-03:00",
+      "url": "https://site.fastshop.com.br/smartwatch-huawei-watch-5-46mm-titanio--bluetooth-e-32gb-hw14277ttn_prd-111147/p",
+      "sha256": "851a3b7a2659fba0c7a72558fe16e2e71c2aa3cd29a9e3628a5906c1ad5eafe1"
+    },
+    {
+      "sku": "HW14277TTNB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW14277TTNB_20261116_165006_PLP.png",
+      "captured_at": "2026-11-16T16:50:06-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW14277TTNB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "90703384cc563be39e8e8ad151d9b72b12d4a5bc470390624d24ca568ffd3a03"
+    },
+    {
+      "sku": "HW14278RXOB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW14278RXOB_20261116_165056_PDP.png",
+      "captured_at": "2026-11-16T16:50:56-03:00",
+      "url": "https://site.fastshop.com.br/smartwatch-huawei-watch-5-roxo-com-46mm--pulseira-em-composito--bluetooth-e-32gb-hw14278rxo_prd-112225/p",
+      "sha256": "5ddf557ee3255ab353050898724195c6805ede7479ab65d6ae3b378422fc825a"
+    },
+    {
+      "sku": "HW14278RXOB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW14278RXOB_20261116_165039_PLP.png",
+      "captured_at": "2026-11-16T16:50:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW14278RXOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "0de1dab999b813b3390279873a9b059ec41a7c681185ba0147a5bc3206f9d433"
+    },
+    {
+      "sku": "HW14279BGEB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW14279BGEB_20261116_164950_PDP.png",
+      "captured_at": "2026-11-16T16:49:50-03:00",
+      "url": "https://site.fastshop.com.br/smartwatch-huawei-watch-5-sand-gold-com-42mm--pulseira-em-titanio--bluetooth-e-32gb-hw14279bge_prd-111149/p",
+      "sha256": "d81682e6c436765ccef3c0872644f577c3d618b05e71b97bdf52189d7f0da57b"
+    },
+    {
+      "sku": "HW14279BGEB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW14279BGEB_20261116_164936_PLP.png",
+      "captured_at": "2026-11-16T16:49:36-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW14279BGEB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "66dad3f3dcaef06c6104aca000be03232ad6f0c94e3c1a86f0e930735bdf1d52"
+    },
+    {
+      "sku": "HW14281VRDB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW14281VRDB_20261116_164948_PDP.png",
+      "captured_at": "2026-11-16T16:49:48-03:00",
+      "url": "https://site.fastshop.com.br/smartwatch-huawei-watch-fit-4-pro-verde-com-1-82---pulseira-de-nylon--bluetooth-e-32gb-hw14281vrd_prd-111142/p",
+      "sha256": "9cf9cda8525a0a61b855a0dc893954e9248807c431b471c84994990fba9ea2cc"
+    },
+    {
+      "sku": "HW14281VRDB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW14281VRDB_20261116_164937_PLP.png",
+      "captured_at": "2026-11-16T16:49:37-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW14281VRDB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "bcb048b77133d570bdfbafe08c6fb4d0e25a6044725de2d745b366d930d5df79"
+    },
+    {
+      "sku": "HW14284CNZB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW14284CNZB_20261116_165059_PDP.png",
+      "captured_at": "2026-11-16T16:50:59-03:00",
+      "url": "https://site.fastshop.com.br/smartwatch-huawei-watch-fit-4-cinza-com-1-82---pulseira-de-nylon--bluetooth-e-32gb-hw14284cnz_prd-111138/p",
+      "sha256": "9b9a6c5db7ff00848eba06f63291a26fcaa41a99d777fc7c29f800be468fac94"
+    },
+    {
+      "sku": "HW14284CNZB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW14284CNZB_20261116_165045_PLP.png",
+      "captured_at": "2026-11-16T16:50:45-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW14284CNZB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "9fea1c51eed75755eaccb32f7ff5a5305405005e0bee20b3cf5cea6a1d8bade7"
+    },
+    {
+      "sku": "HW14285PTOB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW14285PTOB_20261116_165021_PDP.png",
+      "captured_at": "2026-11-16T16:50:21-03:00",
+      "url": "https://site.fastshop.com.br/serra-marmore-1200w-127v-multi---ho050-ho050-188666-199117/p",
+      "sha256": "8ba6c288f9ac58a45fc27c0a9e0710076deee451fc11163700b10891874dabcc"
+    },
+    {
+      "sku": "HW14285PTOB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW14285PTOB_20261116_165007_PLP.png",
+      "captured_at": "2026-11-16T16:50:07-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW14285PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "3678fea24f0ded7b6d5432d127de151be21b87e561b0be4de58ec3bf4f017c0e"
+    },
+    {
+      "sku": "HW14286AZLB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW14286AZLB_20261116_165054_PDP.png",
+      "captured_at": "2026-11-16T16:50:54-03:00",
+      "url": "https://site.fastshop.com.br/smartwatch-huawei-watch-fit-4-pro-azul-esportes-ao-ar-livre-de-nivel-profissional--mapa-de-campos-de-golfe-hw14286azl_prd-111144/p",
+      "sha256": "5099c83042ec8b51a6f9130db12da95c4afa8034189c89ff443132bf58cc9efc"
+    },
+    {
+      "sku": "HW14286AZLB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW14286AZLB_20261116_165039_PLP.png",
+      "captured_at": "2026-11-16T16:50:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW14286AZLB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "1efb29503b1d2cd8ed48fe8c498363b8f20fa1c74021cb762d0fa424a115981c"
+    },
+    {
+      "sku": "HW285060RXOB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW285060RXOB_20261116_165052_PDP.png",
+      "captured_at": "2026-11-16T16:50:52-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-sem-fio-huawei-freeclip-intra-auricular-roxo---285060-hw285060rxo_prd-110937/p",
+      "sha256": "94f6a10d2493c5a80773bc53c40984e892770606b356462407230debc8cc89ce"
+    },
+    {
+      "sku": "HW285060RXOB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW285060RXOB_20261116_165034_PLP.png",
+      "captured_at": "2026-11-16T16:50:34-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW285060RXOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "0b3298298a76bcc792a3186958b8e81dcea31bc34c1e54375550c2d371a0c53e"
+    },
+    {
+      "sku": "HW285061PTOB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW285061PTOB_20261116_165116_PDP.png",
+      "captured_at": "2026-11-16T16:51:16-03:00",
+      "url": "https://site.fastshop.com.br/vaso-sanitario-eletronico-neorest-toto-branco---ms8361cumfgt98-uims8361cumfg_prd-79122/p",
+      "sha256": "7c1a8a9110ea034ffaaa00955728e085a368504d0a2401ed21097a2710ef3964"
+    },
+    {
+      "sku": "HW285061PTOB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW285061PTOB_20261116_165111_PLP.png",
+      "captured_at": "2026-11-16T16:51:11-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW285061PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "15fec1662adf4ff5f352d35af08932f7a9c1d2ea9e3121bb5310d587a8ff614c"
+    },
+    {
+      "sku": "HW285062BGEB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW285062BGEB_20261116_165028_PDP.png",
+      "captured_at": "2026-11-16T16:50:28-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-sem-fio-huawei-freeclip-intra-auricular-bege---285062-hw285062bge_prd-110944/p",
+      "sha256": "d2876743160ce5449d039514d394d61cb2b27b8bd4b5bf3bf31ae41b40f7ea69"
+    },
+    {
+      "sku": "HW285062BGEB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW285062BGEB_20261116_165008_PLP.png",
+      "captured_at": "2026-11-16T16:50:08-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW285062BGEB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "391813b55f176f3f64cc7f790f9e2ded7a49d786d80861b5d4494261ad8a0c52"
+    },
+    {
+      "sku": "HW285136RSAB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW285136RSAB_20261116_165115_PDP.png",
+      "captured_at": "2026-11-16T16:51:15-03:00",
+      "url": "https://site.fastshop.com.br/controle-ar-condicionado-akb73757604-193303-203815/p",
+      "sha256": "2b96c0207d328b7950c340c927ede29ea1953e284a704a09d0c0052851b7a777"
+    },
+    {
+      "sku": "HW285136RSAB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW285136RSAB_20261116_165108_PLP.png",
+      "captured_at": "2026-11-16T16:51:08-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW285136RSAB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "6d823cc959161ab598a26eaadbd6f50326496f39da6ac02d7abdecdf933badb4"
+    },
+    {
+      "sku": "HW285147VRDB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW285147VRDB_20261116_165026_PDP.png",
+      "captured_at": "2026-11-16T16:50:26-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-huawei-freearc-intra-auricular-verde---285147-hw285147vrd_prd-110931/p",
+      "sha256": "5e9a62da70a70e7de27e9baa49640963e1f33546a51ac48d2e35d31c83f12d33"
+    },
+    {
+      "sku": "HW285147VRDB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW285147VRDB_20261116_165009_PLP.png",
+      "captured_at": "2026-11-16T16:50:09-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW285147VRDB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "557cd72116cf5940fb632e6dbfb7f49d03da4a378987a1b392f1102585041906"
+    },
+    {
+      "sku": "HW285148CNZB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW285148CNZB_20261116_165022_PDP.png",
+      "captured_at": "2026-11-16T16:50:22-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-huawei-freearc-intra-auricular-cinza---285148-hw285148cnz_prd-110922/p",
+      "sha256": "7f3de8fc5d1a2f0d16e71ba03dc7da2b19479c9c859eac705a17585f4c4eb567"
+    },
+    {
+      "sku": "HW285148CNZB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW285148CNZB_20261116_165008_PLP.png",
+      "captured_at": "2026-11-16T16:50:08-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW285148CNZB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "bf528fea68883b1c81bd9c4e727c0e7e2a9b747ac7d06bfa4c03cd6e9b440bd9"
+    },
+    {
+      "sku": "HW285149PTOB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW285149PTOB_20261116_164946_PDP.png",
+      "captured_at": "2026-11-16T16:49:46-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-huawei-freearc-intra-auricular-preto---285149-hw285149pto_prd-110934/p",
+      "sha256": "95c0aab76a227d00d067902a0bbd138a2aa023e6a934c92d08752ec52112b7ba"
+    },
+    {
+      "sku": "HW285149PTOB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW285149PTOB_20261116_164934_PLP.png",
+      "captured_at": "2026-11-16T16:49:34-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW285149PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a6945dee855a740e06c352ac0ff49a68f5301f2ade2231211ad508e200a5d0bb"
+    },
+    {
+      "sku": "HW285151PTOB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW285151PTOB_20261116_165023_PDP.png",
+      "captured_at": "2026-11-16T16:50:23-03:00",
+      "url": "https://site.fastshop.com.br/fone-sem-fio-intra-auricular-huawei-freebuds-6-preto-bluetooth-com-cancelamento-de-ruido-anc-hw285151pto_prd-110939/p",
+      "sha256": "fa75afc6c3e81046d278281e1a1323269ddcb87cead7e7d22c65366994ee0c00"
+    },
+    {
+      "sku": "HW285151PTOB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW285151PTOB_20261116_165005_PLP.png",
+      "captured_at": "2026-11-16T16:50:05-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW285151PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "5e3af119aa79a0f60982f0c1dbf79a46d70bae7810a0c8606ef50ecf6769979f"
+    },
+    {
+      "sku": "HW285152BCOB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HW285152BCOB_20261116_165055_PDP.png",
+      "captured_at": "2026-11-16T16:50:55-03:00",
+      "url": "https://site.fastshop.com.br/fone-sem-fio-intra-auricular-huawei-freebuds-6-branco-bluetooth-com-cancelamento-de-ruido-anc-hw285152bco_prd-110933/p",
+      "sha256": "fca1577f202cf4f01e6dceb8376b0ebf887a72f0ef72cd38d7368c6562c43376"
+    },
+    {
+      "sku": "HW285152BCOB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HW285152BCOB_20261116_165039_PLP.png",
+      "captured_at": "2026-11-16T16:50:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HW285152BCOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e6d66ad2602e5ee44239237d2a723226eadf1ab8136a512c139697bc2d3a6a39"
+    },
+    {
+      "sku": "HWATUMB19WVRDB",
+      "group": "ES",
+      "name": "PDP",
+      "path": "Evidencias_PDP/ES/HWATUMB19WVRDB_20261116_164947_PDP.png",
+      "captured_at": "2026-11-16T16:49:47-03:00",
+      "url": "https://site.fastshop.com.br/smartwatch-huawei-watch-gt-6-46mm--esportes--bateria-ate-21-dias--bem-estar-emocional-verde-hwatumb19wvrd_prd-126504/p",
+      "sha256": "85941671a2570d5a78e7bf9ce8e44c5be074aaf14ac0c2dd4586b09776508bf6"
+    },
+    {
+      "sku": "HWATUMB19WVRDB",
+      "group": "ES",
+      "name": "PLP",
+      "path": "Evidencias_PLP/ES/HWATUMB19WVRDB_20261116_164936_PLP.png",
+      "captured_at": "2026-11-16T16:49:36-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HWATUMB19WVRDB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "16d5990e182c3a8894a3e895c5de444938885649d8067a1b401332afa63e6342"
+    },
+    {
+      "sku": "1QDWA14S11",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QDWA14S11_20261116_165010_PDP.png",
+      "captured_at": "2026-11-16T16:50:10-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-midea-cinza-com-14-servicos--06-programas-de-lavagem-e-funcao-adiar-inicio---dwa14s-1qdwa14s_prd-104887/p",
+      "sha256": "4867ce70e77c39e9113bd72c3e43997748a5b310c44a4fa3cc2d995807a9f80c"
+    },
+    {
+      "sku": "1QDWA14S11",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QDWA14S11_20261116_164955_PLP.png",
+      "captured_at": "2026-11-16T16:49:55-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QDWA14S11&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "5c907ad3f177e9d311483bb0764eff974e65c24d1635309503c7b457e9daf51f"
+    },
+    {
+      "sku": "1QMDRF691FGDB",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMDRF691FGDB_20261116_165004_PDP.png",
+      "captured_at": "2026-11-16T16:50:04-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-inverse-midea-de-04-portas-frost-free-com-474-litros-inox-bivolt----mdrf691fgd463-1qmdrf691fgd_prd-106115/p",
+      "sha256": "dd3152805d23c04fb5e3a4a435687d992f99827b4ad2dcd2b760c234454afb7f"
+    },
+    {
+      "sku": "1QMDRF691FGDB",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMDRF691FGDB_20261116_164950_PLP.png",
+      "captured_at": "2026-11-16T16:49:50-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMDRF691FGDB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "ecd06b4ff1983a2b51003bd75cf80f8d4a3e94ada453a90b8958ff3e82f2dc44"
+    },
+    {
+      "sku": "1QMDRS598FGA01",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMDRS598FGA01_20261116_165003_PDP.png",
+      "captured_at": "2026-11-16T16:50:03-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-side-by-side-midea-de-02-portas-inverter-com-442-litros-inox-claro---mdrs598fga042-1qmdrs598fga0_prd-104892/p",
+      "sha256": "244b1d82c57c3e59723a7317a21f07ee717b4509ac9be147e2555d7e2bb13af9"
+    },
+    {
+      "sku": "1QMDRS598FGA01",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMDRS598FGA01_20261116_164952_PLP.png",
+      "captured_at": "2026-11-16T16:49:52-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMDRS598FGA01&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "d0a36f62d0ddd207383731b9f10254eaeb4c58d5460a98badfeee40d51d6b661"
+    },
+    {
+      "sku": "1QMDWEF1034CS1",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMDWEF1034CS1_20261116_165004_PDP.png",
+      "captured_at": "2026-11-16T16:50:04-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-de-piso-com-10-servicos-midea-smarthome-com-8-programas-de-lavagem-inox---mdwef1034css-1qmdwef1034cs_prd-103650/p",
+      "sha256": "8024949900fbc451cf97a012c2bd188930370fa13c8486b673d1d557cae7738e"
+    },
+    {
+      "sku": "1QMDWEF1034CS1",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMDWEF1034CS1_20261116_164950_PLP.png",
+      "captured_at": "2026-11-16T16:49:50-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMDWEF1034CS1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "bfbc0bff818d9231826c3c173e47a05c53968ad2ccaa2ea30cfb5e0c2ca3ed5f"
+    },
+    {
+      "sku": "1QMDWTF08S1",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMDWTF08S1_20261116_165006_PDP.png",
+      "captured_at": "2026-11-16T16:50:06-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-midea-touch-plus-cinza-com-08-servicos-e-05-programas-de-lavagem---mdwtf08s-1qmdwtf08s_prd-155649/p",
+      "sha256": "1bc04cee4b5bab0ef942cce01383d56482002339265ead1553e5837517e7363e"
+    },
+    {
+      "sku": "1QMDWTF08S1",
+      "group": "LB",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/LB/1QMDWTF08S1_110V_20261116_165013_PDP.png",
+      "captured_at": "2026-11-16T16:50:13-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-midea-touch-plus-cinza-com-08-servicos-e-05-programas-de-lavagem---mdwtf08s-1qmdwtf08s_prd-155649/p",
+      "sha256": "00349509b01879c72ba46230d40e98b03662aec24ab7b556c5e55d50690a7676"
+    },
+    {
+      "sku": "1QMDWTF08S1",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMDWTF08S1_20261116_164951_PLP.png",
+      "captured_at": "2026-11-16T16:49:51-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMDWTF08S1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "01f0e92798723cbd25f09448a6e86cda0a2086d29f7996092d00a4650a0bbbe3"
+    },
+    {
+      "sku": "1QMF200D130W22",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMF200D130W22_20261116_165011_PDP.png",
+      "captured_at": "2026-11-16T16:50:11-03:00",
+      "url": "https://site.fastshop.com.br/split-gree-g-side-auto-hw-12k-220v-qf-inv-r32-189436-199895/p",
+      "sha256": "29c81a4a825975a47fa8458acfa4949dddea1d810b599d95e871624b80ab1df2"
+    },
+    {
+      "sku": "1QMF200D130W22",
+      "group": "LB",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/LB/1QMF200D130W22_220V_20261116_165021_PDP.png",
+      "captured_at": "2026-11-16T16:50:21-03:00",
+      "url": "https://site.fastshop.com.br/split-gree-g-side-auto-hw-12k-220v-qf-inv-r32-189436-199895/p",
+      "sha256": "d884c8d1de3526579b948b745e27f775072b77f700b7faf0979d25145e2400a4"
+    },
+    {
+      "sku": "1QMF200D130W22",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMF200D130W22_20261116_164958_PLP.png",
+      "captured_at": "2026-11-16T16:49:58-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMF200D130W22&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "eb216132c6f66daecf20d3dffb7def5947da575a8195678ecd5813701ad7a6b5"
+    },
+    {
+      "sku": "1QMF201D110WB2",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMF201D110WB2_20261116_165031_PDP.png",
+      "captured_at": "2026-11-16T16:50:31-03:00",
+      "url": "https://site.fastshop.com.br/soundbar-samsung-serie-q-com-3-1-2-canais-e-subwoofer-2026----hw-q600h-sghwq600hpto_prd-183362/p",
+      "sha256": "5266899fc113ef3935896d2ec589f9655420ea76de3c3e37fe566086915e8948"
+    },
+    {
+      "sku": "1QMF201D110WB2",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMF201D110WB2_20261116_165026_PLP.png",
+      "captured_at": "2026-11-16T16:50:26-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMF201D110WB2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "3967a170b54e5b0f34e86a009e4aeb7c38fefe4152a3f26b845a097f72158c6e"
+    },
+    {
+      "sku": "1QMG90GQVH1BB",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMG90GQVH1BB_20261116_165039_PDP.png",
+      "captured_at": "2026-11-16T16:50:39-03:00",
+      "url": "https://site.fastshop.com.br/cooktop-a-gas-midea-volcano-em-vidro-com-05-bocas-preto---mg90gqvh1b-1qmg90gqvh1b_prd-144195/p",
+      "sha256": "cfbdf537dd5bd7e8681959d87eb1ae7e8979e4fc0886e2375207a028ec71f207"
+    },
+    {
+      "sku": "1QMG90GQVH1BB",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMG90GQVH1BB_20261116_165032_PLP.png",
+      "captured_at": "2026-11-16T16:50:32-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMG90GQVH1BB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "67d91640bab5abb551013dcd20ed0ba98ccac06993ae6bdefd7021492c724d73"
+    },
+    {
+      "sku": "1QMGB35T11",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMGB35T11_20261116_165056_PDP.png",
+      "captured_at": "2026-11-16T16:50:56-03:00",
+      "url": "https://site.fastshop.com.br/split-gree-g-side-auto-hw-12k-220v-qf-inv-r32-189436-199895/p",
+      "sha256": "e56d8274cc598a80521fb2f86062ede5469973dab3726a944c68632254295cca"
+    },
+    {
+      "sku": "1QMGB35T11",
+      "group": "LB",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/LB/1QMGB35T11_220V_20261116_165101_PDP.png",
+      "captured_at": "2026-11-16T16:51:01-03:00",
+      "url": "https://site.fastshop.com.br/split-gree-g-side-auto-hw-12k-220v-qf-inv-r32-189436-199895/p",
+      "sha256": "72be63d01f62b209e054b46b993bd63238d31fcf94285497f43136268c7c22aa"
+    },
+    {
+      "sku": "1QMGB35T11",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMGB35T11_20261116_165047_PLP.png",
+      "captured_at": "2026-11-16T16:50:47-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMGB35T11&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e2141709460841a25577c5273b504c56883793e2346a351eebe0b2e9004db4d3"
+    },
+    {
+      "sku": "1QMH60M77ET222",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMH60M77ET222_20261116_165101_PDP.png",
+      "captured_at": "2026-11-16T16:51:01-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-sem-fio-philips-tat1108-tws-bluetooth-com-microfone--formato-em-haste--ipx4-e-bateria-15-horas-branco-pitat1108bco_prd-4615/p",
+      "sha256": "9ff1d3f9744569d68d5e7847ee3f8cfbc7365743d87f534423439dcd931a77cf"
+    },
+    {
+      "sku": "1QMH60M77ET222",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMH60M77ET222_20261116_165052_PLP.png",
+      "captured_at": "2026-11-16T16:50:52-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMH60M77ET222&fuzzy=auto&operator=or&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a2a58aa75467c752ca5c634ee3413af6aa2a7a7e8ce28e5c6ab37a70e3e35685"
+    },
+    {
+      "sku": "1QMH90M77AT221",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMH90M77AT221_20261116_165106_PDP.png",
+      "captured_at": "2026-11-16T16:51:06-03:00",
+      "url": "https://site.fastshop.com.br/coifa-de-parede-smart-pro-touch-midea-90-cm-com-03-velocidades-inox-e-preto---mh90m77a-1qmh90m77_prd-135719/p",
+      "sha256": "b81b4845b994c3b894d31acef85904a86c1f9c267606b4fb6e25943cffcbb025"
+    },
+    {
+      "sku": "1QMH90M77AT221",
+      "group": "LB",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/LB/1QMH90M77AT221_110V_20261116_165111_PDP.png",
+      "captured_at": "2026-11-16T16:51:11-03:00",
+      "url": "https://site.fastshop.com.br/coifa-de-parede-smart-pro-touch-midea-90-cm-com-03-velocidades-inox-e-preto---mh90m77a-1qmh90m77_prd-135719/p",
+      "sha256": "d2d26bccda69d447065e4e3658cad5b5a75282169985e4c190391b3f267da067"
+    },
+    {
+      "sku": "1QMH90M77AT221",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMH90M77AT221_20261116_165055_PLP.png",
+      "captured_at": "2026-11-16T16:50:55-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMH90M77AT221&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f174519f8f3d498d8551d8e457f4b9138e4db540b8157895bdd4c3b55d631567"
+    },
+    {
+      "sku": "1QMH90M77T221",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMH90M77T221_20261116_165126_PDP.png",
+      "captured_at": "2026-11-16T16:51:26-03:00",
+      "url": "https://site.fastshop.com.br/coifa-de-parede-midea-90cm-smart-pro-touch-preta---mh90m77-1qmh90m77t22_prd-155624/p",
+      "sha256": "2fc40bdcc2f8d92bea156e4f1162004d0fb2ef5d5e41ee448b8b599f2295bd3a"
+    },
+    {
+      "sku": "1QMH90M77T221",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMH90M77T221_20261116_165109_PLP.png",
+      "captured_at": "2026-11-16T16:51:09-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMH90M77T221&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "5716edcc02378d43a024434bb132c21ffcd729ee41c238ee6740ffb4f81336f0"
+    },
+    {
+      "sku": "1QMH90M83T241",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMH90M83T241_20261116_165131_PDP.png",
+      "captured_at": "2026-11-16T16:51:31-03:00",
+      "url": "https://site.fastshop.com.br/coifa-ilha-midea-90cm-smart-pro-touch-prata-e-preto---mh90m83-1qmh90m83t24_prd-155769/p",
+      "sha256": "c250c39892434829de1d8e6bd785241138310b7e7c5ac15ff99028ab6325b251"
+    },
+    {
+      "sku": "1QMH90M83T241",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMH90M83T241_20261116_165119_PLP.png",
+      "captured_at": "2026-11-16T16:51:19-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMH90M83T241&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "96a338fcb242de96c2b808dc914550e8bcd098830092488004a3d09fafb4ba1f"
+    },
+    {
+      "sku": "1QMHP27S11",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMHP27S11_20261116_165135_PDP.png",
+      "captured_at": "2026-11-16T16:51:35-03:00",
+      "url": "https://site.fastshop.com.br/samsung-vision-ai-tv-55--neo-qled-4k-qn70h-2027-sgqn55qn70ha_prd-194018/p",
+      "sha256": "45a7656ed107bb77797179c909f879ada091449080fbb58870da733145262eba"
+    },
+    {
+      "sku": "1QMHP27S11",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMHP27S11_20261116_165121_PLP.png",
+      "captured_at": "2026-11-16T16:51:21-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMHP27S11&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "aad7b1089283e6d43d2e7f15046053b1e692be146c9f18e21c6f549b2bcf7e14"
+    },
+    {
+      "sku": "1QMHP27S22",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMHP27S22_20261116_165140_PDP.png",
+      "captured_at": "2026-11-16T16:51:40-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-samsung-50--mini-led-4k-m75h-2027-sgun50m75hpto_prd-192774/p",
+      "sha256": "b9cc09846f8de76f6063a36bf9092583e1fadadd32970388dae8768a89bed052"
+    },
+    {
+      "sku": "1QMHP27S22",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMHP27S22_20261116_165127_PLP.png",
+      "captured_at": "2026-11-16T16:51:27-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QMHP27S22&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "3823cbe87ea71c1266b043de58f3bcaa9b3e98aa0f450b22b8b1aa47c7e85b02"
+    },
+    {
+      "sku": "1QRF691B",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QRF691B_20261116_165140_PDP.png",
+      "captured_at": "2026-11-16T16:51:40-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-multidoor-midea-de-04-portas-frost-free-com-515-litros-smart-inverter-black-glass---rf691-1qrf691_prd-173866/p",
+      "sha256": "2223176264f68f20325b5ff17cf46ab730555bf7749b86a7cd663587cf75e9e8"
+    },
+    {
+      "sku": "1QRF691B",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QRF691B_20261116_165125_PLP.png",
+      "captured_at": "2026-11-16T16:51:25-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QRF691B&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "347ad533642e80f85232714a42f6e12ce1d25935bbba14101a79745fac1735b9"
+    },
+    {
+      "sku": "1QTSI80P22",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QTSI80P22_20261116_165207_PDP.png",
+      "captured_at": "2026-11-16T16:52:07-03:00",
+      "url": "https://site.fastshop.com.br/forno-de-eletrico-de-embutir-midea-touch-smart-com-80-litros-de-capacidade--grill-painel-touch-preto---tsi80p2-1qtsi80p2_prd-122064/p",
+      "sha256": "e73171b3977581ad42eba1131ee6b9c1bcbca53596735415439459b21b9a8fd9"
+    },
+    {
+      "sku": "1QTSI80P22",
+      "group": "LB",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/LB/1QTSI80P22_220V_20261116_165218_PDP.png",
+      "captured_at": "2026-11-16T16:52:18-03:00",
+      "url": "https://site.fastshop.com.br/forno-de-eletrico-de-embutir-midea-touch-smart-com-80-litros-de-capacidade--grill-painel-touch-preto---tsi80p2-1qtsi80p2_prd-122064/p",
+      "sha256": "196cb83165620afdd0f40b841448cd0cfb74f1f699f79a794975b44c56da2258"
+    },
+    {
+      "sku": "1QTSI80P22",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QTSI80P22_20261116_165154_PLP.png",
+      "captured_at": "2026-11-16T16:51:54-03:00",
+      "url": "https://site.fastshop.com.br/s?q=1QTSI80P22&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "5c80f6304941b16c0a2c5e9b9027101e81dbd96f9c6909fcb7300e6f762f8fc2"
+    },
+    {
+      "sku": "HHHWL54W1",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/HHHWL54W1_20261116_165208_PDP.png",
+      "captured_at": "2026-11-16T16:52:08-03:00",
+      "url": "https://site.fastshop.com.br/adega-de-vinhos-hisense-para-54-garrafas---hwl-54w1anqri-hhhwl54w_prd-15066/p",
+      "sha256": "c40b3a1eb5105c9c28dbc81b989b13c18de493d2bce6611bc67ea3aa38fbe380"
+    },
+    {
+      "sku": "HHHWL54W1",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/HHHWL54W1_20261116_165154_PLP.png",
+      "captured_at": "2026-11-16T16:51:54-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HHHWL54W1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "8fee49caf3ee2feb9396ed8356c6a35ce8f46f8b50c65c7b6473768d137c5097"
+    },
+    {
+      "sku": "HHRF610P5ASA1",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/HHRF610P5ASA1_20261116_165211_PDP.png",
+      "captured_at": "2026-11-16T16:52:11-03:00",
+      "url": "https://site.fastshop.com.br/notebook-acer-r5-5500u-amd-15-6-fhd-ips-amd-ryzen-5-prata-aspire-5-a51545r1ac-188149-198589/p",
+      "sha256": "9834a9b716726b36dec98de69d34c54c0a0545784cbdf01c8dfe50b8a43e18d4"
+    },
+    {
+      "sku": "HHRF610P5ASA1",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/HHRF610P5ASA1_20261116_165158_PLP.png",
+      "captured_at": "2026-11-16T16:51:58-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HHRF610P5ASA1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "1b4437aeeab4148b5a1cfc013766bc83ad8b9854547f7ae55c34c927652ca4e9"
+    },
+    {
+      "sku": "HHWD3S1243BB1",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/HHWD3S1243BB1_20261116_165218_PDP.png",
+      "captured_at": "2026-11-16T16:52:18-03:00",
+      "url": "https://site.fastshop.com.br/lava-e-seca-hisense-3s-inverter-wifi-14kg-9kg-black-220v-wd3s1443bb2-198354-209153/p",
+      "sha256": "547ce5dee4146f1914661a930b8c188956fda58d56f268ce2c04047de22b8968"
+    },
+    {
+      "sku": "HHWD3S1243BB1",
+      "group": "LB",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/LB/HHWD3S1243BB1_220V_20261116_165223_PDP.png",
+      "captured_at": "2026-11-16T16:52:23-03:00",
+      "url": "https://site.fastshop.com.br/lava-e-seca-hisense-3s-inverter-wifi-14kg-9kg-black-220v-wd3s1443bb2-198354-209153/p",
+      "sha256": "2516e59d4831239b2729c44732c402152d51f8c05388c0447b123170de1d7fb4"
+    },
+    {
+      "sku": "HHWD3S1243BB1",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/HHWD3S1243BB1_20261116_165207_PLP.png",
+      "captured_at": "2026-11-16T16:52:07-03:00",
+      "url": "https://site.fastshop.com.br/s?q=HHWD3S1243BB1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "991c8eb2a816899deb76c58134f862cb3c89ffb895562d054ef0e03f941479fc"
+    },
+    {
+      "sku": "0CCD702DBRRSBB",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/0CCD702DBRRSBB_20261116_165008_PDP.png",
+      "captured_at": "2026-11-16T16:50:08-03:00",
+      "url": "https://site.fastshop.com.br/modelador-conair-infusion-32mm-rosa-perolado-e-branco---cd702dbr-0ccd702dbrrsb_prd-15950/p",
+      "sha256": "1260cfffb935ea5c7b7da681b2a5a77e282bcea755441a747b3dc5a1796584fa"
+    },
+    {
+      "sku": "0CCD702DBRRSBB",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/0CCD702DBRRSBB_20261116_164949_PLP.png",
+      "captured_at": "2026-11-16T16:49:49-03:00",
+      "url": "https://site.fastshop.com.br/s?q=0CCD702DBRRSBB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "d21bd62adb8b11d23ce38d26d27d02266a753fc887899dc270774063b58849a3"
+    },
+    {
+      "sku": "0K41332506AZL2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/0K41332506AZL2_20261116_165009_PDP.png",
+      "captured_at": "2026-11-16T16:50:09-03:00",
+      "url": "https://site.fastshop.com.br/secador-e-modelador-shark-flexstyle-teal-multifuncoes-5-em-1-edicao-limitada----41332506-0k41332506azl_prd-115449/p",
+      "sha256": "e803c35ecfcbb35eb4c24da0847e67ccb99dc2cbe71db305d0157573c4ea05ce"
+    },
+    {
+      "sku": "0K41332506AZL2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/0K41332506AZL2_220V_20261116_165048_PDP.png",
+      "captured_at": "2026-11-16T16:50:48-03:00",
+      "url": "https://site.fastshop.com.br/secador-e-modelador-shark-flexstyle-teal-multifuncoes-5-em-1-edicao-limitada----41332506-0k41332506azl_prd-115449/p",
+      "sha256": "678e14e9aaad6e0a2bebf5605c354d0ffdaf470ee746fc5655bdeedbc8a3cce2"
+    },
+    {
+      "sku": "0K41332506AZL2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/0K41332506AZL2_20261116_164949_PLP.png",
+      "captured_at": "2026-11-16T16:49:49-03:00",
+      "url": "https://site.fastshop.com.br/s?q=0K41332506AZL2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "17cb20b052e92d0be410e595407aa03007260707f5246bd13684ac8e412fbcc0"
+    },
+    {
+      "sku": "0K4133250BCO1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/0K4133250BCO1_20261116_165004_PDP.png",
+      "captured_at": "2026-11-16T16:50:04-03:00",
+      "url": "https://site.fastshop.com.br/modelador-shark-flexstyle-lisos-e-ondulados-com-95%C2%B0c-de-temperatura-maxima-branco---4133250-0k4133250bco_prd-15743/p",
+      "sha256": "88529b5db53de0ba76f7b5e813b34b6fa3ab1edfb96a517c5bfa4c7c0d11ed28"
+    },
+    {
+      "sku": "0K4133250BCO1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/0K4133250BCO1_20261116_164943_PLP.png",
+      "captured_at": "2026-11-16T16:49:43-03:00",
+      "url": "https://site.fastshop.com.br/s?q=0K4133250BCO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "fb884ca156ce3c4e12938dd2a841137825021bbcd5e913d6b866e7069f8768d2"
+    },
+    {
+      "sku": "ARAFP4PTO1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARAFP4PTO1_20261116_164959_PDP.png",
+      "captured_at": "2026-11-16T16:49:59-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-sem-oleo-air-fryer-arno-easy-fry-extra-superficie-afp4-arafp4pto_prd-101087/p",
+      "sha256": "e7532f41e1b55f3da278905a954aea6f8c0eb06145647f826cdebbb4b4309a65"
+    },
+    {
+      "sku": "ARAFP4PTO1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARAFP4PTO1_20261116_164943_PLP.png",
+      "captured_at": "2026-11-16T16:49:43-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARAFP4PTO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "70d95ef1e910e99ae7a7c5005867e171d10f916d36fff3ae225abb4fe092b4fc"
+    },
+    {
+      "sku": "ARAFP4PTO2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARAFP4PTO2_20261116_165003_PDP.png",
+      "captured_at": "2026-11-16T16:50:03-03:00",
+      "url": "https://site.fastshop.com.br/fritadeira-sem-oleo-air-fryer-arno-easy-fry-extra-superficie-afp4-arafp4pto_prd-101087/p",
+      "sha256": "4478c4aae10b225efca1c1cb6a0ce8e0e44cc633db21bccffb0398eea4ac25c5"
+    },
+    {
+      "sku": "ARAFP4PTO2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARAFP4PTO2_20261116_164944_PLP.png",
+      "captured_at": "2026-11-16T16:49:44-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARAFP4PTO2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "01a39f5defecd0b85bd50dd84747c9fedf055c8e5e02be215c04c3479df5997d"
+    },
+    {
+      "sku": "ARFMVRXO1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARFMVRXO1_20261116_165006_PDP.png",
+      "captured_at": "2026-11-16T16:50:06-03:00",
+      "url": "https://site.fastshop.com.br/ferro-a-vapor-arno-ultragliss-67-com-base-durilium-airglidea---fmv-arfmvrxo_prd-4673/p",
+      "sha256": "28c61567e48997710c606c4a5d134c0a7bac68d5a5b79e2b5e75072c62bce6f0"
+    },
+    {
+      "sku": "ARFMVRXO1",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/ARFMVRXO1_220V_20261116_165048_PDP.png",
+      "captured_at": "2026-11-16T16:50:48-03:00",
+      "url": "https://site.fastshop.com.br/ferro-a-vapor-arno-ultragliss-67-com-base-durilium-airglidea---fmv-arfmvrxo_prd-4673/p",
+      "sha256": "12ecd06ce0ed92744874bcc4a20db6fe5bad1625a4ed99faab66bb4d322934ca"
+    },
+    {
+      "sku": "ARFMVRXO1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARFMVRXO1_20261116_164947_PLP.png",
+      "captured_at": "2026-11-16T16:49:47-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARFMVRXO1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "ec45614f068694775b415eaf2f4101397e7ecc6aa77cf88f64ab82cec73e295c"
+    },
+    {
+      "sku": "ARGGRAIX2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARGGRAIX2_20261116_165035_PDP.png",
+      "captured_at": "2026-11-16T16:50:35-03:00",
+      "url": "https://site.fastshop.com.br/super-grill-eletrico-arno-com-abertura-de-180%C2%B0-inox-xl---ggra-arggraix_prd-4148/p",
+      "sha256": "bf52dbca737781904711aef74f27d59d385c066d976688f64ee83dd80f2b7473"
+    },
+    {
+      "sku": "ARGGRAIX2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/ARGGRAIX2_220V_20261116_165114_PDP.png",
+      "captured_at": "2026-11-16T16:51:14-03:00",
+      "url": "https://site.fastshop.com.br/super-grill-eletrico-arno-com-abertura-de-180%C2%B0-inox-xl---ggra-arggraix_prd-4148/p",
+      "sha256": "6c7d59782d28300a2aed20e47eaa6d44a86b25f874161d60f45faf15adecc853"
+    },
+    {
+      "sku": "ARGGRAIX2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARGGRAIX2_20261116_165030_PLP.png",
+      "captured_at": "2026-11-16T16:50:30-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARGGRAIX2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "ecaab46593300151a8ebd0d96f60eff8822baf36a283c212d85876bca4e70104"
+    },
+    {
+      "sku": "ARKM10IPO2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARKM10IPO2_20261116_165106_PDP.png",
+      "captured_at": "2026-11-16T16:51:06-03:00",
+      "url": "https://site.fastshop.com.br/batedeira-arno-planetaria-bake-easy-km10-arkm10ipo_prd-130729/p",
+      "sha256": "beae412a76da9868504c716d4ef7679f5cd91a05e7e81826e79cd2ee8ca593a4"
+    },
+    {
+      "sku": "ARKM10IPO2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARKM10IPO2_20261116_165057_PLP.png",
+      "captured_at": "2026-11-16T16:50:57-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARKM10IPO2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "37b40a2fca0a490786a50d48a6074affd4ff20bfd58809a734176b8f86fd9c0c"
+    },
+    {
+      "sku": "ARSSEFAZL2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARSSEFAZL2_20261116_165105_PDP.png",
+      "captured_at": "2026-11-16T16:51:05-03:00",
+      "url": "https://site.fastshop.com.br/fone-de-ouvido-sem-fio-philips-tat1108-tws-bluetooth-com-microfone--formato-em-haste--ipx4-e-bateria-15-horas-branco-pitat1108bco_prd-4615/p",
+      "sha256": "fe6fd7938c48af91d2e0fb23300d6ff5611db8c1a01cc8368a534e662dfba5a5"
+    },
+    {
+      "sku": "ARSSEFAZL2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARSSEFAZL2_20261116_165056_PLP.png",
+      "captured_at": "2026-11-16T16:50:56-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARSSEFAZL2&fuzzy=auto&operator=or&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "beac1f7413604bc59337819d5fadb99b12d44ee4d5c824067b025beb481dfcf4"
+    },
+    {
+      "sku": "ARUP00APO2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/ARUP00APO2_20261116_165141_PDP.png",
+      "captured_at": "2026-11-16T16:51:41-03:00",
+      "url": "https://site.fastshop.com.br/liquidificador-arno-blend-up-up00-arup00apo_prd-130732/p",
+      "sha256": "70f080acd8a826673348afb5acb928f9a5beab0792d44f3afd630f82c65628e6"
+    },
+    {
+      "sku": "ARUP00APO2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/ARUP00APO2_220V_20261116_165218_PDP.png",
+      "captured_at": "2026-11-16T16:52:18-03:00",
+      "url": "https://site.fastshop.com.br/liquidificador-arno-blend-up-up00-arup00apo_prd-130732/p",
+      "sha256": "267238703fa21143c17fc18ba2ca1716b27d291fbed87061988b25c6dd801518"
+    },
+    {
+      "sku": "ARUP00APO2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/ARUP00APO2_20261116_165117_PLP.png",
+      "captured_at": "2026-11-16T16:51:17-03:00",
+      "url": "https://site.fastshop.com.br/s?q=ARUP00APO2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "c53a6358f80cf9c5137d832b213bfde5076941ec21be0935ac33f695ea89667e"
+    },
+    {
+      "sku": "KIKUA35AVVRM1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/KIKUA35AVVRM1_20261116_165145_PDP.png",
+      "captured_at": "2026-11-16T16:51:45-03:00",
+      "url": "https://site.fastshop.com.br/liquidificador-kitchenaid-com-05-velocidades-e-jarra-com-1-7-litros-empire-red---k400-kikua35avvrm_prd-4173/p",
+      "sha256": "73700a06ef17e84d8f895f0fbfc69ad53fdc5d28ba3593b5e4e6cee4b0cc4514"
+    },
+    {
+      "sku": "KIKUA35AVVRM1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/KIKUA35AVVRM1_20261116_165125_PLP.png",
+      "captured_at": "2026-11-16T16:51:25-03:00",
+      "url": "https://site.fastshop.com.br/s?q=KIKUA35AVVRM1",
+      "sha256": "b13e4ef354a40bf43ad845d60feb1b118640110897a01935933e51a1172845ff"
+    },
+    {
+      "sku": "KIKUA35AVVRM2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/KIKUA35AVVRM2_20261116_165148_PDP.png",
+      "captured_at": "2026-11-16T16:51:48-03:00",
+      "url": "https://site.fastshop.com.br/liquidificador-kitchenaid-com-05-velocidades-e-jarra-com-1-7-litros-empire-red---k400-kikua35avvrm_prd-4173/p",
+      "sha256": "a09c02ef4d0dda0ceeba934465aad9ecf6432e2f18d2518d1b254a9552e2cc83"
+    },
+    {
+      "sku": "KIKUA35AVVRM2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/KIKUA35AVVRM2_20261116_165127_PLP.png",
+      "captured_at": "2026-11-16T16:51:27-03:00",
+      "url": "https://site.fastshop.com.br/s?q=KIKUA35AVVRM2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "8ab140cbbd6ea2bbeaee74b55c94fd9f2c6b46f301ffe39ef6be27fa4ae24ecd"
+    },
+    {
+      "sku": "LIONE1942CNZ1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/LIONE1942CNZ1_20261116_165146_PDP.png",
+      "captured_at": "2026-11-16T16:51:46-03:00",
+      "url": "https://site.fastshop.com.br/secador-de-cabelo-lizz-one-com-120-000-rpm-cinza---dag1942-lione1942cnz_prd-124646/p",
+      "sha256": "11a29d92665985e46998c832e4a2c5767189ec7d5364185b6020e2049551d67d"
+    },
+    {
+      "sku": "LIONE1942CNZ1",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/LIONE1942CNZ1_110V_20261116_165158_PDP.png",
+      "captured_at": "2026-11-16T16:51:58-03:00",
+      "url": "https://site.fastshop.com.br/secador-de-cabelo-lizz-one-com-120-000-rpm-cinza---dag1942-lione1942cnz_prd-124647/p",
+      "sha256": "9e1b4e052c79a2c25b5abce54550428f5714708ab4d5cbad4b02be223cdfa217"
+    },
+    {
+      "sku": "LIONE1942CNZ1",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/LIONE1942CNZ1_220V_20261116_165206_PDP.png",
+      "captured_at": "2026-11-16T16:52:06-03:00",
+      "url": "https://site.fastshop.com.br/secador-de-cabelo-lizz-one-com-120-000-rpm-cinza---dag1942-lione1942cnz_prd-124646/p",
+      "sha256": "4cedcbfd9320e6502f6abce1b3208e7a09169d22a3548c297624a2dd5879bfc1"
+    },
+    {
+      "sku": "LIONE1942CNZ1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/LIONE1942CNZ1_20261116_165130_PLP.png",
+      "captured_at": "2026-11-16T16:51:30-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LIONE1942CNZ1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "3fa9cd4a64e8345b209e96bcc0ebceb373c3d671b20783ca43b2285fa6120aab"
+    },
+    {
+      "sku": "LIONE1942CNZ2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/LIONE1942CNZ2_20261116_165153_PDP.png",
+      "captured_at": "2026-11-16T16:51:53-03:00",
+      "url": "https://site.fastshop.com.br/secador-de-cabelo-lizz-one-com-120-000-rpm-cinza---dag1942-lione1942cnz_prd-124646/p",
+      "sha256": "e4945187aea2ec3d32cbe9837c4bba3dfacda185136d149f4985ac09d944be22"
+    },
+    {
+      "sku": "LIONE1942CNZ2",
+      "group": "UT",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/UT/LIONE1942CNZ2_110V_20261116_165159_PDP.png",
+      "captured_at": "2026-11-16T16:51:59-03:00",
+      "url": "https://site.fastshop.com.br/secador-de-cabelo-lizz-one-com-120-000-rpm-cinza---dag1942-lione1942cnz_prd-124647/p",
+      "sha256": "0f6c1198a66f0e4774483890e2e7c1fca71c2a58ffe6ccd45b0f95fd374af11a"
+    },
+    {
+      "sku": "LIONE1942CNZ2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/LIONE1942CNZ2_220V_20261116_165209_PDP.png",
+      "captured_at": "2026-11-16T16:52:09-03:00",
+      "url": "https://site.fastshop.com.br/secador-de-cabelo-lizz-one-com-120-000-rpm-cinza---dag1942-lione1942cnz_prd-124646/p",
+      "sha256": "07c33787109d72eb7ce4708fa9d807f22e119f31d574ebb43fd9ef22bceeddf4"
+    },
+    {
+      "sku": "LIONE1942CNZ2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/LIONE1942CNZ2_20261116_165137_PLP.png",
+      "captured_at": "2026-11-16T16:51:37-03:00",
+      "url": "https://site.fastshop.com.br/s?q=LIONE1942CNZ2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "986866d19102b20f4b84a28c11a25cf596a03935fe0f5ca3d332c505161f4a26"
+    },
+    {
+      "sku": "MYB968010VRM2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/MYB968010VRM2_20261116_165238_PDP.png",
+      "captured_at": "2026-11-16T16:52:38-03:00",
+      "url": "https://site.fastshop.com.br/notebook-asus-vivobook-15-m1502ya-amd-ryzen-7-5825u-8gb-ram-512-gb-ssd-windows-11-home-156--lcd-led-fhd-nivel-ips-cool-silver-bq966w-161565-171716/p",
+      "sha256": "750cbe7850b7b26f8a1e9b0682bf51c5c997268b9cc3429abf7cc5c82fb725b3"
+    },
+    {
+      "sku": "MYB968010VRM2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/MYB968010VRM2_20261116_165222_PLP.png",
+      "captured_at": "2026-11-16T16:52:22-03:00",
+      "url": "https://site.fastshop.com.br/s?q=MYB968010VRM2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "58f607a4bf3a3cf205ec34580631744e21ddf705b9c520f5d8fd589822466962"
+    },
+    {
+      "sku": "NLGCV2BRVRM2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/NLGCV2BRVRM2_20261116_165238_PDP.png",
+      "captured_at": "2026-11-16T16:52:38-03:00",
+      "url": "https://site.fastshop.com.br/cafeteira-nespresso-vertuo-pop-vermelho-pimenta-para-cafe-espresso-manual---gcv2br-nlgcv2brvrm_prd-14797/p",
+      "sha256": "4fee28b473596617fdc3d242452291ec6c8948dc085e8548116b8bc88f47f102"
+    },
+    {
+      "sku": "NLGCV2BRVRM2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/NLGCV2BRVRM2_20261116_165221_PLP.png",
+      "captured_at": "2026-11-16T16:52:21-03:00",
+      "url": "https://site.fastshop.com.br/s?q=NLGCV2BRVRM2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "fab1be61bc015df2fbdc408b3b053fc1fb81afd332b287e019df6232a7e024ec"
+    },
+    {
+      "sku": "OSOGRL500CNZ2",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/OSOGRL500CNZ2_20261116_165241_PDP.png",
+      "captured_at": "2026-11-16T16:52:41-03:00",
+      "url": "https://site.fastshop.com.br/grill-eletrico-burguer-2-em-1-oster-com-capacidade-para-04-fatias---ogrl500-osogrl500cnz_prd-4194/p",
+      "sha256": "12377315697ea8cfcc22346bf3e8a4607dc42e8b7929f09b421b6256f657c3c2"
+    },
+    {
+      "sku": "OSOGRL500CNZ2",
+      "group": "UT",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/UT/OSOGRL500CNZ2_220V_20261116_165319_PDP.png",
+      "captured_at": "2026-11-16T16:53:19-03:00",
+      "url": "https://site.fastshop.com.br/grill-eletrico-burguer-2-em-1-oster-com-capacidade-para-04-fatias---ogrl500-osogrl500cnz_prd-4194/p",
+      "sha256": "0e04c66b5e34c4dc9796ccb4d03bf6467e5bccab9adbfad466b03071fb4e1b8b"
+    },
+    {
+      "sku": "OSOGRL500CNZ2",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/OSOGRL500CNZ2_20261116_165226_PLP.png",
+      "captured_at": "2026-11-16T16:52:26-03:00",
+      "url": "https://site.fastshop.com.br/s?q=OSOGRL500CNZ2&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "f6d43ba92fa114fa8798cde431f56712e834ffe96462b0896f742a100f843862"
+    },
+    {
+      "sku": "RR408893BCO",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/RR408893BCO_20261116_165249_PDP.png",
+      "captured_at": "2026-11-16T16:52:49-03:00",
+      "url": "https://site.fastshop.com.br/maquina-para-gaseificar-agua-com-gas-gaia-branca---sodastream-rr408893bco_prd-18013/p",
+      "sha256": "7f6261ab0c94b70f7f3f7e7332b6259966f8e2528d5a05173f81afc75a33a410"
+    },
+    {
+      "sku": "RR408893BCO",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/RR408893BCO_20261116_165233_PLP.png",
+      "captured_at": "2026-11-16T16:52:33-03:00",
+      "url": "https://site.fastshop.com.br/s?q=RR408893BCO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "fadc47a32b6ff748be611319808ac440f3073b1632d70a2558742860286f0862"
+    },
+    {
+      "sku": "WARI2622VRM1",
+      "group": "UT",
+      "name": "PDP",
+      "path": "Evidencias_PDP/UT/WARI2622VRM1_20261116_165259_PDP.png",
+      "captured_at": "2026-11-16T16:52:59-03:00",
+      "url": "https://site.fastshop.com.br/mixer-philips-walita-daily--capacidade-de-1-litros-e-funcoes-triturar--bater---ri2622-wari2622vrm_prd-4187/p",
+      "sha256": "1b2d3df8f9432a3a407aeb475d9b382a4e476aa5e70cb68aec19705876fd3208"
+    },
+    {
+      "sku": "WARI2622VRM1",
+      "group": "UT",
+      "name": "PLP",
+      "path": "Evidencias_PLP/UT/WARI2622VRM1_20261116_165255_PLP.png",
+      "captured_at": "2026-11-16T16:52:55-03:00",
+      "url": "https://site.fastshop.com.br/s?q=WARI2622VRM1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "090730806301721b47c0086effba8b71ff741be7ba610c6448aeffa9bb790537"
+    },
+    {
+      "sku": "9EA02V6NPTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EA02V6NPTO_20261116_164952_PDP.png",
+      "captured_at": "2026-11-16T16:49:52-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-articulado-vesa-600-para-tv-s-32--a-86----elg-pedestais---a02v6n-9ea02v6npto_prd-13589/p",
+      "sha256": "6b4c512fee96840353617714471318b6be3b5bc9b019dd1187d279cab3726616"
+    },
+    {
+      "sku": "9EA02V6NPTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EA02V6NPTO_20261116_164939_PLP.png",
+      "captured_at": "2026-11-16T16:49:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EA02V6NPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a2dcff1e29efa1b2d5a0eceef2d217c9a8086cfa720435524bc5c551a302825e"
+    },
+    {
+      "sku": "9EE600PTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EE600PTO_20261116_164955_PDP.png",
+      "captured_at": "2026-11-16T16:49:55-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-para-tvs-de-32--a-86--preto---e600---elg-pedestais-9ee600pto_prd-13591/p",
+      "sha256": "8f0a0d64d49cde1bc22bd77e3906a86809b6dbb75a7e5817bd060be88a231118"
+    },
+    {
+      "sku": "9EE600PTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EE600PTO_20261116_164939_PLP.png",
+      "captured_at": "2026-11-16T16:49:39-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EE600PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "df0c1b9629e4e5dd550a0b671af497d08b7ee1d068f58a3c169b7621d7b47801"
+    },
+    {
+      "sku": "9EGENIUSPTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EGENIUSPTO_20261116_164948_PDP.png",
+      "captured_at": "2026-11-16T16:49:48-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-universal-para-tvs-de-14--a-100--preto---genius---elg-pedestais-9egeniuspto_prd-13593/p",
+      "sha256": "d9933d80b8fcbb6df11f71fc4dd097024b7c4b7cef8f5fe7fce456360a886ca5"
+    },
+    {
+      "sku": "9EGENIUSPTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EGENIUSPTO_20261116_164937_PLP.png",
+      "captured_at": "2026-11-16T16:49:37-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EGENIUSPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "1395c6308be84b58a50ff222bf6c103793f02fbd926e98ad85195481dc810e56"
+    },
+    {
+      "sku": "9EMULTIARTIPTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EMULTIARTIPTO_20261116_164952_PDP.png",
+      "captured_at": "2026-11-16T16:49:52-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-multiarticulado-para-telas-gigantes-de-60--a-120--e-ate-120kg-preto---a02v9xl---elg-9emultiartpto_prd-127975/p",
+      "sha256": "bdb0eee695d932466667969733061b1148a82474db198594f47fb50156c37ef7"
+    },
+    {
+      "sku": "9EMULTIARTIPTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EMULTIARTIPTO_20261116_164941_PLP.png",
+      "captured_at": "2026-11-16T16:49:41-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EMULTIARTIPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "a985e88dcc7f8fa7b59f81dde12d7783a6d5bf724076509eec368ee8f93fb78e"
+    },
+    {
+      "sku": "9EN01V8PTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EN01V8PTO_20261116_164947_PDP.png",
+      "captured_at": "2026-11-16T16:49:47-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-para-tvs-de-39--a-100--preto---n01v8---elg-pedestais-9en01v8pto_prd-13594/p",
+      "sha256": "92ffe08df5f93f065748ea71c793ccea466213eceeedc7d0b5b072fc1b8856fa"
+    },
+    {
+      "sku": "9EN01V8PTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EN01V8PTO_20261116_164936_PLP.png",
+      "captured_at": "2026-11-16T16:49:36-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EN01V8PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "8b0b60d8a60ea86986ac46cbe6d1d15d1b9adc70a778926cf45a36ef2cb6a8ce"
+    },
+    {
+      "sku": "9EPRO100BPTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EPRO100BPTO_20261116_164948_PDP.png",
+      "captured_at": "2026-11-16T16:49:48-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-teto-para-projetor-ate-13-5kg---elg---pro100b-9epro100bpto_prd-51306/p",
+      "sha256": "4cc2650471ad3a174fe41b224c360307a7e6f0694c5f908381489d68e5fd4a91"
+    },
+    {
+      "sku": "9EPRO100BPTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EPRO100BPTO_20261116_164938_PLP.png",
+      "captured_at": "2026-11-16T16:49:38-03:00",
+      "url": "https://site.fastshop.com.br/s?q=9EPRO100BPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "aa29e3efe6a2c5025c0f41ec129f9f5890272b443c4af40dca71f209875788c2"
+    },
+    {
+      "sku": "AOFIXOPTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/AOFIXOPTO_20261116_165014_PDP.png",
+      "captured_at": "2026-11-16T16:50:14-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-wall-m-f-para-tvs-de-39--a-116----aironflex--aofixopto_prd-169558/p",
+      "sha256": "c721e8e45a65514af7144f3f0021540fc3a70bfa8116ab855a069c36c32fd80e"
+    },
+    {
+      "sku": "AOFIXOPTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/AOFIXOPTO_20261116_165006_PLP.png",
+      "captured_at": "2026-11-16T16:50:06-03:00",
+      "url": "https://site.fastshop.com.br/s?q=AOFIXOPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "5065151b9111aeca22ba33f36ebb8b09bfabf45ceffa3067ea88ab134398fbed"
+    },
+    {
+      "sku": "AOMA400V44BK",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/AOMA400V44BK_20261116_165016_PDP.png",
+      "captured_at": "2026-11-16T16:50:16-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-articulado-aironflex-para-tvs-de-lcd--led-e-plasma-de-37--a-65--preto---ma400v44bk-aoma400v44bk_prd-14018/p",
+      "sha256": "e708a3b8b44e368187b8d9ee9621c4f1d0e74a9798f259fa6769b870c0179b7c"
+    },
+    {
+      "sku": "AOMA400V44BK",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/AOMA400V44BK_20261116_165007_PLP.png",
+      "captured_at": "2026-11-16T16:50:07-03:00",
+      "url": "https://site.fastshop.com.br/s?q=AOMA400V44BK&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "c895b013f64536e1fc6e87d1affd420aa9b8646aff90699c21e91f287d8b88ff"
+    },
+    {
+      "sku": "AOMF3580BK",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/AOMF3580BK_20261116_165014_PDP.png",
+      "captured_at": "2026-11-16T16:50:14-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-para-tvs-de-60--a-90--preto---mf3580bk---airon-flex-aomf3580bk_prd-14020/p",
+      "sha256": "18bd96466a4291fbe27675dfc1c483021a390d3e79dacabfe45fbc4518501f29"
+    },
+    {
+      "sku": "AOMF3580BK",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/AOMF3580BK_20261116_165006_PLP.png",
+      "captured_at": "2026-11-16T16:50:06-03:00",
+      "url": "https://site.fastshop.com.br/s?q=AOMF3580BK&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "0c5eb84aaeff662596dd46a8d9c87a00ed3ea336891da948473a5ed27e993a4a"
+    },
+    {
+      "sku": "AOMF40V44PROMO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/AOMF40V44PROMO_20261116_165014_PDP.png",
+      "captured_at": "2026-11-16T16:50:14-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-aironflex-para-tvs-de-lcd--led-e-plasma-de-43--a-65--preto--mf40v44promo-aomf40v44promo_prd-14022/p",
+      "sha256": "90213443d0ae292e27c992280505f47bd6f68e7d821718899245269ca8427ef1"
+    },
+    {
+      "sku": "AOMF40V44PROMO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/AOMF40V44PROMO_20261116_165005_PLP.png",
+      "captured_at": "2026-11-16T16:50:05-03:00",
+      "url": "https://site.fastshop.com.br/s?q=AOMF40V44PROMO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "ea893390e9b21eed184e8f98ea2371d1c3f26d8bfc1e0f367a2708ce00c6fa4c"
+    }
+  ]
+}
