@@ -213,20 +213,4 @@
   overlay?.addEventListener("click", (event) => {
     if (event.target === overlay) closeOverlay();
   });
-
-  document.addEventListener("click", (event) => {
-    const button = event.target.closest(".js-download-all");
-    if (!button) return;
-    const files = (button.getAttribute("data-files") || "").split(",").filter(Boolean);
-    files.forEach((href, index) => {
-      window.setTimeout(() => {
-        const link = document.createElement("a");
-        link.href = href;
-        link.download = href.split("/").pop() || "evidencias.zip";
-        document.body.appendChild(link);
-        link.click();
-        link.remove();
-      }, index * 350);
-    });
-  });
 })();

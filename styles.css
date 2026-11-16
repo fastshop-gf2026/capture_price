@@ -221,16 +221,6 @@ body {
   text-decoration: none;
 }
 
-button.action {
-  padding: 0;
-  border: 0;
-  background: none;
-  font: inherit;
-  font-weight: 600;
-  text-align: left;
-  cursor: pointer;
-}
-
 .action.primary,
 .action:hover {
   color: var(--red);
