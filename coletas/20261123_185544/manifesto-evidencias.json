@@ -1,0 +1,150 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "generated_at": "2026-11-23T18:57:33-03:00",
+  "files": [
+    {
+      "sku": "JBLPARTY52PTOB",
+      "group": "AD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/AD/JBLPARTY52PTOB_20261123_185630_PDP.png",
+      "captured_at": "2026-11-23T18:56:30-03:00",
+      "url": "https://site.fastshop.com.br/caixa-de-som-bluetooth-jbl-party-box-520-br-preta--resistente-a-respingos-ipx4--show-de-luzes-futurista-jblparty52pto_prd-117158/p",
+      "sha256": "83cb467f0cf06bf8e425b85c6a69f0ec6975ccf9643124babe8433c38eca735c"
+    },
+    {
+      "sku": "JBLPARTY52PTOB",
+      "group": "AD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/AD/JBLPARTY52PTOB_20261123_185629_PLP.png",
+      "captured_at": "2026-11-23T18:56:29-03:00",
+      "url": "https://site.fastshop.com.br/s?q=sku.reference%3AJBLPARTY52PTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "72b1250df0d4868749f1e58029f2a976af30d93a04003159fa2fe1c5b547d8e9"
+    },
+    {
+      "sku": "1QMDWTF08S1",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QMDWTF08S1_20261123_185641_PDP.png",
+      "captured_at": "2026-11-23T18:56:41-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-midea-touch-plus-cinza-com-08-servicos-e-05-programas-de-lavagem---mdwtf08s-1qmdwtf08s_prd-155649/p",
+      "sha256": "e83edf99331c9ee3a630f06c791640ab95518b4481deac3a3e4cdd1d64c060d4"
+    },
+    {
+      "sku": "1QMDWTF08S1",
+      "group": "LB",
+      "name": "PDP 110V",
+      "path": "Evidencias_PDP/LB/1QMDWTF08S1_110V_20261123_185644_PDP.png",
+      "captured_at": "2026-11-23T18:56:44-03:00",
+      "url": "https://site.fastshop.com.br/lava-loucas-midea-touch-plus-cinza-com-08-servicos-e-05-programas-de-lavagem---mdwtf08s-1qmdwtf08s_prd-155649/p",
+      "sha256": "75be2b3f15e42a5c6a28736efb64b774ea820992501ae758c5fbfa3fd0f043af"
+    },
+    {
+      "sku": "1QMDWTF08S1",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QMDWTF08S1_20261123_185633_PLP.png",
+      "captured_at": "2026-11-23T18:56:33-03:00",
+      "url": "https://site.fastshop.com.br/s?q=sku.reference%3A1QMDWTF08S1&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "e8fd17ed10a600c4501138f47994d7559950ba467e46f419c768a348c19c0202"
+    },
+    {
+      "sku": "1QRF691B",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QRF691B_20261123_185640_PDP.png",
+      "captured_at": "2026-11-23T18:56:40-03:00",
+      "url": "https://site.fastshop.com.br/refrigerador-multidoor-midea-de-04-portas-frost-free-com-515-litros-smart-inverter-black-glass---rf691-1qrf691_prd-173866/p",
+      "sha256": "a56ab7926e6cef876b3888924a8c3588a7e97790df37affbcdb648e1e690e660"
+    },
+    {
+      "sku": "1QRF691B",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QRF691B_20261123_185632_PLP.png",
+      "captured_at": "2026-11-23T18:56:32-03:00",
+      "url": "https://site.fastshop.com.br/s?q=sku.reference%3A1QRF691B&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "b406cd8cff0cd9349b7b9ced8011ef3a9ef96c4ef374935f19358066e8b32fa5"
+    },
+    {
+      "sku": "1QTSI80P22",
+      "group": "LB",
+      "name": "PDP",
+      "path": "Evidencias_PDP/LB/1QTSI80P22_20261123_185640_PDP.png",
+      "captured_at": "2026-11-23T18:56:40-03:00",
+      "url": "https://site.fastshop.com.br/forno-de-eletrico-de-embutir-midea-touch-smart-com-80-litros-de-capacidade--grill-painel-touch-preto---tsi80p2-1qtsi80p2_prd-122064/p",
+      "sha256": "ab1e39b5020fb7e3d70d4330e69e18231e7e5639978224b32113568f9769546e"
+    },
+    {
+      "sku": "1QTSI80P22",
+      "group": "LB",
+      "name": "PDP 220V",
+      "path": "Evidencias_PDP/LB/1QTSI80P22_220V_20261123_185643_PDP.png",
+      "captured_at": "2026-11-23T18:56:43-03:00",
+      "url": "https://site.fastshop.com.br/forno-de-eletrico-de-embutir-midea-touch-smart-com-80-litros-de-capacidade--grill-painel-touch-preto---tsi80p2-1qtsi80p2_prd-122064/p",
+      "sha256": "3e11b5642fc9a556f188358f243f5932221b3d3a5cf990450c340d8ba74aff0a"
+    },
+    {
+      "sku": "1QTSI80P22",
+      "group": "LB",
+      "name": "PLP",
+      "path": "Evidencias_PLP/LB/1QTSI80P22_20261123_185632_PLP.png",
+      "captured_at": "2026-11-23T18:56:32-03:00",
+      "url": "https://site.fastshop.com.br/s?q=sku.reference%3A1QTSI80P22&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "d6fdf4b06030a7fce27461182a4baa066b34d543dff8658219a33ec29d234829"
+    },
+    {
+      "sku": "9EA02V6NPTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EA02V6NPTO_20261123_185630_PDP.png",
+      "captured_at": "2026-11-23T18:56:30-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-articulado-vesa-600-para-tv-s-32--a-86----elg-pedestais---a02v6n-9ea02v6npto_prd-13589/p",
+      "sha256": "dd2f638856866e594bda906c440a1d174d26a894b712529fc756ac10bd3fa745"
+    },
+    {
+      "sku": "9EA02V6NPTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EA02V6NPTO_20261123_185626_PLP.png",
+      "captured_at": "2026-11-23T18:56:26-03:00",
+      "url": "https://site.fastshop.com.br/s?q=sku.reference%3A9EA02V6NPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "3ed7198f42ae7dfe67fa9bcbb4c77a2f3f681d8c13340d6094ed593d43b5b9fe"
+    },
+    {
+      "sku": "9EN01V8PTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/9EN01V8PTO_20261123_185630_PDP.png",
+      "captured_at": "2026-11-23T18:56:30-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-para-tvs-de-39--a-100--preto---n01v8---elg-pedestais-9en01v8pto_prd-13594/p",
+      "sha256": "7ef5a25e0b704bd542195b1672bfa85c264d0cb90eaaee39329c3d99b4492d8e"
+    },
+    {
+      "sku": "9EN01V8PTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/9EN01V8PTO_20261123_185626_PLP.png",
+      "captured_at": "2026-11-23T18:56:26-03:00",
+      "url": "https://site.fastshop.com.br/s?q=sku.reference%3A9EN01V8PTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "5069987e9f7c0e76d16ccfe79e6f3776f70b6d1a19b4eaab9830a905fc84a89d"
+    },
+    {
+      "sku": "AOFIXOPTO",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/AOFIXOPTO_20261123_185631_PDP.png",
+      "captured_at": "2026-11-23T18:56:31-03:00",
+      "url": "https://site.fastshop.com.br/suporte-de-parede-fixo-wall-m-f-para-tvs-de-39--a-116----aironflex--aofixopto_prd-169558/p",
+      "sha256": "800c2ec3afd3ccf235bafe33f04b7c36e74193dc2631c1f18f14923e7ce21df3"
+    },
+    {
+      "sku": "AOFIXOPTO",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/AOFIXOPTO_20261123_185627_PLP.png",
+      "captured_at": "2026-11-23T18:56:27-03:00",
+      "url": "https://site.fastshop.com.br/s?q=sku.reference%3AAOFIXOPTO&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "2380a6dc7d056e2d2d8ab8103fe54be5e87b57102dee08b8a49daa378c2e926e"
+    }
+  ]
+}
