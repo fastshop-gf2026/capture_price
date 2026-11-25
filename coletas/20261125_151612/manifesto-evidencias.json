@@ -1,0 +1,42 @@
+{
+  "timezone": "America/Sao_Paulo",
+  "generated_at": "2026-11-25T15:17:34-03:00",
+  "files": [
+    {
+      "sku": "L283TW0003CNZB",
+      "group": "IN",
+      "name": "PDP",
+      "path": "Evidencias_PDP/IN/L283TW0003CNZB_20261125_151700_PDP.png",
+      "captured_at": "2026-11-25T15:17:00-03:00",
+      "url": "https://site.fastshop.com.br/notebook-lenovo%C2%AE-ideapad-slim-3x--snapdragon-x--16gb--1tb-ssd--tela-de-15-3---w11-copilot----83tw0003-l283tw0003cnz_prd-165271/p",
+      "sha256": "f844bf4116c685a25921ce83fb67a3ab3694d6fe1520979146063207698f27f4"
+    },
+    {
+      "sku": "L283TW0003CNZB",
+      "group": "IN",
+      "name": "PLP",
+      "path": "Evidencias_PLP/IN/L283TW0003CNZB_20261125_151658_PLP.png",
+      "captured_at": "2026-11-25T15:16:58-03:00",
+      "url": "https://site.fastshop.com.br/s?q=sku.reference%3AL283TW0003CNZB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "8aaf874848c739046fb7f4b3fc553dcb8a06fac126948334095ef562e94f04e7"
+    },
+    {
+      "sku": "TK98P8LPTOB",
+      "group": "VD",
+      "name": "PDP",
+      "path": "Evidencias_PDP/VD/TK98P8LPTOB_20261125_151713_PDP.png",
+      "captured_at": "2026-11-25T15:17:13-03:00",
+      "url": "https://site.fastshop.com.br/smart-tv-4k-tcl-advanced-qd-mini-led-98%E2%80%9D-polegadas-com-google-tv--144hz-vrr--controle-preciso-de-iluminacao-e-tela-hva--tk98p8lpto_prd-183605/p",
+      "sha256": "a80a084621a1281dab277d33aaa9932a2030187f6c67c1e897207032e8bed9e0"
+    },
+    {
+      "sku": "TK98P8LPTOB",
+      "group": "VD",
+      "name": "PLP",
+      "path": "Evidencias_PLP/VD/TK98P8LPTOB_20261125_151712_PLP.png",
+      "captured_at": "2026-11-25T15:17:12-03:00",
+      "url": "https://site.fastshop.com.br/s?q=sku.reference%3ATK98P8LPTOB&fuzzy=0&operator=and&facets=fuzzy%2Coperator&sort=score_desc&page=0",
+      "sha256": "7b1a4f07a4fcfb145fb490a0e5215c7552f5fca5fac0f57ed11772891d74cab8"
+    }
+  ]
+}
